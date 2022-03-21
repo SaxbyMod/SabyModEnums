@@ -2,9 +2,6 @@
 |Value | Description |
 |-|-|
 | ChoiceNode | Defines the card to be a choice option |
-| GBCPack | Can be acquired by buing a card pack in act 2 |
-| GBCPlayable | Can show up in the card catalogue in act 2 |
-| Part3Random | Can show up as card from the Loot sigil |
 | Rare | Defines the card to be rare |
 | TraderOffer | Can show up at the trader in act 1 |
 ___
@@ -20,9 +17,6 @@ ___
 |Value | Description |
 |-|-|
 | Nature | Will show up in act 1 and be in Beast card packs |
-| Undead | Will show up in Undead card packs                |
-| Tech | Will show up in act 3 and Tech card packs          |
-| Wizard | Will show up in Wizard card packs                |
 ___
 ### GemType
 |Value |
@@ -38,7 +32,6 @@ ___
 |Bell | Displays the Bell icon for the cards attack                           |
 |Bones | Displays the Lammergeier's Bone icon for the cards attack and health |
 |CardsInHand | Displays the Hand Counter icon for the cards attack            |
-|GreenGems | Displays the Green Mox icon for of cards attack                  |
 |Mirror | Displays the Mirror icon for the cards attack                       |
 ___
 ### Tribe
@@ -58,23 +51,12 @@ ___
 |Bear | Unused                                                                                                                                                                                   |
 |Blind | Unused                                                                                                                                                                                  |
 |DeathcardCreationNonOption | Cannot be used during creation of the Deathcard                                                                                                                   |
-|EatsWarrens | Unused                                                                                                                                                                            |
-|FeedsStoat | Unused                                                                                                                                                                             |
-|Fused | Will render the card as a stitched card in act 2            |
-|Gem | Will prevent cards with the Gem Dependant sigil from perishing & will explode if ExplodeGems is on the board |
-|Giant | Only used for moon                                                                                                                                                                   |
 |Goat | Will grant you the Boon of the Bone Lord, if sacrificed on the Bone Lord's Altar                                                                                                        |
-|Juvenile | Unused                                                                                                                                                                               |
 |KillsSurvivors | Kills Survivors if used on the campfire                                                                                                                                       |
-|LikesHoney | Unused                                                                                                                                                                             |
 |Pelt | Cannot be sacrificed, can be used to trade for cards during the Trapper/Trader fight & will give no reward at Bone Lord's Alter                                               |
-|ProtectsCub | Unused                                                                                                                                                                            |
 |SatisfiesRingTrial | Satisfies the ring trial before the moon fight                                                                                                                             |
-|Structure | Unused                                                                                                                                                                              |
 |Terrain | Cannot be sacrificed 																																						|
 |Uncuttable | Immune to scissors and hook items                                                                                                                                                  |
-|Undead | Unused                                                                                                                                                                                 |
-|Wolf | Unused                                                                                                                                                                                   |
 ___
 ### SpecialAbilities
 |Value | Description |
@@ -195,7 +177,6 @@ ___
 |SkeletonStrafe | Strafe but spawns skeleton in previous slot                     |
 |Sniper | When attacking, you can choose the target slots                                    |
 |SplitStrike | When attacking, will attack slots adjascent to opposing slot                    |
-|SquirrelOrbit | No effect on player cards                         |
 |SquirrelStrafe | Strafe but spawns squirrel in previous slot                 |
 |SteelTrap | When card dies, it kills the opposing card, and adds a pelt to your hand                             |
 |Strafe | At end of turn, card moves                                  |
@@ -216,7 +197,6 @@ ___
 |Value | Description |                              
 |-|-|                                                                                                                                     
 |AddSnelkDecals | Unused                                                                                          |
-|AlternatingBloodDecal | Renders card with mycologist merged card layout                                                        |
 |AnimatedPortrait | Used for animated portraits                                                                                                |
 |DynamicPortrait | Renders the card's animated portrait (differently)                                                                                       |
 |FullCardPortrait | Renders the card with no stats        |
@@ -225,7 +205,6 @@ ___
 |HologramPortrait | Renders portrait as hologram                                                                                             |
 |RareCardBackground |  Renders card with rare background                                                                                  |
 |RareCardColors | Renders card with inverted colours                                                                                                    |
-|SexyGoat | Randers alternate texture if you have the goat's eyeball |
 |StaticGlitch | Renders the card with the static animation                                                                                          |
 |TerrainBackground | Renders the card with terrain border                                                                               |
 |TerrainLayout | Renders card with terrain card layout                                                                                                 |
