@@ -197,6 +197,8 @@ ___
 ### Allthesigils
 https://inscryption.thunderstore.io/package/AllTheSigils/All_The_Sigils/
 
+
+___
 ### Teeth sigils
 ___
 These are under the GUID of "extraVoid.inscryption.LifeCost"
