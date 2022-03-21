@@ -192,23 +192,6 @@ ___
 |Tutor | When played, you can choose a card in your deck to add to your hand                                    |
 |VirtualReality | Unused                   |
 |WhackAMole | When an empty slot is attacked, will move to that slot                              |
-___
-### AppearanceBehaviour
-|Value | Description |                              
-|-|-|                                                                                                                                     
-|AddSnelkDecals | Unused                                                                                          |
-|AnimatedPortrait | Used for animated portraits                                                                                                |
-|DynamicPortrait | Renders the card's animated portrait (differently)                                                                                       |
-|FullCardPortrait | Renders the card with no stats        |
-|GiantAnimatedPortrait | Used for animated portraits on giant cards                                                                                 |
-|GoldEmission | Renders the card with gold layout                                                                                                  |
-|HologramPortrait | Renders portrait as hologram                                                                                             |
-|RareCardBackground |  Renders card with rare background                                                                                  |
-|RareCardColors | Renders card with inverted colours                                                                                                    |
-|StaticGlitch | Renders the card with the static animation                                                                                          |
-|TerrainBackground | Renders the card with terrain border                                                                               |
-|TerrainLayout | Renders card with terrain card layout                                                                                                 |
-
 
 ___
 ### Allthesigils
