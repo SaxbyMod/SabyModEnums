@@ -200,7 +200,6 @@ https://inscryption.thunderstore.io/package/AllTheSigils/All_The_Sigils/
 
 ___
 ### Teeth sigils
-___
 These are under the GUID of "extraVoid.inscryption.LifeCost"
 
 "Max Energy Gamble" : Pay 6 energy to put 0 to 3 damage on someone's side of the scale
