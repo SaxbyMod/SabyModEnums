@@ -196,3 +196,14 @@ ___
 ___
 ### Allthesigils
 https://inscryption.thunderstore.io/package/AllTheSigils/All_The_Sigils/
+
+### Teeth sigils
+___
+These are under the GUID of "extraVoid.inscryption.LifeCost"
+
+"Max Energy Gamble" : Pay 6 energy to put 0 to 3 damage on someone's side of the scale
+"Cash Converter" : Pay 4 foils to put 1 damage on the opponent's side of the scale
+"Life Converter" : Pay 2 life to gain 2 foils
+"Vamperic Strength" : Pay 3 life to increase power and health by 1
+"Greedy Strength" : Pay 5 currency to increase power and health by 1
+"Die Roll" : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly
