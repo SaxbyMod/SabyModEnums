@@ -187,6 +187,8 @@ ___
 ___
 ### Allthesigils Void Sigils
 
+### GUID IS extraVoid.inscryption.voidSigils
+
 Abundance: [creature] will grant one tooth per instance of Abundance when killed.
 
 Acidic Trail: At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move.
@@ -402,6 +404,8 @@ Appatizing Target: [creature] makes for a great target, causing the creature opp
 Broken: (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies.
 ___
 ### Allthesigils Memez sigils
+
+### GUID IS org.memez4life.inscryption.customsigils
 Bond: When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is.
 
 Short: A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil.
