@@ -134,14 +134,9 @@ ___
 |DrawRandomCardOnDeath | Will draw a random card with the Par3Random meta category on death               |
 |DrawVesselOnHit | When taking damage, will draw a card from side deck                    |
 |DropRubyOnDeath | When card dies, spawn a ruby mox in its place                       |
-|EdaxioArms | Unused                        |
-|EdaxioHead | Unused                        |
-|EdaxioLegs | Unused                                |
-|EdaxioTorso | Unused		                        |
 |Evolve | After a number of turns based on evolveParams, will turn into a card based on evolveParams                                 |
 |ExplodeGems | When a card with the Gem trait dies, will cause them to explode                       |
 |ExplodeOnDeath | When card dies, deals 10 damage to adjascent and opposing card                         |
-|ExplodingCorpse | Unused                 |
 |FileSizeDamage | Nothing unless in archavist boss battle                        |
 |Flying | When attacking, will attack directly                                  |
 |GainAttackOnKill | Gets +1/+0 for the rest of the battle whenever it kills a creature |
@@ -151,9 +146,7 @@ ___
 |GainGemOrange | Counts as Orange gem cost                         |
 |GainGemTriple | Counts as all 3 gems when in play                          |
 |GemDependant | When played, and at start of turn, will die if you control no gems                       |
-|GemsDraw | Unused                       |
-|GuardDog | When a card is played opposite an empty slot, will move there                                |
-|Haunter | Unused                                  |
+|GuardDog | When a card is played opposite an empty slot, will move there                                |                        |
 |HydraEgg | Bizarre ability that will cause the card to transform into a Hydra if the player's deck contains cards with 1-5 attack, 1-5 health, and one of each of the game's default tribes |
 |IceCube | When card dies, spawns card in slot based on IceCubeParams                             |
 |LatchBrittle | When card dies, you can choose another card to give Brittle                       |
@@ -173,7 +166,6 @@ ___
 |Sentry | When a card is enters the slot in front of this card, it is dealt 1 damage                                    |
 |Sharp | When attacked, will deal 1 damage to attacker                               |
 |ShieldGems | When played, will give cards with the Gem trait DeathShield                          |
-|Sinkhole | Unused                                  |
 |SkeletonStrafe | Strafe but spawns skeleton in previous slot                     |
 |Sniper | When attacking, you can choose the target slots                                    |
 |SplitStrike | When attacking, will attack slots adjascent to opposing slot                    |
@@ -190,7 +182,6 @@ ___
 |TripleBlood | Counts as 3 blood when sacrificed                     |
 |TriStrike | When attacking, will attack opposing slot, and slots adjascent to opposing slot                     |
 |Tutor | When played, you can choose a card in your deck to add to your hand                                    |
-|VirtualReality | Unused                   |
 |WhackAMole | When an empty slot is attacked, will move to that slot                              |
 
 ___
