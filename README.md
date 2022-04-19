@@ -187,7 +187,7 @@ ___
 ___
 ### Allthesigils Void Sigils
 
-### GUID IS extraVoid.inscryption.voidSigils
+### GUID IS extraVoid.inscryption.voidSigils Good
 
 Abundance: [creature] will grant one tooth per instance of Abundance when killed.
 
@@ -196,6 +196,8 @@ Acidic Trail: At the end of the towner's turn, [creature] will move in the direc
 Agile: When a [creature] would be struck, it will move out of the way.
 
 Antler Bearer: When [creature] is killed, gain three random hooved tribe cards.
+
+Blinding Strike: When [creature] attacks a card, that card gains the random strike sigil.
 
 Blood Growth: When [creature] attacks, the amount of blood it is counted as when sacrificed will increase.
 
@@ -235,6 +237,8 @@ Draw Card: [creature] is played, a card relating to it's ice cube parameter (def
 
 Draw Jackalope: [creature] is played, a Jackalope is created in your hand.
 
+Draw Strafe: When [creature] moves, a card with a movement sigil is created in your hand.
+
 Dwarf: When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox.
 
 Electric: [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target.
@@ -257,14 +261,15 @@ Giant: When [creature] is drawn, it will gain one unit blood of cost, as well as
 
 Grazing: At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature.
 
-
 Gripper: At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can.
 
 Haste: [creature] will attack as soon as it gets played on the board.
 
+Hasteful: [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn.
+
 Herd: [creature] will summon a copy of itself each upkeep, up to three times.
 
-High Tide: While [creature] is on the board, it will grant creatures that are played the waterborne sigil. Does not affect cards that are Airborne.
+High Tide: While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne.
 
 Hourglass: [creature] will cause the opponant to skip their turn when played.
 
@@ -276,7 +281,7 @@ Leech: When [creature] deals damage, it will heal 1 Health for each damage dealt
 
 Life Gambler: At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death.
 
-Low Tide: While [creature] is on the board, it will negate the waterborne sigil of creatures that are played on the board.
+Low Tide: While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side.
 
 Lure: [creature] will cause facedown cards to become face up when attacking.
 
@@ -297,6 +302,9 @@ Pierce: [creature] attacks the card in queue behind it's initial target first wh
 Poisonous: When [creature] perishes, the creature that killed it perishes as well.
 
 Possessor: When [creature] perishes, it will grant a random friendly card it's base power and health.
+
+Powerful Possessor: When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health.
+
 Power from Movement: At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round.
 
 Predator: [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card.
@@ -365,6 +373,8 @@ Vicious: When [creature] is attacked, it gains 1 power.
 
 Zapper: When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn.
 
+## Void Bad
+
 Blight: When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for.
 
 Random Strike: [creature] will strike at opponent slots randomly when it attacks.
@@ -391,21 +401,18 @@ Recoil: [creature] will take 1 damage each time they attack.
 
 Sickness: [creature] will loose 1 attack each time it declares an attack.
 
+Sluggish: [creature] will not attack during normal combat. It will instead attack after the Opponent's cards attack.
+
 Tooth bargain: When [creature] is played, it will put 1 point of damage of it's opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale.
 
 Transient: At the end of the owner's turn, [creature] will return to your hand.
 
-Withering: [creature] will perish at the end of the opponant's turn.
-
-Ambush: (a port of Sentry from act 3, but more theme'd to act 1) A creature with this sigil will strike at a card that comes infront of it.
-
-Appatizing Target: [creature] makes for a great target, causing the creature opposing a card bearing this sigil to gain 1 power.
-
-Broken: (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies.
+Withering: [creature] will perish at the end of the opponent's turn.
 ___
 ### Allthesigils Memez sigils
 
-### GUID IS org.memez4life.inscryption.customsigils
+## GUID IS org.memez4life.inscryption.customsigils Good
+
 Bond: When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is.
 
 Short: A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil.
@@ -470,6 +477,8 @@ Puppets gift: As long as a card bearing this sigil is on the board any cards wit
 
 Instant: A card bearing this sigil will perish immediately after its played.
 
+## Memez Bad
+
 Exhaustion: The attack of a card bearing this sigil will be decreased by the same amount as its lost health.
 
 Picky: A Card bearing this sigil cannnot be summoned using any free cards as sacrifice.
@@ -477,6 +486,7 @@ Picky: A Card bearing this sigil cannnot be summoned using any free cards as sac
 Fearful: When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand.
 
 Rushing march: At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes.
+
 ___
 ### Teeth sigils
 These are under the GUID of "extraVoid.inscryption.LifeCost"
