@@ -217,7 +217,7 @@ Coin Finder: At the end of the owner's turn, [creature] will grant the owner 1 f
 
 Consumer: When [creature] kills another creature, it gains 2 health.
 
-Deadly Waters: [creature] will kill cards that attacked over it while it was face-down.
+Deadly Waters: [creature] will kill cards that attacked over it while it was face-down.  - Temp removal
 
 Deathburst: [creature] will deal 1 damage to each oppsing space to the left, right, and center of it.
 
