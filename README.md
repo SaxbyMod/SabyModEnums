@@ -93,13 +93,11 @@ ___
 |ActivatedDrawSkeleton | When activated for 1 bone, draws a skeleton                 |
 |ActivatedEnergyToBones | Converts energy to bones                  |
 |ActivatedHeal | When activated for 2 bones, heals to full                      |
-|ActivatedRandomPowerBone | Unused                  |
 |ActivatedRandomPowerEnergy | When activated for 1 energy, gains a random attack boost between 1 and 6 (inclusive)            |
 |ActivatedSacrificeDrawCards | When activated, draw 3 cards, then die         |
 |ActivatedStatsUp | When activated for 2 bones, gain +1/+1                         |
 |ActivatedStatsUpEnergy |  When activated for 3 energy, gains +1/+1                |
 |AllStrike | If there are any opposing cards, it will attack all of them, otherwise it will attack directly                           |
-|Apparition | Unused                            |
 |BeesOnHit | When taking damage, will add a bee to your hand                            |
 |BombSpawner | Spawns bombs on every empty board slot                          |
 |BoneDigger | At end of turn, add 1 bone                           |
@@ -177,7 +175,7 @@ ___
 |Submerge | After attacking, will sumberge, meaning it can't be attacked                              |
 |SubmergeSquid | Waterborne but becomes random tentacle card on resurface                 |
 |SwapStats | When taking damage, will swap attack and health                              |
-|TailOnHit | When attacked, will move and spawn a card in previous slot based on tailParams, then loses this ability.                             |
+|TailOnHit | When attacked, will move and spawn a card in previous slot based on tailParams, then loses this ability.      |
 |Transformer | Same as evolve with different sigil icon                          |
 |TripleBlood | Counts as 3 blood when sacrificed                     |
 |TriStrike | When attacking, will attack opposing slot, and slots adjascent to opposing slot                     |
