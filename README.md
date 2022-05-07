@@ -504,6 +504,9 @@ These are under the GUID of "extraVoid.inscryption.LifeCost"
 "Die Roll" : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly
 
 ### Our Sigils bitty45.inscryption.saxbyfam
+
 Heart Swap: All cards swap power and health
+
 Draw Squirrel: Self explanatory
+
 "Mutual Hire" When this card is played, summon a copy of it in the space across from this
