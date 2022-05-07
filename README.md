@@ -526,3 +526,9 @@ Heart Swap: All cards swap power and health
 Draw Squirrel: Self explanatory
 
 "Mutual Hire" When this card is played, summon a copy of it in the space across from this
+
+Sigil Roll: Pay 4 life to gain a random sigil
+
+Health Roll: Pay 1 energy to make health become 1-3
+
+Charged Barage: Pay 4 life to increase Power Of All Cards
