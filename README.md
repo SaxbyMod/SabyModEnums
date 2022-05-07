@@ -181,6 +181,24 @@ ___
 |TriStrike | When attacking, will attack opposing slot, and slots adjascent to opposing slot                     |
 |Tutor | When played, you can choose a card in your deck to add to your hand                                    |
 |WhackAMole | When an empty slot is attacked, will move to that slot                              |
+___
+### AppearanceBehaviour
+|Value | Description |                              
+|-|-|                                                                                                                                     
+|AddSnelkDecals | Unused                                                                                          |
+|AlternatingBloodDecal | Renders card with mycologist merged card layout                                                        |
+|AnimatedPortrait | Used for animated portraits                                                                                                |
+|DynamicPortrait | Renders the card's animated portrait (differently)                                                                                       |
+|FullCardPortrait | Renders the card with no stats        |
+|GiantAnimatedPortrait | Used for animated portraits on giant cards                                                                                 |
+|GoldEmission | Renders the card with gold layout                                                                                                  |
+|HologramPortrait | Renders portrait as hologram                                                                                             |
+|RareCardBackground |  Renders card with rare background                                                                                  |
+|RareCardColors | Renders card with inverted colours                                                                                                    |
+|SexyGoat | Randers alternate texture if you have the goat's eyeball |
+|StaticGlitch | Renders the card with the static animation                                                                                          |
+|TerrainBackground | Renders the card with terrain border                                                                               |
+|TerrainLayout | Renders card with terrain card layout                                                                                                 |
 
 ___
 ### Allthesigils Void Sigils
