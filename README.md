@@ -532,3 +532,7 @@ Sigil Roll: Pay 4 life to gain a random sigil
 Health Roll: Pay 1 energy to make health become 1-3
 
 Charged Barage: Pay 4 life to increase Power Of All Cards
+
+Camera Gives player a copy of the card you killed
+
+Grimora's Quill Spawns 0 attack 1 health corpses
