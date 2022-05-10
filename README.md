@@ -519,7 +519,7 @@ These are under the GUID of "extraVoid.inscryption.LifeCost"
 
 "Die Roll" : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly
 
-### Our Sigils bitty45.inscryption.saxbyfam
+### Bitty's Sigils bitty45.inscryption.sigils
 
 Heart Swap: All cards swap power and health
 
@@ -533,6 +533,8 @@ Health Roll: Pay 1 energy to make health become 1-3
 
 Charged Barage: Pay 4 life to increase Power Of All Cards
 
-Camera Gives player a copy of the card you killed
+Wildlife Camera: Gives player a copy of the card you killed
 
-Grimora's Quill Spawns 0 attack 1 health corpses
+Dusty Quill: when a card dies while a card with this sigil is on the board a corpse is spawned. Corpse is defined as: Health - 1, Attack - 0
+
+Bleached Brush: Activates Bleach effect
