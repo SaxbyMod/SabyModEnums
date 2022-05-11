@@ -521,16 +521,34 @@ These are under the GUID of "extraVoid.inscryption.LifeCost"
 
 ### Bitty's Sigils bitty45.inscryption.sigils
 
-- **Heart Swap**: On play, swaps the health and power of all cards on the board.
+Heart Swap: All cards swap power and health
 
-- **Squirrel Gift**: On play, draw a squirrel.
+Draw Squirrel: Self explanatory
 
-- **Mutual Hire** : On play, a copy of the played card is created opposing it.
+"Mutual Hire" When this card is played, summon a copy of it in the space across from this
 
-- **Charged Barrage**: Activate: Pay 4 Life to increase the power of all cards on your side of the board by 1.
+Sigil Roll: Pay 4 life to gain a random sigil
 
-- **Health Roll**: Activate: Pay 1 Energy to SET a card's health from 1-3. (Does not add health, only sets.)
+Health Roll: Pay 1 energy to make health become 1-3
 
-- **Sigil Roll**: Activate: Pay 4 Life to add a random sigil to the base card.
+Charged Barage: Pay 4 life to increase Power Of All Cards
 
-- **Camera**: When a card bearing this sigil kills another, create a copy of the killed card in your hand.
+Wildlife Camera: Gives player a copy of the card you killed
+
+Dusty Quill: when a card dies while a card with this sigil is on the board a corpse is spawned. Corpse is defined as: Health - 1, Attack - 0
+
+Bleached Brush: Activates Bleach effect on opposing card
+
+Weak Soul: A card bearing this sigil may not have its sigils transferred to another card.
+
+Nonexistent Soul: A card bearing this sigil may not have sigils transferred to, or from this card.
+
+Champion: A card bearing this sigil will not take damage from other cards except from combat. (WIP)
+
+Repulsion: A card bearing this sigil may not attack.
+
+Mysterious Mushrooms: At the end of the turn, if there is a card on either side of a card bearing this sigil, they are fused together.
+
+Sticky: At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Creatures opposing it will be moved in the same direction.
+
+Hauler: At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.
