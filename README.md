@@ -523,8 +523,6 @@ These are under the GUID of "extraVoid.inscryption.LifeCost"
 
 Heart Swap: All cards swap power and health
 
-Draw Squirrel: Self explanatory
-
 "Mutual Hire" When this card is played, summon a copy of it in the space across from this
 
 Sigil Roll: Pay 4 life to gain a random sigil
