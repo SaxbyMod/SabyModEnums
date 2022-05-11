@@ -521,20 +521,16 @@ These are under the GUID of "extraVoid.inscryption.LifeCost"
 
 ### Bitty's Sigils bitty45.inscryption.sigils
 
-Heart Swap: All cards swap power and health
+- **Heart Swap**: On play, swaps the health and power of all cards on the board.
 
-Draw Squirrel: Self explanatory
+- **Squirrel Gift**: On play, draw a squirrel.
 
-"Mutual Hire" When this card is played, summon a copy of it in the space across from this
+- **Mutual Hire** : On play, a copy of the played card is created opposing it.
 
-Sigil Roll: Pay 4 life to gain a random sigil
+- **Charged Barrage**: Activate: Pay 4 Life to increase the power of all cards on your side of the board by 1.
 
-Health Roll: Pay 1 energy to make health become 1-3
+- **Health Roll**: Activate: Pay 1 Energy to SET a card's health from 1-3. (Does not add health, only sets.)
 
-Charged Barage: Pay 4 life to increase Power Of All Cards
+- **Sigil Roll**: Activate: Pay 4 Life to add a random sigil to the base card.
 
-Wildlife Camera: Gives player a copy of the card you killed
-
-Dusty Quill: when a card dies while a card with this sigil is on the board a corpse is spawned. Corpse is defined as: Health - 1, Attack - 0
-
-Bleached Brush: Activates Bleach effect
+- **Camera**: When a card bearing this sigil kills another, create a copy of the killed card in your hand.
