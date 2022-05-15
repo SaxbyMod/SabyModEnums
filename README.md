@@ -298,45 +298,29 @@ ___
 |Zapper | When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn |
 ___
 ## Void Bad
-
-Blight: When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for.
-
-Random Strike: [creature] will strike at opponent slots randomly when it attacks.
-
-Bombardier: [creature] will deal 10 damage to a random creature during the end phase of the owner's turn.
-
-Boneless: [creature] gives no bones! Any bones gained from sigils or death will be negated.
-
-Burning: [creature] is on fire, and will gain 1 power and loose 1 health each upkeep.
-
-Cowardly: [creature] will not attack a card with a power 2 higher than its own.
-
-Dying: [creature] will die after X number of turns. --- you can control how long a creature takes to die by setting the custom propery "void_dying_count"
-
-Injured: [creature] is hurt and will lose 1 health each time it declares an attack due to the strain of the injuries.
-
-Paralysis: [creature] will only attack every other turn. Some effects from sigils may bypass this.
-
-Pathetic Sacrifice: [creature] is so pathetic, it is not a worthy or noble sacrifice. A card with this sigil is meant to stay on the board, and thus can't be targeted by the hammer.
-
-Prideful: [creature] will not attack a card with a power 2 lower than its own.
-
-Recoil: [creature] will take 1 damage each time they attack.
-
-Sickness: [creature] will loose 1 attack each time it declares an attack.
-
-Sluggish: [creature] will not attack during normal combat. It will instead attack after the Opponent's cards attack.
-
-Tooth bargain: When [creature] is played, it will put 1 point of damage of it's opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale.
-
-Transient: At the end of the owner's turn, [creature] will return to your hand.
-
-Withering: [creature] will perish at the end of the opponent's turn.
+|Name | Description |
+|-|-|
+|Blight | When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for |
+|Bombardier | [creature] will deal 10 damage to a random creature during the end phase of the owner's turn |
+|Boneless | [creature] gives no bones! Any bones gained from sigils or death will be negated |
+|Burning | [creature] is on fire, and will gain 1 power and loose 1 health each upkeep |
+|Cowardly | [creature] will not attack a card with a power 2 higher than its own |
+|Dying | [creature] will die after X number of turns. --- you can control how long a creature takes to die by setting the custom propery "void_dying_count" |
+|Injured | [creature] is hurt and will lose 1 health each time it declares an attack due to the strain of the injuries |
+|Paralysis | [creature] will only attack every other turn. Some effects from sigils may bypass this |
+|Pathetic Sacrifice | [creature] is so pathetic, it is not a worthy or noble sacrifice. A card with this sigil is meant to stay on the board, and thus can't be targeted by the hammer |
+|Prideful | [creature] will not attack a card with a power 2 lower than its own |
+|Recoil | [creature] will take 1 damage each time they attack |
+|Random Strike | [creature] will strike at opponent slots randomly when it attacks |
+|Sickness | [creature] will loose 1 attack each time it declares an attack |
+|Sluggish | [creature] will not attack during normal combat. It will instead attack after the Opponent's cards attack |
+|Tooth bargain | When [creature] is played, it will put 1 point of damage of it's opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale |
+|Transient | At the end of the owner's turn, [creature] will return to your hand |
+|Withering | [creature] will perish at the end of the opponent's turn |
 ___
-### Allthesigils Memez sigils
-
 ## GUID IS org.memez4life.inscryption.customsigils Good
-
+|Name | Description |
+|-|-|
 Bond: When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is.
 
 Short: A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil.
@@ -402,7 +386,8 @@ Puppets gift: As long as a card bearing this sigil is on the board any cards wit
 Instant: A card bearing this sigil will perish immediately after its played.
 
 ## Memez Bad
-
+|Name | Description |
+|-|-|
 Exhaustion: The attack of a card bearing this sigil will be decreased by the same amount as its lost health.
 
 Picky: A Card bearing this sigil cannnot be summoned using any free cards as sacrifice.
@@ -412,9 +397,9 @@ Fearful: When a card bearing this sigil is struck without it resulting in death,
 Rushing march: At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes.
 
 ___
-### Teeth sigils
-These are under the GUID of "extraVoid.inscryption.LifeCost"
-
+### Teeth sigils extraVoid.inscryption.LifeCost
+|Name | Description |
+|-|-|
 "Max Energy Gamble" : Pay 6 energy to put 0 to 3 damage on someone's side of the scale
 
 "Cash Converter" : Pay 4 foils to put 1 damage on the opponent's side of the scale
