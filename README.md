@@ -281,37 +281,22 @@ ___
 |Take-Off (Bones) | Pay 2 bones to give this card Airborne till the start of the owner's next turn |
 |Take-Off (Energy) | Pay 2 energy to give this card Airborne till the start of the owner's next turn |
 |Thick Shell | When attacked, [creature] takes 1 less damage |
-
-Thief: [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does.
-
-Toothpuller: At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale.
-
-Tooth Shard: [creature] will generate 1 foil when hit, if it lives through the attack.
-
-Toxin: When [creature] damages another creature, that creature looses 1 power and 1 health.
-
-Toxin (Deadly): When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one health.
-
-Toxin (Sickening): When [creature] damages another creature, that creature gains the Sickness Sigil. The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack.
-
-Toxin (Strength): When [creature] damages another creature, that creature looses 1 power.
-
-Toxin (Vigor): When [creature] damages another creature, that creature looses 1 health.
-
-Trample: When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner.
-
-Tribal Ally: When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless.
-
-Tribal Tutor: When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless.
-
-Turbulent Waters: [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn.
-
-Velocity: At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health.
-
-Vicious: When [creature] is attacked, it gains 1 power.
-
-Zapper: When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn.
-
+|Thief | [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does |
+|Toothpuller | At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale |
+|Tooth Shard | [creature] will generate 1 foil when hit, if it lives through the attack |
+|Toxin | When [creature] damages another creature, that creature looses 1 power and 1 health |
+|Toxin (Deadly) | When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one health |
+|Toxin (Sickening) | When [creature] damages another creature, that creature gains the Sickness Sigil. The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack |
+|Toxin (Strength) | When [creature] damages another creature, that creature looses 1 power |
+|Toxin (Vigor) | When [creature] damages another creature, that creature looses 1 health |
+|Trample | When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner |
+|Tribal Ally | When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless |
+|Tribal Tutor | When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless |
+|Turbulent Waters | [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn |
+|Velocity | At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health |
+|Vicious | When [creature] is attacked, it gains 1 power |
+|Zapper | When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn |
+___
 ## Void Bad
 
 Blight: When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for.
