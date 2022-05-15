@@ -231,58 +231,32 @@ ___
 |Draw Strafe | When [creature] moves, a card with a movement sigil is created in your hand |
 |Dwarf | When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox |
 |Electric | [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target |
-
-Enforcer: At the start of the owner's turn, [creature] will cause adjacent creatures to attack.
-
-Enrage: [creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck.
-
-Entomophage: [creature] will deal 2 additional damage to cards of the insect tribe.
-
-Familiar: A familiar will help with attacking when it's adjacent allies attack a card.
-
-Firestarter: When [creature] damages another creature, that creature will gain the Burning Sigil. The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health.
-
-Fish Hook: When [creature], a targeted card is moved to your side of the board.
-
-Frightful: [creature] will cause opposing creatures to move out of the way when it attacks.
-
-Giant: When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health.
-
-Grazing: At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature.
-
-Gripper: At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can.
-
-Haste: [creature] will attack as soon as it gets played on the board.
-
-Hasteful: [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn.
-
-Herd: [creature] will summon a copy of itself each upkeep, up to three times.
-
-High Tide: While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne.
-
-Hourglass: [creature] will cause the opponant to skip their turn when played.
-
-Lead (Bones): Pay 2 bones to move this card one slot in the direction inscribed on the sigil.
-
-Lead (Energy): Pay 2 energy to move this card one slot in the direction inscribed on the sigil.
-
-Leech: When [creature] deals damage, it will heal 1 Health for each damage dealt to a card.
-
-Life Gambler: At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death.
-
-Low Tide: While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side.
-
-Lure: [creature] will cause facedown cards to become face up when attacking.
-
-Maneuver: At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil.
-
-Medic: At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic.
-
-Midas: [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has.
-
-Multi-Strike: [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger -on attack- or -on damage- effects with the extra strikes.
-
-Nutritious: When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for.
+|Enforcer | At the start of the owner's turn, [creature] will cause adjacent creatures to attack |
+|Enrage | [creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck |
+|Entomophage | [creature] will deal 2 additional damage to cards of the insect tribe |
+|Familiar | A familiar will help with attacking when it's adjacent allies attack a card |
+|Firestarter | When [creature] damages another creature, that creature will gain the Burning Sigil. The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health |
+|Fish Hook | When [creature], a targeted card is moved to your side of the board |
+|Frightful | [creature] will cause opposing creatures to move out of the way when it attacks |
+|Giant | When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health |
+|Grazing | At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature |
+|Gripper | At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can |
+|Haste | [creature] will attack as soon as it gets played on the board |
+|Hasteful | [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn |
+|Herd | [creature] will summon a copy of itself each upkeep, up to three times |
+|High Tide | While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne |
+|Hourglass | [creature] will cause the opponant to skip their turn when played |
+|Lead (Bones) | Pay 2 bones to move this card one slot in the direction inscribed on the sigil |
+|Lead (Energy) | Pay 2 energy to move this card one slot in the direction inscribed on the sigil |
+|Leech | When [creature] deals damage, it will heal 1 Health for each damage dealt to a card |
+|Life Gambler | At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death |
+|Low Tide | While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side |
+|Lure | [creature] will cause facedown cards to become face up when attacking |
+|Maneuver | At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil |
+|Medic | At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic |
+|Midas | [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has |
+|Multi-Strike | [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger -on attack- or -on damage- effects with the extra strikes |
+|Nutritious | When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for |
 
 Opportunist: [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty.
 
