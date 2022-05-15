@@ -201,31 +201,20 @@ ___
 |TerrainLayout | Renders card with terrain card layout                                                                                                 |
 
 ___
-### Allthesigils Void Sigils
-
 ### GUID IS extraVoid.inscryption.voidSigils Good
-
-Abundance: [creature] will grant one tooth per instance of Abundance when killed.
-
-Acidic Trail: At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move.
-
-Agile: When a [creature] would be struck, it will move out of the way.
-
-Antler Bearer: When [creature] is killed, gain three random hooved tribe cards.
-
-Blinding Strike: When [creature] attacks a card, that card gains the random strike sigil.
-
-Blood Growth: When [creature] attacks, the amount of blood it is counted as when sacrificed will increase.
-
-BloodGuzzler: [creature] deals damage, it gains 1 Health for each damage dealt.
-
-Bodyguard: [creature] will redirect the initial attack of a card to it, if the attack was targeting an adjacent space.
-
-Box: [creature] will get removed from your deck on death, and a new creature contained within will be added to it.
-
-Bone Picker: [creature] kills a creature, it will generate 1 Bone.
-
-Bone Shard: [creature] will generate 1 bone when hit, if it lives through the attack.
+|Name | Description |
+|-|-|
+|Abundance | [creature] will grant one tooth per instance of Abundance when killed |
+|Acidic Trail | At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move |
+|Agile | When a [creature] would be struck, it will move out of the way |
+|Antler Bearer | When [creature] is killed, gain three random hooved tribe cards |
+|Blinding Strike | When [creature] attacks a card, that card gains the random strike sigil |
+|Blood Growth | When [creature] attacks, the amount of blood it is counted as when sacrificed will increase |
+|BloodGuzzler | [creature] deals damage, it gains 1 Health for each damage dealt |
+|Bodyguard | [creature] will redirect the initial attack of a card to it, if the attack was targeting an adjacent space |
+|Box | [creature] will get removed from your deck on death, and a new creature contained within will be added to it |
+|Bone Picker | [creature] kills a creature, it will generate 1 Bone |
+|Bone Shard | [creature] will generate 1 bone when hit, if it lives through the attack |
 
 Caustic: At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil.
 
