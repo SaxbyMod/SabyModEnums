@@ -215,38 +215,22 @@ ___
 |Box | [creature] will get removed from your deck on death, and a new creature contained within will be added to it |
 |Bone Picker | [creature] kills a creature, it will generate 1 Bone |
 |Bone Shard | [creature] will generate 1 bone when hit, if it lives through the attack |
-
-Caustic: At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil.
-
-Coin Finder: At the end of the owner's turn, [creature] will grant the owner 1 foil..
-
-Consumer: When [creature] kills another creature, it gains 2 health.
-
-Deadly Waters: [creature] will kill cards that attacked over it while it was face-down.  - Temp removal
-
-Deathburst: [creature] will deal 1 damage to each oppsing space to the left, right, and center of it.
-
-Desperation: [creature] is damaged to 1 health, it will gain 3 power.
-
-Disease Absorbtion: When played, [creature] will take all negative sigils from the player's side onto itself.
-
-Dive (Bones): Pay 2 bones to cause this card to flip face down at the end of the owner's turn.
-
-Dive (Energy): Pay 2 energy to cause this card to flip face down at the end of the owner's turn.
-
-Draw Blood: [creature] is played, a card costing blood is created in your hand.
-
-Draw Bone: [creature] is played, a card costing bone is created in your hand.
-
-Draw Card: [creature] is played, a card relating to it's ice cube parameter (default Opossum) is created in your hand.
-
-Draw Jackalope: [creature] is played, a Jackalope is created in your hand.
-
-Draw Strafe: When [creature] moves, a card with a movement sigil is created in your hand.
-
-Dwarf: When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox.
-
-Electric: [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target.
+|Caustic | At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil |
+|Coin Finder |At the end of the owner's turn, [creature] will grant the owner 1 foil |
+|Consumer | When [creature] kills another creature, it gains 2 health |
+|Deadly Waters | [creature] will kill cards that attacked over it while it was face-down |
+|Deathburst | [creature] will deal 1 damage to each oppsing space to the left, right, and center of it |
+|Desperation | [creature] is damaged to 1 health, it will gain 3 power |
+|Disease Absorbtion | When played, [creature] will take all negative sigils from the player's side onto itself |
+|Dive (Bones) | Pay 2 bones to cause this card to flip face down at the end of the owner's turn |
+|Dive (Energy) | Pay 2 energy to cause this card to flip face down at the end of the owner's turn |
+|Draw Blood | [creature] is played, a card costing blood is created in your hand |
+|Draw Bone | [creature] is played, a card costing bone is created in your hand. |
+|Draw Card | [creature] is played, a card relating to it's ice cube parameter (default Opossum) is created in your hand |
+|Draw Jackalope | [creature] is played, a Jackalope is created in your hand |
+|Draw Strafe | When [creature] moves, a card with a movement sigil is created in your hand |
+|Dwarf | When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox |
+|Electric | [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target |
 
 Enforcer: At the start of the owner's turn, [creature] will cause adjacent creatures to attack.
 
