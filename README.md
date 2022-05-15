@@ -369,34 +369,22 @@ ___
 ## Memez Bad
 |Name | Description |
 |-|-|
-Exhaustion: The attack of a card bearing this sigil will be decreased by the same amount as its lost health.
-
-Picky: A Card bearing this sigil cannnot be summoned using any free cards as sacrifice.
-
-Fearful: When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand.
-
-Rushing march: At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes.
-
+|Exhaustion | The attack of a card bearing this sigil will be decreased by the same amount as its lost health |
+|Fearful | When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand |
+|Picky | A Card bearing this sigil cannnot be summoned using any free cards as sacrifice |
+|Rushing march | At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes |
 ___
 ### Teeth sigils extraVoid.inscryption.LifeCost
 |Name | Description |
 |-|-|
-"Max Energy Gamble" : Pay 6 energy to put 0 to 3 damage on someone's side of the scale
-
-"Cash Converter" : Pay 4 foils to put 1 damage on the opponent's side of the scale
-
-"Life Converter" : Pay 2 life to gain 2 foils
-
-"Vamperic Strength" : Pay 3 life to increase power and health by 1
-
-"Greedy Strength" : Pay 5 currency to increase power and health by 1
-
-"Die Roll" : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly
-
+|Cash Converter | Pay 4 foils to put 1 damage on the opponent's side of the scale |
+|Greedy Strength | Pay 5 currency to increase power and health by 1 |
+|Max Energy Gamble | Pay 6 energy to put 0 to 3 damage on someone's side of the scale |
+|Life Converter | Pay 2 life to gain 2 foils |
+|Vamperic Strength | Pay 3 life to increase power and health by 1 |
+|Die Roll | : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly |
+___
 ### Bitty's Sigils bitty45.inscryption.sigils
-
-22 Sigils:
-
 |Name|Description|
 |:-|:-|
 |Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.|
