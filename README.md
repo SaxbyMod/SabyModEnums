@@ -257,54 +257,30 @@ ___
 |Midas | [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has |
 |Multi-Strike | [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger -on attack- or -on damage- effects with the extra strikes |
 |Nutritious | When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for |
-
-Opportunist: [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty.
-
-Pierce: [creature] attacks the card in queue behind it's initial target first when declaring an attack.
-
-Poisonous: When [creature] perishes, the creature that killed it perishes as well.
-
-Possessor: When [creature] perishes, it will grant a random friendly card it's base power and health.
-
-Powerful Possessor: When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health.
-
-Power from Movement: At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round.
-
-Predator: [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card.
-
-Protector: [creature] will attacks on adjacent allies to hit directly.
-
-Ram: [creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side. Does not work during combat.
-
-Random Strafe: [creature] is drawn, it will gain a random strafe sigil.
-
-Regen 1: At the end of the owner's turn, [creature] will regen 1 health.
-
-Regen 2: At the end of the owner's turn, [creature] will regen 2 health.
-
-Regen 3: At the end of the owner's turn, [creature] will regen 3 health.
-
-Regen: At the end of the owner's turn, [creature] will regen all health.
-
-Repellant: When [creature] perishes, the creature that killed it gets pushed into the back row.
-
-Resistant: [creature] will only ever take 1 damage from most things. Some effects might bypass this.
-
-Retaliate: [creature] will strike those who strike their adjacent allies.
-
-Schooling: [creature] will grant creatures with the waterborn sigil to gain 1 power.
-
-Stampede: The creature bearing this sigil will cause adjacent creatures to attack when it is played.
-
-Scissors: When [creature] is played, a targeted card cut in two.
-
-Submerged Ambush: [creature] will deal 1 damage to cards that attacked over it while it was face-down.
-
-Take-Off (Bones): Pay 2 bones to give this card Airborne till the start of the owner's next turn.
-
-Take-Off (Energy): Pay 2 energy to give this card Airborne till the start of the owner's next turn.
-
-Thick Shell: When attacked, [creature] takes 1 less damage.
+|Opportunist | [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty |
+|Pierce | [creature] attacks the card in queue behind it's initial target first when declaring an attack |
+|Poisonous | When [creature] perishes, the creature that killed it perishes as well |
+|Possessor | When [creature] perishes, it will grant a random friendly card it's base power and health |
+|Powerful Possessor | When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health|
+|Power from Movement | At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round |
+|Predator | [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card |
+|Protector | [creature] will attacks on adjacent allies to hit directly |
+|Ram | [creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side. Does not work during combat |
+|Random Strafe | [creature] is drawn, it will gain a random strafe sigil |
+|Regen 1 | At the end of the owner's turn, [creature] will regen 1 health |
+|Regen 2 | At the end of the owner's turn, [creature] will regen 2 health |
+|Regen 3 | At the end of the owner's turn, [creature] will regen 3 health |
+|Regen | At the end of the owner's turn, [creature] will regen all health |
+|Repellant | When [creature] perishes, the creature that killed it gets pushed into the back row |
+|Resistant | [creature] will only ever take 1 damage from most things. Some effects might bypass this |
+|Retaliate | [creature] will strike those who strike their adjacent allies |
+|Schooling | [creature] will grant creatures with the waterborn sigil to gain 1 power |
+|Stampede | The creature bearing this sigil will cause adjacent creatures to attack when it is played |
+|Scissors | When [creature] is played, a targeted card cut in two |
+|Submerged Ambush | [creature] will deal 1 damage to cards that attacked over it while it was face-down |
+|Take-Off (Bones) | Pay 2 bones to give this card Airborne till the start of the owner's next turn |
+|Take-Off (Energy) | Pay 2 energy to give this card Airborne till the start of the owner's next turn |
+|Thick Shell | When attacked, [creature] takes 1 less damage |
 
 Thief: [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does.
 
