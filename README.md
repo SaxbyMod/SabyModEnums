@@ -321,17 +321,19 @@ ___
 ## GUID IS org.memez4life.inscryption.customsigils Good
 |Name | Description |
 |-|-|
-Bond: When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is.
-
-Short: A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil.
-
-Tribe Attack: While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 attack.
-
-Tribe Health: While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 health.
-
-Noble Sacrifice: A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.
-
-Imbuing: A card bearing this sigil will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon the card. buffs:
+|All seeing | While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health |
+|Asleep | A card bearing this sigil has 0 attack for as long as it has this sigil, and this sigil will be removed after 1 turn |
+|Bait | When an opposing creature is played and there is no card opposite of the card bearing this sigil, the opposing create will move to that spot |
+|Blood shifter | When a card bearing this sigils kills another card, it will turn into that card |
+|Bond | When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is |
+|Bone hoarder 1, 2 and 3 | When a card bearing this sigil is played, x bones are rewarded |
+|Bone prince 2 and 3 | When a card bearing this sigil dies, x bones are rewarded instead of 1 |
+|Bone lord 5 and 6 | When a card bearing this sigil dies, x bones are rewarded instead of 1 |
+|Short | A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil |
+|Tribe Attack | While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 attack |
+|Tribe Health | While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 health |
+|Noble Sacrifice | A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed |
+|Imbuing | A card bearing this sigil will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon the card. buffs |
 
 Squirrel, Marginally Better Sacrifice
 Bird, Flying and +1/0
@@ -339,52 +341,23 @@ Canine, Bloodhound and +1/+1
 Hooved, Bifurcated strike
 Insect, Tribe attack
 Reptile, Tail and +0/1
-Charge: Pay 3 bones to choose a enemy creature that a card bearing this sigil will strike.
-
-Superior Sacrifice: A card bearing this sigil is counted as 4 blood rather than 1 blood when sacrificed.
-
-Bone hoarder 1, 2 and 3: When a card bearing this sigil is played, x bones are rewarded.
-
-Bone prince 2 and 3: When a card bearing this sigil dies, x bones are rewarded instead of 1.
-
-Bone lord 5 and 6: When a card bearing this sigil dies, x bones are rewarded instead of 1.
-
-Support call: When a card bearing this sigil is played, a card from your sidedeck is created in your hand.
-
-Host: A card bearing this sigil is the host of other creatures. It will give you such creature when struck. (default: RingWorm)
-
-Bait: When an opposing creature is played and there is no card opposite of the card bearing this sigil, the opposing create will move to that spot.
-
-Spawner: At the end of the owners turn, a card bearing this sigil will move in the direction inscribed in the sigil and create another creature in its old space. (default: Squirrel)
-
-Launcher: At the end of the owner's turn, a card bearing this sigil will create another creature on a random empty space on the owner's side of the table. (default: Squirrel)
-
-Shapeshifter: A card bearing this sigil is ever changing. It will change its form once it's struck. (default: Amoeba)
-
-Linguist: While a card bearing this sigil is on the board, all other talking cards on your side of the board get +1 attack.
-
-All seeing: While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health.
-
-Asleep: A card bearing this sigil has 0 attack for as long as it has this sigil, and this sigil will be removed after 1 turn.
-
-Song of sleep: If a creature moves into the space opposing a card bearing this sigil, that creature will obtain the asleep sigil.
-
-Blood shifter: When a card bearing this sigils kills another card, it will turn into that card.
-
-Warper: At the end of the owner's turn, the creature bearing this sigil will move to the right, it will jump over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side.
-
-Wild hunger: At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed in the sigil, but if it hits a card whilst moving, that card perishes and the card bearing this sigil gains 1+/1+.
-
-Right scratch: When a card bearing this sigil attacks it also attacks the space on the right of the attacked slot.
-
-Left scratch: When a card bearing this sigil attacks it also attacks the space on the left of the attacked slot.
-
-Double scratch: When a card bearing this sigil attacks it attacks twice and the space right and left of the attacked slot.
-
-Puppets gift: As long as a card bearing this sigil is on the board any cards with brittle won't die because of brittle.
-
-Instant: A card bearing this sigil will perish immediately after its played.
-
+|Charge | Pay 3 bones to choose a enemy creature that a card bearing this sigil will strike |
+|Double scratch | When a card bearing this sigil attacks it attacks twice and the space right and left of the attacked slot |
+|Host | A card bearing this sigil is the host of other creatures. It will give you such creature when struck. (default: RingWorm) |
+|Instant | A card bearing this sigil will perish immediately after its played |
+|Launcher | At the end of the owner's turn, a card bearing this sigil will create another creature on a random empty space on the owner's side of the table. (default: Squirrel) |
+|Left scratch | When a card bearing this sigil attacks it also attacks the space on the left of the attacked slot |
+|Linguist | While a card bearing this sigil is on the board, all other talking cards on your side of the board get +1 attack |
+|Puppets gift | As long as a card bearing this sigil is on the board any cards with brittle won't die because of brittle |
+|Right scratch | When a card bearing this sigil attacks it also attacks the space on the right of the attacked slot |
+|Shapeshifter | A card bearing this sigil is ever changing. It will change its form once it's struck. (default: Amoeba) |
+|Song of sleep | If a creature moves into the space opposing a card bearing this sigil, that creature will obtain the asleep sigil |
+|Spawner | At the end of the owners turn, a card bearing this sigil will move in the direction inscribed in the sigil and create another creature in its old space. (default: Squirrel) |
+|Superior Sacrifice | A card bearing this sigil is counted as 4 blood rather than 1 blood when sacrificed |
+|Support call| When a card bearing this sigil is played, a card from your sidedeck is created in your hand |
+|Warper | At the end of the owner's turn, the creature bearing this sigil will move to the right, it will jump over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side |
+|Wild hunger | At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed in the sigil, but if it hits a card whilst moving, that card perishes and the card bearing this sigil gains 1+/1+ |
+___
 ## Memez Bad
 |Name | Description |
 |-|-|
