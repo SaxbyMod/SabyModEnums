@@ -201,7 +201,7 @@ ___
 |TerrainLayout | Renders card with terrain card layout|
 
 ___
-### GUID IS extraVoid.inscryption.voidSigils Good
+### Void Good GUID IS extraVoid.inscryption.voidSigils
 |Name | Description |
 |-|-|
 |Abundance | [creature] will grant one tooth per instance of Abundance when killed |
@@ -318,7 +318,7 @@ ___
 |Transient | At the end of the owner's turn, [creature] will return to your hand |
 |Withering | [creature] will perish at the end of the opponent's turn |
 ___
-## GUID IS org.memez4life.inscryption.customsigils Good
+## Memez Good GUID IS org.memez4life.inscryption.customsigils
 |Name | Description |
 |-|-|
 |All seeing | While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health |
