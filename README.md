@@ -422,12 +422,14 @@ Reptile, Tail and +0/1
 
 <details>
 <summary>Memez Bad</summary>
+  
 |Name | Description |
 |-|-|
 |Exhaustion | The attack of a card bearing this sigil will be decreased by the same amount as its lost health |
 |Fearful | When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand |
 |Picky | A Card bearing this sigil cannnot be summoned using any free cards as sacrifice |
 |Rushing march | At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes |
+  
 </details>
 
 <details>
