@@ -30,14 +30,20 @@
 
 </details>
 
-GemType
+<details>
+<summary>GemType</summary>
+
 |Value |
 |-|
 |Blue  |
 |Green |
 |Orange|
-___
-### SpecialIcon
+  
+</details>
+
+<details>
+<summary>SpecialIcon</summary>
+
 |Value | Description |
 |-|-|
 |Ants | Displays the Ants icon for the cards attack                           |
@@ -45,6 +51,8 @@ ___
 |Bones | Displays the Lammergeier's Bone icon for the cards attack and health |
 |CardsInHand | Displays the Hand Counter icon for the cards attack            |
 |Mirror | Displays the Mirror icon for the cards attack                       |
+
+</details>
 ___
 ### Tribe
 |Value |
