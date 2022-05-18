@@ -6,6 +6,7 @@
 | Rare | Defines the card to be rare |
 | TraderOffer | Can show up at the trader in act 1 |
 </details>
+
 ___
 ### Complexity
 |Value | Description |
