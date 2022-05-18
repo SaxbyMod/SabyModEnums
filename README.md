@@ -21,13 +21,16 @@
   
 </details>
 
-___
-### Temple
+<details>
+<summary>Temple</summary>
+  
 |Value | Description |
 |-|-|
 | Nature | Will show up in act 1 and be in Beast card packs |
-___
-### GemType
+
+</details>
+
+GemType
 |Value |
 |-|
 |Blue  |
