@@ -88,6 +88,7 @@
 
 <details>
 <summary>SpecialAbilities</summary>
+  
 |Value | Description |
 |-|-|
 |Ant | Increases cards attack by 1 for each card with ant trait on the board   |
@@ -219,6 +220,7 @@
 
 <details>
 <summary>Appearance Behaviour</summary>
+  
 |Value | Description |                              
 |-|-|                                                                                                                                     
 |AddSnelkDecals | Unused|
@@ -342,6 +344,7 @@
 
 <details>
 <summary>Void Bad</summary>
+  
 |Name | Description |
 |-|-|
 |Blight | When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for |
