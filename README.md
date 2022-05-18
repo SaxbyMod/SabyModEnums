@@ -217,8 +217,8 @@
 
 </details>
 
-___
-### AppearanceBehaviour
+<details>
+<summary>AppearanceBehaviour</summary>
 |Value | Description |                              
 |-|-|                                                                                                                                     
 |AddSnelkDecals | Unused|
@@ -235,6 +235,8 @@ ___
 |StaticGlitch | Renders the card with the static animation|
 |TerrainBackground | Renders the card with terrain border|
 |TerrainLayout | Renders card with terrain card layout|
+
+</details>
 
 ___
 ### Void Good GUID IS extraVoid.inscryption.voidSigils
