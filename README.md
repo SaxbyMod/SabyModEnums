@@ -9,14 +9,18 @@
   
 </details>
 
-___
-### Complexity
+<details>
+<summary>Complexity</summary>
+
 |Value | Description |
 |-|-|
 | Vanilla | Will always be a learned card |
 | Simple | Will always be an unlocked card |
 | Intermediate | Will only be unlocked after turotial |
 | Advanced | Will only be unlocked after tutorial |
+  
+</details>
+
 ___
 ### Temple
 |Value | Description |
