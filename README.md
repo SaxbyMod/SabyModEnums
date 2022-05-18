@@ -1,10 +1,12 @@
 <details>
 <summary>Meta Categories</summary>
+  
 |Value | Description |
 |-|-|
 | ChoiceNode | Defines the card to be a choice option |
 | Rare | Defines the card to be rare |
 | TraderOffer | Can show up at the trader in act 1 |
+  
 </details>
 
 ___
