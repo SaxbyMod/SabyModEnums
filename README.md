@@ -340,8 +340,8 @@
 
 </details>
 
-___
-## Void Bad
+<details>
+<summary>Void Bad</summary>
 |Name | Description |
 |-|-|
 |Blight | When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for |
@@ -361,6 +361,9 @@ ___
 |Tooth bargain | When [creature] is played, it will put 1 point of damage of it's opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale |
 |Transient | At the end of the owner's turn, [creature] will return to your hand |
 |Withering | [creature] will perish at the end of the opponent's turn |
+
+</details>
+
 ___
 ## Memez Good GUID IS org.memez4life.inscryption.customsigils
 |Name | Description |
