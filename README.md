@@ -218,7 +218,7 @@
 </details>
 
 <details>
-<summary>AppearanceBehaviour</summary>
+<summary>Appearance Behaviour</summary>
 |Value | Description |                              
 |-|-|                                                                                                                                     
 |AddSnelkDecals | Unused|
@@ -238,8 +238,11 @@
 
 </details>
 
-___
-### Void Good GUID IS extraVoid.inscryption.voidSigils
+<details>
+<summary>Void Good</summary>
+  
+  GUID IS extraVoid.inscryption.voidSigils
+  
 |Name | Description |
 |-|-|
 |Abundance | [creature] will grant one tooth per instance of Abundance when killed |
@@ -334,6 +337,9 @@ ___
 |Velocity | At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health |
 |Vicious | When [creature] is attacked, it gains 1 power |
 |Zapper | When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn |
+
+</details>
+
 ___
 ## Void Bad
 |Name | Description |
