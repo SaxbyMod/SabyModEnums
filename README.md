@@ -53,6 +53,7 @@
 |Mirror | Displays the Mirror icon for the cards attack                       |
 
 </details>
+
 ___
 ### Tribe
 |Value |
