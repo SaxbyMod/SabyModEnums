@@ -54,8 +54,9 @@
 
 </details>
 
-___
-### Tribe
+<details>
+<summary>Tribe</summary>
+
 |Value |
 |-|
 | Bird     |
@@ -64,8 +65,12 @@ ___
 | Insect   |
 | Reptile  |
 | Squirrel |
-___
-### Trait
+
+</details>
+
+<details>
+<summary>Trait</summary>
+
 |Value | Description |
 |-|-|
 |Ant | Will increase the attack of cards with the Ant special ability|
@@ -78,8 +83,11 @@ ___
 |SatisfiesRingTrial | Satisfies the ring trial before the moon fight|
 |Terrain | Cannot be sacrificed|
 |Uncuttable | Immune to scissors and hook items|
-___
-### SpecialAbilities
+
+</details>
+
+<details>
+<summary>SpecialAbilities</summary>
 |Value | Description |
 |-|-|
 |Ant | Increases cards attack by 1 for each card with ant trait on the board   |
@@ -106,8 +114,12 @@ ___
 |SpawnLice | Exclusive to Pelt Lice |
 |TalkingCardChooser | Exclusive to talking cards. |
 |TrapSpawner | Creates a Steel Trap in its place after it perishes.   |
-___
-### Abilities
+
+</details>
+
+<details>
+<summary>Abilities</summary>
+  
 |Value | Description |                              
 |-|-|                                               
 |ActivatedDealDamage | When activated for 1 energy, deals 1 damage to opposing card|
@@ -202,6 +214,9 @@ ___
 |TriStrike | When attacking, will attack opposing slot, and slots adjascent to opposing slot|
 |Tutor | When played, you can choose a card in your deck to add to your hand|
 |WhackAMole | When an empty slot is attacked, will move to that slot|
+
+</details>
+
 ___
 ### AppearanceBehaviour
 |Value | Description |                              
