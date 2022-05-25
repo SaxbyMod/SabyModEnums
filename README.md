@@ -455,27 +455,40 @@ bitty45.inscryption.sigils
 
 |Name|Description|
 |:-|:-|
-|Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.|
+|**Restriction Sigils**|---|
+|Repulsion|A card bearing this sigil may not attack.|
+|Nonexistent Soul|A card bearing this sigil may not have sigils transferred to, or from this card.|
+|Weak Soul|A card bearing this sigil may not have its sigils transferred to another card.|
+|Strong Soul|A card bearing this sigil may not recieve sigils from another card.|
+|Pyrophobia|A card bearing this sigil may not be buffed at campsites.|
+|Pyrophobia (Power)|A card bearing this sigil may not recieve Power buffs from campsites.|
+|Pyrophobia (Health)|A card bearing this sigil may not recieve Health buffs from campsites.|
+|**Strafe Sigils**|---|
+|Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
+|Hauler|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.|
 |Board Shifter|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. All cards will shift in the same direction, looping to the other edge of the board.|
 |Board Shifter (Opponent)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.|
 |Board Shifter (Player)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.|
-|Champion|A card bearing this sigil will not take damage from other cards except from combat.|
-|Charged Barrage|Activate: Pay 4 life to increase the power of all cards on your side of the board by 1.|
-|Clockwise|When a card bearing this sigil is played, all cards are moved clockwise.|
-|Counter Attack|Once a card bearing this sigil is struck, the striker is then dealt damage equal to this card's attack.|
-|Deathbell|At the start of each turn, a card bearing this sigil perishes.|
-|Dusty Quill|Whenever a creature dies while a card bearing this sigil is on the board, a corpse is raised in it's place. Corpses are defined as: 0/1.|
-|Hauler|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.|
-|Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
+|**Swap Sigils**|---|
 |Heart Swap|When a card bearing this sigil is played, all cards on the board swap their power and health.|
+|Stubborn|A card bearing this sigil may not have its stats swapped.|
+|**Misc Sigils**|---|
+|Dusty Quill|Whenever a creature dies while a card bearing this sigil is on the board, a corpse is raised in it's place. Corpses are defined as: 0/1.|
+|Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.|
+|Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.|
+|Soul Link|When a card bearing this sigil perishes, all other allied cards bearing this sigil perish as well.|
+|Hollow Draw|When a card bearing this sigil is played or perishes, discard the oldest card in your hand, draw a card.|
+|Hollow Barrage|When a card bearing this sigil is played or perishes, all cards take 1 damage.|
+|Champion|A card bearing this sigil will not take damage from other cards except from combat.|
+|Clockwise|When a card bearing this sigil is played, all cards are moved clockwise.|
+|Twister|At the end of each turn a card bearing this sigil is on the board, move all cards on the board clockwise.|
+|Counter Attack|Once a card bearing this sigil is struck, the striker is then dealt damage equal to this card's attack.|
 |Mirror Counter|Once a card bearing this sigil is struck, the striker is then dealt damage equal to the striker's attack.|
+|Deathbell|At the start of each turn, a card bearing this sigil perishes.|
 |Mutual Hire|When a card bearing this sigil is played, a copy of it is created in the opposing space.|
 |Mysterious Mushrooms|At the end of the turn, if there is a card on either side of a card bearing this sigil, they are fused together.|
-|Nonexistent Soul|A card bearing this sigil may not have sigils transferred to, or from this card.|
-|Repulsion|A card bearing this sigil may not attack.|
+|**Activated Sigils**|---|
+|Charged Barrage|Activate: Pay 4 life to increase the power of all cards on your side of the board by 1.|
 |Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.|
-|Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
-|Weak Soul|A card bearing this sigil may not have its sigils transferred to another card.|
-|Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.|
-
-</details>
+|Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
+|||
