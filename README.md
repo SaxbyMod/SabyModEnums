@@ -477,3 +477,5 @@ bitty45.inscryption.sigils
 |Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
 |Weak Soul|A card bearing this sigil may not have its sigils transferred to another card.|
 |Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.|
+
+</details>
