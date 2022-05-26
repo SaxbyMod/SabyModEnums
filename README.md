@@ -210,7 +210,6 @@
 |SubmergeSquid | Waterborne but becomes random tentacle card on resurface|
 |SwapStats | When taking damage, will swap attack and health|
 |TailOnHit | When attacked, will move and spawn a card in previous slot based on tailParams, then loses this ability.|
-|Transformer | Same as evolve with different sigil icon|
 |TripleBlood | Counts as 3 blood when sacrificed|
 |TriStrike | When attacking, will attack opposing slot, and slots adjascent to opposing slot|
 |Tutor | When played, you can choose a card in your deck to add to your hand|
