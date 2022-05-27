@@ -462,9 +462,14 @@ bitty45.inscryption.sigils
 |Pyrophobia|A card bearing this sigil may not be buffed at campsites.|
 |Pyrophobia (Power)|A card bearing this sigil may not recieve Power buffs from campsites.|
 |Pyrophobia (Health)|A card bearing this sigil may not recieve Health buffs from campsites.|
+|Foolhardy|A card bearing this sigil may not recieve modifications from any source.|
+|Mox Dependant|If a card bearing this sigil's owner controls no Mox cards, a card bearing this sigil perishes.|
+|Mox Phobic|If a card bearing this sigil's owner controls a Mox card, a card bearing this sigil perishes.|
 |**Strafe Sigils**|---|
 |Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
 |Hauler|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.|
+|Jumper|At the end of the owner's turn, a card bearing this sigil will move itself to the first empty space in the direction inscribed in the sigil.|
+|Super Sprinter|At the end of the owner's turn, a card bearing this sigil will move itself as far as possible in the direction inscribed in the sigil.|
 |Board Shifter|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. All cards will shift in the same direction, looping to the other edge of the board.|
 |Board Shifter (Opponent)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.|
 |Board Shifter (Player)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.|
@@ -486,6 +491,8 @@ bitty45.inscryption.sigils
 |Deathbell|At the start of each turn, a card bearing this sigil perishes.|
 |Mutual Hire|When a card bearing this sigil is played, a copy of it is created in the opposing space.|
 |Mysterious Mushrooms|At the end of the turn, if there is a card on either side of a card bearing this sigil, they are fused together.|
+|Eggist|When a card bearing this sigil is played, an Egg is created on each empty adjacent space.|
+|Fir Caller|When a card bearing this sigil is played, a Fir is created in each of the player's spaces.|
 |**Activated Sigils**|---|
 |Charged Barrage|Activate: Pay 4 life to increase the power of all cards on your side of the board by 1.|
 |Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.|
