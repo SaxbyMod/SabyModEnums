@@ -509,3 +509,6 @@ bitty45.inscryption.sigils
   |Name | Description |
 |-|-|
   |Triple Strike | This Card Will strike the Opposing Slot Three Times. |
+|||
+  
+  </details>
