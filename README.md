@@ -498,3 +498,14 @@ bitty45.inscryption.sigils
 |Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.|
 |Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
 |||
+
+</details>
+
+<details>
+<summary>Stoat's Sigils</summary>
+
+  Stoat.Inscryption.Sigils
+  
+  |Name | Description |
+|-|-|
+  |Triple Strike | This Card Will strike the Opposing Slot Three Times. |
