@@ -1,5 +1,5 @@
 <details>
-<summary>Meta Categories</summary>
+<summary>Vanilla Meta Categories</summary>
   
 |Value | Description |
 |-|-|
@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>Complexity</summary>
+<summary>Vanilla Complexity</summary>
 
 |Value | Description |
 |-|-|
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>Temple</summary>
+<summary>Vanilla Temple</summary>
   
 |Value | Description |
 |-|-|
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>GemType</summary>
+<summary>Vanilla GemType</summary>
 
 |Value |
 |-|
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>SpecialIcon</summary>
+<summary>Vanilla SpecialIcon</summary>
 
 |Value | Description |
 |-|-|
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary>Tribe</summary>
+<summary>Vanilla Tribe</summary>
 
 |Value |
 |-|
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary>Trait</summary>
+<summary>Vanilla Trait</summary>
 
 |Value | Description |
 |-|-|
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary>SpecialAbilities</summary>
+<summary>Vanilla SpecialAbilities</summary>
   
 |Value | Description |
 |-|-|
@@ -119,7 +119,7 @@
 </details>
 
 <details>
-<summary>Abilities</summary>
+<summary>Vanilla Sigils</summary>
   
 |Value | Description |                              
 |-|-|                                               
@@ -218,7 +218,7 @@
 </details>
 
 <details>
-<summary>Appearance Behaviour</summary>
+<summary>Vanilla Appearance Behaviour</summary>
   
 |Value | Description |                              
 |-|-|                                                                                                                                     
