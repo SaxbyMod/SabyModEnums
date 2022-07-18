@@ -6,6 +6,9 @@
 | ChoiceNode | Defines the card to be a choice option |
 | Rare | Defines the card to be rare |
 | TraderOffer | Can show up at the trader in act 1 |
+| GBCPack | Can be acquired by buing a card pack in act 2 |
+| GBCPlayable | Can show up in the card catalogue in act 2 |
+| Part3Random | Can show up as card from the Loot sigil |
   
 </details>
 
