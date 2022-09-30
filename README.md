@@ -506,6 +506,9 @@ bitty45.inscryption.sigils
 
 <details>
 <summary>Tribal Libary</summary>
+  
+|GUID|Name|Cards|
+|:-:|:-|:-|
 |tribes.libary|cells|0|
 |tribes.libary|ceromorph|0|
 |tribes.libary|conduits|0|
@@ -522,4 +525,5 @@ bitty45.inscryption.sigils
 |tribes.libary|tentacle|0|
 |tribes.libary|utillity|0|
 |tribes.libary|vessel|0|
+  
   </details>
