@@ -505,13 +505,21 @@ bitty45.inscryption.sigils
 </details>
 
 <details>
-<summary>Stoat's Sigils</summary>
-
-  Stoat.Inscryption.Sigils
-  
-  |Name | Description |
-|-|-|
-  |Triple Strike | This Card Will strike the Opposing Slot Three Times. |
-|||
-  
+<summary>Tribal Libary</summary>
+|tribes.libary|cells|0|
+|tribes.libary|ceromorph|0|
+|tribes.libary|conduits|0|
+|tribes.libary|everything|0|
+|tribes.libary|fleshy|0|
+|tribes.libary|fungus|0|
+|tribes.libary|guardian|0|
+|tribes.libary|mox|0|
+|tribes.libary|rodent|0|
+|tribes.libary|scholar|0|
+|tribes.libary|security|0|
+|tribes.libary|skeletal|0|
+|tribes.libary|spectral|0|
+|tribes.libary|tentacle|0|
+|tribes.libary|utillity|0|
+|tribes.libary|vessel|0|
   </details>
