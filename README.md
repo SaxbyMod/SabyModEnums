@@ -509,20 +509,31 @@ bitty45.inscryption.sigils
   
 |GUID|Name|Cards|
 |:-:|:-|:-|
+|tribes.libary|aqua|0|
+|tribes.libary|beast|1|
+|tribes.libary|beastwarrior|1|
 |tribes.libary|cells|0|
 |tribes.libary|ceromorph|0|
 |tribes.libary|conduits|0|
+|tribes.libary|dragon|0|
 |tribes.libary|everything|0|
+|tribes.libary|fairy|0|
+|tribes.libary|fish|1|
 |tribes.libary|fleshy|0|
 |tribes.libary|fungus|0|
 |tribes.libary|guardian|0|
+|tribes.libary|ice|0|
 |tribes.libary|mox|0|
+|tribes.libary|plant|0|
+|tribes.libary|pyro|0|
 |tribes.libary|rodent|0|
 |tribes.libary|scholar|0|
 |tribes.libary|security|0|
 |tribes.libary|skeletal|0|
 |tribes.libary|spectral|0|
+|tribes.libary|stone|0|
 |tribes.libary|tentacle|0|
+|tribes.libary|thunder|0|
 |tribes.libary|utillity|0|
 |tribes.libary|vessel|0|
   
