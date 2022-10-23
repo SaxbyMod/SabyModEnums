@@ -838,21 +838,6 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |Crustaceans|Crabs, lobsters, isopods, even barnacles! At the end of the day, we all return to crab.|
 
 ___
-### NeverNameds Traits
-
-the mod GUID is 'nevernamed.inscryption.sigils'
-
-|Name|Effect|
-|-|:-:|
-|BannedFromCampfire|The bearer will not appear as an option at Campfire nodes.|
-|BannedFromBonelord|The bearer will not appear as an option at Bone Lord nodes.|
-|BannedSigilTransferVictim|The bearer will not appear as an option to be sacrificed at the sacrifice stones.|
-|BannedSigilTransferTarget|The bearer will not appear as an option to given sigils at the sacrifice stones.|
-|NoBones|The bearer will not grant any bones when it dies.|
-|DoubleAllStrikes|The bearer will strike any space it would normally strike a second time when attacking.|
-|InherentRepulsive|The bearer will inherently gain the effect of the Repulsive sigil.|
-
-___
 ### Nevernameds Extended Properties
 
 GUID IS 'nevernamed.inscryption.sigils' [Unsure if its needed Here]
