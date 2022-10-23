@@ -419,6 +419,8 @@ ___
 
 GUID is "AnthonyPython.inscryption.AnthonysSigils"
 
+|Name | Description |
+|-|-|
 | Activated Latch Nano Shield| When activated for a cost of 1 energy / 2 bones will allow the owner to give a creature Nano Shield|
 | Activated Latch Brittle| When activated for a cost of 1 energy, allows the owner to give a creature Brittle|
 | Activated Latch Explode On Death| When activated for a cost of 1 energy, will allow the owner to give a creature Explode On Death|
