@@ -263,105 +263,105 @@ ___
 
 
 
-<details>
-<summary>Void Good</summary>
+___
+### Void Good
   
   GUID IS extraVoid.inscryption.voidSigils
   
 |Name | Description |
 |-|-|
-|Abundance | [creature] will grant one tooth per instance of Abundance when killed |
-|Acidic Trail | At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move |
-|Agile | When a [creature] would be struck, it will move out of the way |
-|Antler Bearer | When [creature] is killed, gain three random hooved tribe cards |
-|Blinding Strike | When [creature] attacks a card, that card gains the random strike sigil |
-|Blood Growth | When [creature] attacks, the amount of blood it is counted as when sacrificed will increase |
-|BloodGuzzler | [creature] deals damage, it gains 1 Health for each damage dealt |
-|Bodyguard | [creature] will redirect the initial attack of a card to it, if the attack was targeting an adjacent space |
-|Box | [creature] will get removed from your deck on death, and a new creature contained within will be added to it |
-|Bone Picker | [creature] kills a creature, it will generate 1 Bone |
-|Bone Shard | [creature] will generate 1 bone when hit, if it lives through the attack |
-|Caustic | At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil |
-|Coin Finder |At the end of the owner's turn, [creature] will grant the owner 1 foil |
-|Consumer | When [creature] kills another creature, it gains 2 health |
-|Deadly Waters | [creature] will kill cards that attacked over it while it was face-down |
-|Deathburst | [creature] will deal 1 damage to each oppsing space to the left, right, and center of it |
-|Desperation | [creature] is damaged to 1 health, it will gain 3 power |
-|Disease Absorbtion | When played, [creature] will take all negative sigils from the player's side onto itself |
-|Dive (Bones) | Pay 2 bones to cause this card to flip face down at the end of the owner's turn |
-|Dive (Energy) | Pay 2 energy to cause this card to flip face down at the end of the owner's turn |
-|Draw Blood | [creature] is played, a card costing blood is created in your hand |
-|Draw Bone | [creature] is played, a card costing bone is created in your hand. |
-|Draw Card | [creature] is played, a card relating to it's ice cube parameter (default Opossum) is created in your hand |
-|Draw Jackalope | [creature] is played, a Jackalope is created in your hand |
-|Draw Strafe | When [creature] moves, a card with a movement sigil is created in your hand |
-|Dwarf | When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox |
-|Electric | [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target |
-|Enforcer | At the start of the owner's turn, [creature] will cause adjacent creatures to attack |
-|Enrage | [creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck |
-|Entomophage | [creature] will deal 2 additional damage to cards of the insect tribe |
-|Familiar | A familiar will help with attacking when it's adjacent allies attack a card |
-|Firestarter | When [creature] damages another creature, that creature will gain the Burning Sigil. The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health |
-|Fish Hook | When [creature], a targeted card is moved to your side of the board |
-|Frightful | [creature] will cause opposing creatures to move out of the way when it attacks |
-|Giant | When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health |
-|Grazing | At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature |
-|Gripper | At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can |
-|Haste | [creature] will attack as soon as it gets played on the board |
-|Hasteful | [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn |
-|Herd | [creature] will summon a copy of itself each upkeep, up to three times |
-|High Tide | While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne |
-|Hourglass | [creature] will cause the opponant to skip their turn when played |
-|Lead (Bones) | Pay 2 bones to move this card one slot in the direction inscribed on the sigil |
-|Lead (Energy) | Pay 2 energy to move this card one slot in the direction inscribed on the sigil |
-|Leech | When [creature] deals damage, it will heal 1 Health for each damage dealt to a card |
-|Life Gambler | At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death |
-|Low Tide | While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side |
-|Lure | [creature] will cause facedown cards to become face up when attacking |
-|Maneuver | At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil |
-|Medic | At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic |
-|Midas | [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has |
-|Multi-Strike | [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger -on attack- or -on damage- effects with the extra strikes |
-|Nutritious | When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for |
-|Opportunist | [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty |
-|Pierce | [creature] attacks the card in queue behind it's initial target first when declaring an attack |
-|Poisonous | When [creature] perishes, the creature that killed it perishes as well |
-|Possessor | When [creature] perishes, it will grant a random friendly card it's base power and health |
-|Powerful Possessor | When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health|
-|Power from Movement | At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round |
-|Predator | [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card |
-|Protector | [creature] will attacks on adjacent allies to hit directly |
-|Ram | [creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side. Does not work during combat |
-|Random Strafe | [creature] is drawn, it will gain a random strafe sigil |
-|Regen 1 | At the end of the owner's turn, [creature] will regen 1 health |
-|Regen 2 | At the end of the owner's turn, [creature] will regen 2 health |
-|Regen 3 | At the end of the owner's turn, [creature] will regen 3 health |
-|Regen | At the end of the owner's turn, [creature] will regen all health |
-|Repellant | When [creature] perishes, the creature that killed it gets pushed into the back row |
-|Resistant | [creature] will only ever take 1 damage from most things. Some effects might bypass this |
-|Retaliate | [creature] will strike those who strike their adjacent allies |
-|Schooling | [creature] will grant creatures with the waterborn sigil to gain 1 power |
-|Stampede | The creature bearing this sigil will cause adjacent creatures to attack when it is played |
-|Scissors | When [creature] is played, a targeted card cut in two |
-|Submerged Ambush | [creature] will deal 1 damage to cards that attacked over it while it was face-down |
-|Take-Off (Bones) | Pay 2 bones to give this card Airborne till the start of the owner's next turn |
-|Take-Off (Energy) | Pay 2 energy to give this card Airborne till the start of the owner's next turn |
-|Thick Shell | When attacked, [creature] takes 1 less damage |
-|Thief | [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does |
-|Toothpuller | At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale |
-|Tooth Shard | [creature] will generate 1 foil when hit, if it lives through the attack |
-|Toxin | When [creature] damages another creature, that creature looses 1 power and 1 health |
-|Toxin (Deadly) | When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one health |
-|Toxin (Sickening) | When [creature] damages another creature, that creature gains the Sickness Sigil. The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack |
-|Toxin (Strength) | When [creature] damages another creature, that creature looses 1 power |
-|Toxin (Vigor) | When [creature] damages another creature, that creature looses 1 health |
-|Trample | When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner |
-|Tribal Ally | When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless |
-|Tribal Tutor | When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless |
-|Turbulent Waters | [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn |
-|Velocity | At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health |
-|Vicious | When [creature] is attacked, it gains 1 power |
-|Zapper | When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn |
+| Abundance| [creature] will grant one tooth per instance of Abundance when killed|
+| Acidic Trail| At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move|
+| Agile| When a [creature] would be struck, it will move out of the way|
+| Antler Bearer| When [creature] is killed, gain three random hooved tribe cards|
+| Blinding Strike| When [creature] attacks a card, that card gains the random strike sigil|
+| Blood Growth| When [creature] attacks, the amount of blood it is counted as when sacrificed will increase|
+| BloodGuzzler| [creature] deals damage, it gains 1 Health for each damage dealt|
+| Bodyguard| [creature] will redirect the initial attack of a card to it, if the attack was targeting an adjacent space|
+| Box| [creature] will get removed from your deck on death, and a new creature contained within will be added to it|
+| Bone Picker| [creature] kills a creature, it will generate 1 Bone|
+| Bone Shard| [creature] will generate 1 bone when hit, if it lives through the attack|
+| Caustic| At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil|
+| Coin Finder| At the end of the owner's turn, [creature] will grant the owner 1 foil||
+| Consumer| When [creature] kills another creature, it gains 2 health|
+| Deadly Waters| [creature] will kill cards that attacked over it while it was face|down|
+| Deathburst| [creature] will deal 1 damage to each oppsing space to the left, right, and center of it|
+| Desperation| [creature] is damaged to 1 health, it will gain 3 power|
+| Disease Absorbtion| When played, [creature] will take all negative sigils from the player's side onto itself|
+| Dive (Bones)| Pay 2 bones to cause this card to flip face down at the end of the owner's turn|
+| Dive (Energy)| Pay 2 energy to cause this card to flip face down at the end of the owner's turn|
+| Draw Blood| [creature] is played, a card costing blood is created in your hand|
+| Draw Bone| [creature] is played, a card costing bone is created in your hand|
+| Draw Card| [creature] is played, a card relating to it's ice cube parameter (default Opossum) is created in your hand|
+| Draw Jackalope| [creature] is played, a Jackalope is created in your hand|
+| Draw Strafe| When [creature] moves, a card with a movement sigil is created in your hand|
+| Dwarf| When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox|
+| Electric| [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target|
+| Enforcer| At the start of the owner's turn, [creature] will cause adjacent creatures to attack|
+| Enrage| [creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck|
+| Entomophage| [creature] will deal 2 additional damage to cards of the insect tribe|
+| Familiar| A familiar will help with attacking when it's adjacent allies attack a card|
+| Firestarter| When [creature] damages another creature, that creature will gain the Burning Sigil| The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health|
+| Fish Hook| When [creature], a targeted card is moved to your side of the board|
+| Frightful| [creature] will cause opposing creatures to move out of the way when it attacks|
+| Giant| When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health|
+| Grazing| At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature|
+| Gripper| At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can|
+| Haste| [creature] will attack as soon as it gets played on the board|
+| Hasteful| [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn|
+| Herd| [creature] will summon a copy of itself each upkeep, up to three times|
+| High Tide| While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne|
+| Hourglass| [creature] will cause the opponant to skip their turn when played|
+| Lead (Bones)| Pay 2 bones to move this card one slot in the direction inscribed on the sigil|
+| Lead (Energy)| Pay 2 energy to move this card one slot in the direction inscribed on the sigil|
+| Leech| When [creature] deals damage, it will heal 1 Health for each damage dealt to a card|
+| Life Gambler| At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death|
+| Low Tide| While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side|
+| Lure| [creature] will cause facedown cards to become face up when attacking|
+| Maneuver| At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil|
+| Medic| At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic|
+| Midas| [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has|
+| Multi|Strike| [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger [on attack] or [on damage] effects with the extra strikes|
+| Nutritious| When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for|
+| Opportunist| [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty|
+| Pierce| [creature] attacks the card in queue behind it's initial target first when declaring an attack|
+| Poisonous| When [creature] perishes, the creature that killed it perishes as well|
+| Possessor| When [creature] perishes, it will grant a random friendly card it's base power and health|
+| Powerful Possessor| When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health|
+| Power from Movement| At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round|
+| Predator| [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card|
+| Protector| [creature] will attacks on adjacent allies to hit directly|
+| Ram| [creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side| Does not work during combat|
+| Random Strafe| [creature] is drawn, it will gain a random strafe sigil|
+| Regen 1| At the end of the owner's turn, [creature] will regen 1 health|
+| Regen 2| At the end of the owner's turn, [creature] will regen 2 health|
+| Regen 3| At the end of the owner's turn, [creature] will regen 3 health|
+| Regen| At the end of the owner's turn, [creature] will regen all health|
+| Repellant| When [creature] perishes, the creature that killed it gets pushed into the back row|
+| Resistant| [creature] will only ever take 1 damage from most things| Some effects might bypass this|
+| Retaliate| [creature] will strike those who strike their adjacent allies|
+| Schooling| [creature] will grant creatures with the waterborn sigil to gain 1 power|
+| Stampede| The creature bearing this sigil will cause adjacent creatures to attack when it is played|
+| Scissors| When [creature] is played, a targeted card cut in two|
+| Submerged Ambush| [creature] will deal 1 damage to cards that attacked over it while it was face|down|
+| Take|Off (Bones)| Pay 2 bones to give this card Airborne till the start of the owner's next turn|
+| Take|Off (Energy)| Pay 2 energy to give this card Airborne till the start of the owner's next turn|
+| Thick Shell| When attacked, [creature] takes 1 less damage|
+| Thief| [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does|
+| Toothpuller| At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale|
+| Tooth Shard| [creature] will generate 1 foil when hit, if it lives through the attack|
+| Toxin| When [creature] damages another creature, that creature looses 1 power and 1 health|
+| Toxin (Deadly)| When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as| When ever a creature bearing this sigil declares an attack, they will loose one health|
+| Toxin (Sickening)| When [creature] damages another creature, that creature gains the Sickness Sigil| The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack|
+| Toxin (Strength)| When [creature] damages another creature, that creature looses 1 power|
+| Toxin (Vigor)| When [creature] damages another creature, that creature looses 1 health|
+| Trample| When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner|
+| Tribal Ally| When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless|
+| Tribal Tutor| When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless|
+| Turbulent Waters| [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn|
+| Velocity| At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health|
+| Vicious| When [creature] is attacked, it gains 1 power|
+| Zapper| When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as| A card bearing this sigil only attack every other turn|
 
 </details>
 
@@ -390,42 +390,42 @@ ___
 
 </details>
 
-<details>
-<summary>Memez Good</summary>
+___
+### Memez Good
 
 GUID IS org.memez4life.inscryption.customsigils
 
 |Name | Description |
 |-|-|
-|All seeing | While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health |
-|Asleep | A card bearing this sigil has 0 attack for as long as it has this sigil, and this sigil will be removed after 1 turn |
-|Bait | When an opposing creature is played and there is no card opposite of the card bearing this sigil, the opposing create will move to that spot |
-|Blood shifter | When a card bearing this sigils kills another card, it will turn into that card |
-|Bond | When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is |
-|Bone hoarder 1, 2 and 3 | When a card bearing this sigil is played, x bones are rewarded |
-|Bone prince 2 and 3 | When a card bearing this sigil dies, x bones are rewarded instead of 1 |
-|Bone lord 5 and 6 | When a card bearing this sigil dies, x bones are rewarded instead of 1 |
-|Charge | Pay 3 bones to choose a enemy creature that a card bearing this sigil will strike |
-|Double scratch | When a card bearing this sigil attacks it attacks twice and the space right and left of the attacked slot |
-|Host | A card bearing this sigil is the host of other creatures. It will give you such creature when struck. (default: RingWorm) |
-|Imbuing | A card bearing this sigil will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon the card. buffs |
-|Instant | A card bearing this sigil will perish immediately after its played |
-|Launcher | At the end of the owner's turn, a card bearing this sigil will create another creature on a random empty space on the owner's side of the table. (default: Squirrel) |
-|Left scratch | When a card bearing this sigil attacks it also attacks the space on the left of the attacked slot |
-|Linguist | While a card bearing this sigil is on the board, all other talking cards on your side of the board get +1 attack |
-|Noble Sacrifice | A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed |
-|Puppets gift | As long as a card bearing this sigil is on the board any cards with brittle won't die because of brittle |
-|Right scratch | When a card bearing this sigil attacks it also attacks the space on the right of the attacked slot |
-|Short | A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil |
-|Shapeshifter | A card bearing this sigil is ever changing. It will change its form once it's struck. (default: Amoeba) |
-|Song of sleep | If a creature moves into the space opposing a card bearing this sigil, that creature will obtain the asleep sigil |
-|Spawner | At the end of the owners turn, a card bearing this sigil will move in the direction inscribed in the sigil and create another creature in its old space. (default: Squirrel) |
-|Superior Sacrifice | A card bearing this sigil is counted as 4 blood rather than 1 blood when sacrificed |
-|Support call| When a card bearing this sigil is played, a card from your sidedeck is created in your hand |
-|Tribe Attack | While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 attack |
-|Tribe Health | While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 health |
-|Warper | At the end of the owner's turn, the creature bearing this sigil will move to the right, it will jump over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side |
-|Wild hunger | At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed in the sigil, but if it hits a card whilst moving, that card perishes and the card bearing this sigil gains 1+/1+ |
+| Bond| When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is|
+| Short| A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil|
+| Tribe Attack| While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 attack|
+| Tribe Health| While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 health|
+| Noble Sacrifice| A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed|
+| Imbuing| A card bearing this sigil will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon the card|
+| Charge| Pay 3 bones to choose a enemy creature that a card bearing this sigil will strike|
+| Superior Sacrifice| A card bearing this sigil is counted as 4 blood rather than 1 blood when sacrificed|
+| Bone hoarder 1, 2 and 3| When a card bearing this sigil is played, x bones are rewarded|
+| Bone prince 2 and 3| When a card bearing this sigil dies, x bones are rewarded instead of 1|
+| Bone lord 5 and 6| When a card bearing this sigil dies, x bones are rewarded instead of 1|
+| Support call| When a card bearing this sigil is played, a card from your sidedeck is created in your hand|
+| Host| A card bearing this sigil is the host of other creatures| It will give you such creature when struck| (default| RingWorm)
+| Bait| When an opposing creature is played and there is no card opposite of the card bearing this sigil, the opposing creature will move to that spot|
+| Spawner| At the end of the owners turn, a card bearing this sigil will move in the direction inscribed in the sigil and create another creature in its old space. (default: Squirrel)
+| Launcher| At the end of the owner's turn, a card bearing this sigil will create another creature on a random empty space on the owner's side of the table. (default: Squirrel)
+| Shapeshifter| A card bearing this sigil is ever changing| It will change its form once it's struck. (default: Amoeba)
+| Linguist| While a card bearing this sigil is on the board, all other talking cards on your side of the board get +1 attack|
+| All seeing| While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health|
+| Asleep| A card bearing this sigil has 0 attack for as long as it has this sigil, and this sigil will be removed after 1 turn|
+| Song of sleep| If a creature moves into the space opposing a card bearing this sigil, that creature will obtain the asleep sigil|
+| Blood shifter| When a card bearing this sigils kills another card, it will turn into that card|
+| Warper| At the end of the owner's turn, the creature bearing this sigil will move to the right, it will jump over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side|
+| Wild hunger| At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed in the sigil, but if it hits a card whilst moving, that card perishes and the card bearing this sigil gains 1+/1+|
+| Right scratch| When a card bearing this sigil attacks it also attacks the space on the right of the attacked slot|
+| Left scratch| When a card bearing this sigil attacks it also attacks the space on the left of the attacked slot|
+| Double scratch| When a card bearing this sigil attacks it attacks twice and the space right and left of the attacked slot|
+| Puppets gift| As long as a card bearing this sigil is on the board any cards with brittle won't die because of brittle|
+| Instant| A card bearing this sigil will perish immediately after its played|
 
 FOR IMBUING
 
@@ -441,7 +441,7 @@ Insect, Tribe attack
 
 Reptile, Tail and +0/1
   
-</details>
+
 
 <details>
 <summary>Memez Bad</summary>
