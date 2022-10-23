@@ -495,9 +495,7 @@ GUID IS extraVoid.inscryption.LifeCost
 | “Cash Converter” | Pay 3 life to increase power and health by 1 |
 | “Greedy Strength” | Pay 5 currency to increase power and health by 1 |
 | “Die Roll” | Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly |
-  
 
- 
 ___
 ### Bitty's Sigils
 
@@ -557,8 +555,6 @@ bitty45.inscryption.sigils
 |Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.|
 |Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
 |||
-
-
 
 ___
 ### Tribal Libary
@@ -636,19 +632,16 @@ GUID|Name|
 |tribes.libary|wyrm|
 |tribes.libary|zombie|
 
-  
-  </details>
-
-<details>
-<summary>NeverNameds Sigils </summary>
+___
+### NeverNameds Sigils
 
 the mod GUID is 'nevernamed.inscryption.sigils'
 
 *If a sigil from the mod is not in this list, ASSUME THAT IT IS BROKEN OR UNFINISHED, AND DO NOT USE IT.*
 
-|Sigil Name|Power Level|Description|Notes|
+Sigil Name|Power Level|Description|Notes|
 |-|:-:|:-:|:-:|
-|**Copier**|4|When the sigil bearer is killed by another card, a copy of the card that killed it is created in the player's hand.||
+|**Copier**|4|When the sigil bearer is killed by another card, a copy of the card that killed it is created in the player's hand.|Has unique interactions when killed by certain boss effects.|
 |**Flighty**|0|At the end of the turn, the sigil bearer will move to a random open space on the same side of the board.||
 |**Harbinger**|1|While the sigil bearer is on the board, when another card on the player's side of the board dies, the sigil bearer will move to their empty spot.||
 |**Gut Spewer**|2|When played, creates a Guts in your hand (See Cards section). |Guts adopts all the sigils of the original bearer.|
@@ -755,6 +748,20 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |**Tug**|1|When the sigil bearer is played opposing an empty space with an opponent creature queued to come in on the opponent's turn, that creature will instead be pulled into the opposing space during the current turn.||
 |**Point Nemo**|2|When the sigil bearer is played, all cards on the board gain the Waterborne Sigil.|Does not affect cards with the Uncuttable trait.|
 |**Gooey**|3|When the sigil bearer is struck, the striker loses 1 power.|Does not affect cards with the Giant trait.|
+|**Immaterial**|1|When the sigil bearer is attacked during normal combat action, any damage will pass straight through to the bearer's owner.||
+|**Stalwart**|1|Any movement by the sigil bearer will be cancelled, and return the sigil bearer to it's original space.||
+|**Gold Rush**|5|When the sigil bearer is played, all opponent cards on the board perish, and are replaced by Gold Nuggets.||
+|**Fire In The Hole**|4|When the sigil bearer perishes, it's owner may choose an opponent slot. The creature in that slot takes 10 damage.||
+|**Erratic**|0|After attacking, the sigil bearer will move in the direction the sigil is pointing. Cannot move if obstructed. 50% chance to flip the sigil direction each turn.||
+|**Soak**|5|Any damage taken by the sigil bearer is reduced by 1. After being struck the number of times rendered on the sigil, the bearer will attack with power equal to it's current health, then perish.|Times required to be struck is configurable via Extended Properties.|
+|**Dog Gone**|2|The sigil bearer gains +2 power if opposed by a creature in the Canine tribe.||
+|**Snakebite**|2|The sigil bearer gains +2 power if opposed by a creature in the Reptile tribe.||
+|**Fowl Play**|2|The sigil bearer gains +2 power if opposed by a creature in the Avian tribe.||
+|**Deerly Departed**|2|The sigil bearer gains +2 power if opposed by a creature in the Hooved tribe.||
+|**Insectivore**|2|The sigil bearer gains +2 power if opposed by a creature in the Insect tribe.||
+|**Crusher**|1|The sigil bearer gains +2 power if opposed by a Terrain card.||
+|**Rock Eater**|0|Any terrain cards played while the sigil bearer is on the board will be removed, and their stats and sigils will be added to the sigil bearer.||
+|**Fatal Flank**|3|When the sigil bearer perishes, it creates an Unnatural Creature to it's left and right.|Exact card created is configurable.|
 |**Waterborne Latch**|1|When the sigil bearer dies, it's owner chooses a card to gain the Waterborne sigil.||
 |**Sprinter Latch**|0|When the sigil bearer dies, it's owner chooses a card to gain the Sprinter sigil.||
 |**Burning Latch**|1|When the sigil bearer dies, it's owner chooses a card to gain the Burning sigil.||
@@ -762,7 +769,10 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |**Weird Latch**|1|When the sigil bearer is drawn, this sigil is replaced by a random latch sigil.||
 |**Repulsive When Powered**|4|While the sigil bearer is within a conduit, if another creature would strike the sigil bearer, it does not.||
 
-###Activated
+___
+### Nevernameds Activated Sigils
+
+the mod GUID is 'nevernamed.inscryption.sigils'
 
 |Sigil Name|Power Level|Cost|Description|Notes|
 |-|:-:|:-:|:-:|:-:|
@@ -775,10 +785,8 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |**Bone Strike**|4|2<img align="center" src="https://tinyurl.com/3afzj9ca">|When activated, the sigil bearer will strike the creature opposing it for 1 damage.||
 |**Upgrade Subroutine**|3|Complex|When the sigil bearer kills another creature, this sigil gains a point. When activated, the sigil bearer's owner is presented with a coice of three sigils with which to permanently upgrade the sigil bearer, spending some points. The more points accumulated before activation, the higher quality the presented options can be.||
 
-</details>
-
-<details>
-<summary>Nevernameds Variable Stats</summary>
+___
+### Nevernameds Variable Stats
 
 the mod GUID is 'nevernamed.inscryption.sigils'
 
@@ -800,10 +808,8 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |Sin Eater|Power|Value represented is equal to the number of sigils which were present on the cards sacrificed to play the bearer.||
 |Ambitious|Power|Value represented is equal to the highest damage number present on the board.|Recalculates at the start of each turn.|
 
-</details>
-
-<details>
-<summary>Nevernameds Special Abilities</summary>
+___
+### Nevernameds Special Abilities
 
 the mod GUID is 'nevernamed.inscryption.sigils'
 
@@ -814,12 +820,11 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |InherentFecundity|When the bearer is played, an exact copy of the bearer will be created in the player's hand.|Does not decay like standard Kaycees Mod Fecundity.|
 |ContinualEvolution|At the beginning of each turn, the bearer will gain +1 power and health.||
 |AbsorbOtherCards|While the bearer is on the board, any non-side-deck cards played on the same side of the board will be 'absorbed' into the bearer.</br>The bearer will add the stats and sigils of any absorbed cards onto it's own.||
-|SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain a Ratling (see Cards section) in their hand for each sigil lost.</br>These ratlings will have one added sigil each, corresponding to the lost sigil.</br>If the bearer had no sigils to lose, it will create a single, blank Ratling in the player's hand.||
+|SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain an Unnatural Creature(see Cards section) in their hand for each sigil lost.</br>These creatures will have one added sigil each, corresponding to the lost sigil.</br>If the bearer had no sigils to lose, it will create a single, blank creature in the player's hand.||
+|InherentUndying|When the bearer perishes, an exact copy of the bearer will be created in the player's hand.||
 
-</details>
-
-<details>
-<summary>Nevernameds tribes</summary>
+___
+### Nevernameds tribes
 
 the mod GUID is 'nevernamed.inscryption.sigils'
 
@@ -828,11 +833,10 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |Name|General concept|
 |-|:-:|
 |Arachnid|Spiders, Scorpions, Ticks, and many other eight-legged arthropods fall into the category of Arachnids.|
+|Crustaceans|Crabs, lobsters, isopods, even barnacles! At the end of the day, we all return to crab.|
 
-</details>
-
-<details>
-<summary>NeverNameds Traits</summary>
+___
+### NeverNameds Traits
 
 the mod GUID is 'nevernamed.inscryption.sigils'
 
@@ -845,4 +849,42 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |NoBones|The bearer will not grant any bones when it dies.|
 |DoubleAllStrikes|The bearer will strike any space it would normally strike a second time when attacking.|
 |InherentRepulsive|The bearer will inherently gain the effect of the Repulsive sigil.|
-</details>
+
+___
+### Nevernameds Extended Properties
+
+GUID IS 'nevernamed.inscryption.sigils' [Unsure if its needed Here]
+
+A list of properties which modders using this sigil pack may apply to their cards to grant them various special properties.
+
+|Name|Effect|
+|-|:-:|
+|CustomDamDefinition|If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.|
+|CustomFactoryConduitDefinition|If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.|
+|CustomRabbitHoleDefinition|If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.|
+|CustomAntSpawnerDefinition|If set to a valid card ID, will override the definition of the Ant the card will spawn with the Ant Spawner sigil.|
+|CustomSquirrelShedderDefinition|If set to a valid card ID, will override the definition of the Squirrels the card will spawn with the Squirrel Shedder sigil.|
+|CustomSkeletonCrewDefinition|If set to a valid card ID, will override the definition of the Skeletons the card will spawn with the Skeleton Crew sigil.|
+|CustomBeesWithinDefinition|If set to a valid card ID, will override the definition of the Bees the card will spawn with the Bees Within sigil.|
+|CustomBellDefinition|If set to a valid card ID, will override the definition of the Chimes the card will spawn with the Bellist sigil.|
+|ClawedLeftClawOverride|If set to a valid card ID, will override the definition of the left claw the card will spawn with the Clawed sigil.|
+|ClawedRightClawOverride|If set to a valid card ID, will override the definition of the right claw the card will spawn with the Clawed sigil.|
+|CustomTransformerTransformation|If set to a valid card ID, will determine what the card transforms into with the custom Transformer sigil.|
+|TwisterTransformation|If set to a valid card ID, will determine what the card transforms into with the Twister sigil.|
+|GutSpewerGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Gut Spewer sigil.|
+|ExplodingCorpseGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Exploding Corpse sigil.|
+|OrganThiefGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Organ Thief sigil.|
+|ParthenogenesisOverride|If set to a valid card ID, will override the definition of the Clone Grub the card will leave begind with the Parthenogenesis sigil.|
+|FatalFlankOverride|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will leave begind with the Fatal Flank sigil.|
+|OverrideSigilShedderDefinition|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will give with the Sigil Shedder ability.|
+|HarbingerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Harbinger Sigil.|
+|TramplerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Trampler Sigil.|
+|FlightyLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Flighty Sigil.|
+|CustomDoomedDuration|If set to a number, and the card has the Doomed sigil, it will wait for that number of turns before perishing, rather than perishing immediately.|
+|CustomSoakCounter|If set to a number, determines how many times the card must be struck before the Soak sigil triggers.|
+|PreventBones|If set to any value, the card will not grant bones when it perishes.|
+|BannedFromCampfire|If set to any value, the card will not appear as an option to be buffed at campfires.|
+|BannedSigilTransferVictim|If set to any value, the card will not appear as an option to be sacrificed at the Sacrifice Stones.|
+|BannedSigilTransferTarget|If set to any value, the card will not appear as an option to be given sigils at the Sacrifice Stones.|
+|CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.|
+|PreventPlay|If set to any value, the card will be unable to be played during combat.|
