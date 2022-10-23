@@ -1,3 +1,5 @@
+If you want sections tab go to Wiki page
+
 ___
 ### Vanilla Meta Categories
 
