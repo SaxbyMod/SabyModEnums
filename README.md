@@ -460,19 +460,17 @@ For Dying:
 
 You can control how long a creature takes to die by setting the custom Property “void_dying_count”
 
+___
+### Memez Bad
 
+GUID IS org.memez4life.inscryption.customsigils
 
-<details>
-<summary>Memez Bad</summary>
-  
 |Name | Description |
 |-|-|
-|Exhaustion | The attack of a card bearing this sigil will be decreased by the same amount as its lost health |
-|Fearful | When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand |
-|Picky | A Card bearing this sigil cannnot be summoned using any free cards as sacrifice |
-|Rushing march | At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes |
-  
-</details>
+| Exhaustion| The attack of a card bearing this sigil will be decreased by the same amount as its lost health|
+| Picky| A Card bearing this sigil cannnot be summoned using any free cards as sacrifice|
+| Fearful| When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand|
+| Rushing march| At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes|
 
 <details>
 <summary>Teeth sigils</summary>
