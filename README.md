@@ -361,7 +361,7 @@ ___
 | Turbulent Waters| [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn|
 | Velocity| At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health|
 | Vicious| When [creature] is attacked, it gains 1 power|
-| Zapper| When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as| A card bearing this sigil only attack every other turn|
+| Zapper| When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn|
 
 </details>
 
