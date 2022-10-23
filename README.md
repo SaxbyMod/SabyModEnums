@@ -1,6 +1,8 @@
 ___
 ### Vanilla Meta Categories
 
+|Value | Description |                              
+|-|-|  
 | ChoiceNode | Defines the card to be a choice option |
 | GBCPack | Can be acquired by buying a card pack in act 2 |
 | GBCPlayable | Can show up in the card catalogue in act 2 |
@@ -9,7 +11,7 @@ ___
 | TraderOffer | Can show up at the trader in act 1 |
 
 ___
-###Vanilla Complexity
+### Vanilla Complexity
 
 |Value | Description |
 |-|-|
@@ -21,7 +23,7 @@ ___
 
 
 ___
-###Vanilla Temple
+### Vanilla Temple
 
 |Value | Description |
 |-|-|
@@ -33,7 +35,7 @@ ___
 
 
 ___
-###Vanilla GemType
+### Vanilla GemType
 
 |Value |
 |-|
@@ -42,7 +44,7 @@ ___
 |Orange|
 
 ___
-###Vanilla SpecialIcon
+### Vanilla SpecialIcon
 
 |Value | Description |
 |-|-|
@@ -54,7 +56,7 @@ ___
 |Mirror | Displays the Mirror icon for the cards attack |
 
 ___
-###Vanilla Tribe
+### Vanilla Tribe
 
 |Value |
 |-|
@@ -68,7 +70,7 @@ ___
 
 
 ___
-###Vanilla Trait
+### Vanilla Trait
 
 |Value | Description |
 |-|-|
@@ -96,7 +98,7 @@ ___
 
 
 ___
-###Vanilla SpecialAbilities
+### Vanilla SpecialAbilities
 
 |Value | Description |
 |-|-|
@@ -128,7 +130,7 @@ ___
 
 
 ___
-###Vanilla Sigils
+### Vanilla Sigils
   
 |Value | Description |                              
 |-|-|                                               
@@ -239,7 +241,7 @@ ___
 |WhackAMole | When an empty slot is attacked, will move to that slot|
 
 ___
-###Vanilla Appearance Behaviour
+### Vanilla Appearance Behaviour
   
 |Value | Description |                              
 |-|-|                                                                                                                                     
