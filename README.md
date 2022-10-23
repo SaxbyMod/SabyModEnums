@@ -482,24 +482,24 @@ The GUID Is extraVoid.inscryption.voidSigils
 | Ambush| (a port of Sentry from act 3, but more theme'd to act 1) A creature with this sigil will strike at a card that comes infront of it|
 | Broken| (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies|
 
-<details>
-<summary>Teeth sigils</summary>
+___
+### Teeth sigils
 
 GUID IS extraVoid.inscryption.LifeCost
  
 |Name | Description |
 |-|-|
-|Cash Converter | Pay 4 foils to put 1 damage on the opponent's side of the scale |
-|Greedy Strength | Pay 5 currency to increase power and health by 1 |
-|Max Energy Gamble | Pay 6 energy to put 0 to 3 damage on someone's side of the scale |
-|Life Converter | Pay 2 life to gain 2 foils |
-|Vamperic Strength | Pay 3 life to increase power and health by 1 |
-|Die Roll | : Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly |
+| “Max Energy Gamble” | Pay 6 energy to put 0 to 3 damage on someone's side of the scale |
+| “Cash Converter” | Pay 4 foils to put 1 damage on the opponent's side of the scale |
+| “Life Converter” | Pay 2 life to gain 1 foils |
+| “Cash Converter” | Pay 3 life to increase power and health by 1 |
+| “Greedy Strength” | Pay 5 currency to increase power and health by 1 |
+| “Die Roll” | Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly |
   
-</details>
+
  
- <details>
-<summary>Bitty's Sigils</summary>
+___
+### Bitty's Sigils
 
 bitty45.inscryption.sigils
 
@@ -527,13 +527,21 @@ bitty45.inscryption.sigils
 |**Swap Sigils**|---|
 |Heart Swap|When a card bearing this sigil is played, all cards on the board swap their power and health.|
 |Stubborn|A card bearing this sigil may not have its stats swapped.|
+|Flipper|At the end of the owner's turn, a card bearing this sigil swaps its stats.|
+|**Hand/Deck Sigils**|---|
+|Replenish|When a card bearing this sigil is drawn, draw a card.|
+|Fleeting|A card bearing this sigil will be discarded at the end of the turn.|
+|Fleeting Draw|When a card bearing this sigil is played, draw 1 card with Fleeting.|
+|Outcast|At the end of the turn, a card bearing this sigil is shuffled into the deck.|
+|Explosive Squirrel Reproduction|When a card bearing this sigil is played, fill your side deck with squirrels.|
 |**Misc Sigils**|---|
 |Dusty Quill|Whenever a creature dies while a card bearing this sigil is on the board, a corpse is raised in it's place. Corpses are defined as: 0/1.|
 |Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.|
 |Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.|
 |Soul Link|When a card bearing this sigil perishes, all other allied cards bearing this sigil perish as well.|
-|Hollow Draw|When a card bearing this sigil is played or perishes, discard the oldest card in your hand, draw a card.|
-|Hollow Barrage|When a card bearing this sigil is played or perishes, all cards take 1 damage.|
+|Hollow Draw|When a card bearing this sigil is played, discard the oldest card in your hand, draw a card.|
+|Hollow Barrage|When a card bearing this sigil is played, all cards take 1 damage.|
+|Hollow Repeater|When a card bearing this sigil perishes, all On Play sigils on that card are activated.|
 |Champion|A card bearing this sigil will not take damage from other cards except from combat.|
 |Clockwise|When a card bearing this sigil is played, all cards are moved clockwise.|
 |Twister|At the end of each turn a card bearing this sigil is on the board, move all cards on the board clockwise.|
@@ -550,83 +558,84 @@ bitty45.inscryption.sigils
 |Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
 |||
 
-</details>
 
-<details>
-<summary>Tribal Libary</summary>
+
+___
+### Tribal Libary
   
-|GUID|Name|Cards|
-|:-:|:-|:-|
-|tribes.libary|abomination|0|
-|tribes.libary|amalgram|0|
-|tribes.libary|aqua|0|
-|tribes.libary|beast|0|
-|tribes.libary|beastwarrior|0|
-|tribes.libary|boneless|0|
-|tribes.libary|cells|0|
-|tribes.libary|ceromorph|0|
-|tribes.libary|conduits|0|
-|tribes.libary|corpse|0|
-|tribes.libary|cryptid|0|
-|tribes.libary|cyberse|0|
-|tribes.libary|dinosaur|0|
-|tribes.libary|dragon|0|
-|tribes.libary|egg|0|
-|tribes.libary|everything|0|
-|tribes.libary|fairy|0|
-|tribes.libary|fiend|0|
-|tribes.libary|fish|0|
-|tribes.libary|fleshy|0|
-|tribes.libary|foe|0|
-|tribes.libary|friend|0|
-|tribes.libary|frozen|0|
-|tribes.libary|fungus|0|
-|tribes.libary|gamer|0|
-|tribes.libary|gems|0|
-|tribes.libary|ghoul|0|
-|tribes.libary|giant|0|
-|tribes.libary|goo|0|
-|tribes.libary|guardian|0|
-|tribes.libary|haunted|0|
-|tribes.libary|humanoid|0|
-|tribes.libary|ice|0|
-|tribes.libary|instrument|0|
-|tribes.libary|lich|0|
-|tribes.libary|machine|0|
-|tribes.libary|malware|0|
-|tribes.libary|moon|0|
-|tribes.libary|mox|0|
-|tribes.libary|mullusk|0|
-|tribes.libary|occultist|0|
-|tribes.libary|plant|0|
-|tribes.libary|possessed|0|
-|tribes.libary|psychic|0|
-|tribes.libary|pyro|0|
-|tribes.libary|robot|0|
-|tribes.libary|rock|0|
-|tribes.libary|rodent|0|
-|tribes.libary|scholar|0|
-|tribes.libary|seaserpent|0|
-|tribes.libary|security|0|
-|tribes.libary|shapeless|0|
-|tribes.libary|skeletal|0|
-|tribes.libary|snake|0|
-|tribes.libary|spectral|0|
-|tribes.libary|spellcaster|0|
-|tribes.libary|spirit|0|
-|tribes.libary|stone|0|
-|tribes.libary|tentacle|0|
-|tribes.libary|thunder|0|
-|tribes.libary|treasure|0|
-|tribes.libary|trees|0|
-|tribes.libary|unicellular|0|
-|tribes.libary|utillity|0|
-|tribes.libary|vampire|0|
-|tribes.libary|vessel|0|
-|tribes.libary|virus|0|
-|tribes.libary|warrior|0|
-|tribes.libary|wyrm|0|
-|tribes.libary|zombie|0|
+GUID|Name|
+|:-:|:-|
+|tribes.libary|abomination|
+|tribes.libary|amalgram|
+|tribes.libary|aqua|
+|tribes.libary|beast|
+|tribes.libary|beastwarrior|
+|tribes.libary|boneless|
+|tribes.libary|cells|
+|tribes.libary|ceromorph|
+|tribes.libary|conduits|
+|tribes.libary|corpse|
+|tribes.libary|cryptid|
+|tribes.libary|cyberse|
+|tribes.libary|dinosaur|
+|tribes.libary|dragon|
+|tribes.libary|egg|
+|tribes.libary|everything|
+|tribes.libary|fairy|
+|tribes.libary|fiend|
+|tribes.libary|fish|
+|tribes.libary|fleshy|
+|tribes.libary|foe|
+|tribes.libary|friend|
+|tribes.libary|frozen|
+|tribes.libary|fungus|
+|tribes.libary|gamer|
+|tribes.libary|gems|
+|tribes.libary|ghoul|
+|tribes.libary|giant|
+|tribes.libary|goo|
+|tribes.libary|guardian|
+|tribes.libary|haunted|
+|tribes.libary|humanoid|
+|tribes.libary|ice|
+|tribes.libary|instrument|
+|tribes.libary|lich|
+|tribes.libary|machine|
+|tribes.libary|malware|
+|tribes.libary|moon|
+|tribes.libary|mox|
+|tribes.libary|mullusk|
+|tribes.libary|occultist|
+|tribes.libary|plant|
+|tribes.libary|possessed|
+|tribes.libary|psychic|
+|tribes.libary|pyro|
+|tribes.libary|robot|
+|tribes.libary|rock|
+|tribes.libary|rodent|
+|tribes.libary|scholar|
+|tribes.libary|seaserpent|
+|tribes.libary|security|
+|tribes.libary|shapeless|
+|tribes.libary|skeletal|
+|tribes.libary|snake|
+|tribes.libary|spectral|
+|tribes.libary|spellcaster|
+|tribes.libary|spirit|
+|tribes.libary|stone|
+|tribes.libary|tentacle|
+|tribes.libary|thunder|
+|tribes.libary|treasure|
+|tribes.libary|trees|
+|tribes.libary|unicellular|
+|tribes.libary|utillity|
+|tribes.libary|vampire|
+|tribes.libary|vessel|
+|tribes.libary|virus|
+|tribes.libary|warrior|
+|tribes.libary|wyrm|
+|tribes.libary|zombie|
+
   
   </details>
 
