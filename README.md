@@ -1,5 +1,5 @@
 ___
-###Vanilla Meta Categories
+### Vanilla Meta Categories
 
 | ChoiceNode | Defines the card to be a choice option |
 | GBCPack | Can be acquired by buying a card pack in act 2 |
