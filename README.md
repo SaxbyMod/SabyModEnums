@@ -432,7 +432,7 @@ GUID is "AnthonyPython.inscryption.AnthonysSigils"
 | Transform Chicken (Enemy Only)| A Creature bearing this sigil will transform a random creature on the board only on the enemies side into a Chicken. A Chicken is defined as 1 Attack, 1 Health|
 
 ___
-### Void Bad
+### Voids "Bad" Sigils
 
 GUID IS extraVoid.inscryption.voidSigils
 
@@ -461,7 +461,7 @@ For Dying:
 You can control how long a creature takes to die by setting the custom Property “void_dying_count”
 
 ___
-### Memez Bad
+### Memes "Bad" Sigils
 
 GUID IS org.memez4life.inscryption.customsigils
 
@@ -471,6 +471,16 @@ GUID IS org.memez4life.inscryption.customsigils
 | Picky| A Card bearing this sigil cannnot be summoned using any free cards as sacrifice|
 | Fearful| When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand|
 | Rushing march| At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes|
+
+___
+### "Vanilla Tweaks"
+
+The GUID Is extraVoid.inscryption.voidSigils
+
+|Name | Description |
+|-|-|
+| Ambush| (a port of Sentry from act 3, but more theme'd to act 1) A creature with this sigil will strike at a card that comes infront of it|
+| Broken| (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies|
 
 <details>
 <summary>Teeth sigils</summary>
