@@ -766,7 +766,7 @@ Sigil Name|Power Level|Description|Notes|
 |Fatal Flank|3|When the sigil bearer perishes, it creates an Unnatural Creature to it's left and right.|Exact card created is configurable|
 |Eager|3|The sigil bearer gains +2 power for one turn after being played.||
 |Lurk|4|The sigil bearer will submerge during the opponent's turn. When an enemy card enters the space directly opposing the sigil bearer, the sigil bearer will strike it for 1 damage.||
-|Lash Out|3|At the end of the owner's turn, the sigil bearer will attack a random opponent space.|\
+|Lash Out|3|At the end of the owner's turn, the sigil bearer will attack a random opponent space.||
 |Ravenous|5|The sigil bearer will strike the opposing space an additional time when attacking for every creature it has killed since the beginning of combat.||
 |Esprit De Corps|3|While the sigil bearer is on the board, cards in the leftmost and rightmost slots on the same side of the board gain 1 power.||
 |Sanguine|4|While the sigil bearer is on the board, it will gain +1 power when the player sacrifices a creature. These buffs last for the remainder of the battle.||
@@ -793,14 +793,14 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 
 |Sigil Name|Power Level|Cost|Description|Notes|
 |-|:-:|:-:|:-:|:-:|
-|**Fetch**|1|1<img align="center" src="https://tinyurl.com/3afzj9ca">|When activated, the sigil bearer will move in the direction the sigil is pointing.||
-|**Remove**|0|*Free*|When activated, the sigil bearer will die.||
-|**Eternal Gallop**|5|*Free*|When activated, the sigil bearer will move in the direction the sigil is pointing.||
-|**Flip**|0|*Free*|When activated, the sigil bearer has a 50/50 chance to either gain +1 power and health, or die.||
-|**Dredge**|4|4<img align="center" src="https://tinyurl.com/3afzj9ca">|When activated, the player may search their deck for any card and add it to their hand.||
-|**Bonefed**|2|2<img align="center" src="https://tinyurl.com/3afzj9ca">|When activated, the sigil bearer is healed for 3 health.|Cannot overheal.|
-|**Bone Strike**|4|2<img align="center" src="https://tinyurl.com/3afzj9ca">|When activated, the sigil bearer will strike the creature opposing it for 1 damage.||
-|**Upgrade Subroutine**|3|Complex|When the sigil bearer kills another creature, this sigil gains a point. When activated, the sigil bearer's owner is presented with a coice of three sigils with which to permanently upgrade the sigil bearer, spending some points. The more points accumulated before activation, the higher quality the presented options can be.||
+|Fetch|1|1|When activated, the sigil bearer will move in the direction the sigil is pointing.||
+|Remove|0|Free|When activated, the sigil bearer will die.|\
+|Eternal Gallop|5|Free|When activated, the sigil bearer will move in the direction the sigil is pointing.||
+|Flip|0|Free|When activated, the sigil bearer has a 50/50 chance to either gain +1 power and health, or die.||
+|Dredge|4|4|When activated, the player may search their deck for any card and add it to their hand.||
+|Bonefed|2|2|When activated, the sigil bearer is healed for 3 health.|Cannot overheal.|
+|Bone Strike|4|2|When activated, the sigil bearer will strike the creature opposing it for 1 damage.||
+|Upgrade Subroutine|3|Complex|When the sigil bearer kills another creature, this sigil gains a point. When activated, the sigil bearer's owner is presented with a coice of three sigils with which to permanently upgrade the sigil bearer, spending some points. The more points accumulated before activation, the higher quality the presented options can be.|
 
 ___
 ### Nevernameds Variable Stats
@@ -836,8 +836,8 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |-|:-:|:-:|
 |InherentFecundity|When the bearer is played, an exact copy of the bearer will be created in the player's hand.|Does not decay like standard Kaycees Mod Fecundity.|
 |ContinualEvolution|At the beginning of each turn, the bearer will gain +1 power and health.||
-|AbsorbOtherCards|While the bearer is on the board, any non-side-deck cards played on the same side of the board will be 'absorbed' into the bearer.</br>The bearer will add the stats and sigils of any absorbed cards onto it's own.||
-|SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain an Unnatural Creature(see Cards section) in their hand for each sigil lost.</br>These creatures will have one added sigil each, corresponding to the lost sigil.</br>If the bearer had no sigils to lose, it will create a single, blank creature in the player's hand.||
+|AbsorbOtherCards|While the bearer is on the board, any non-side-deck cards played on the same side of the board will be 'absorbed' into the bearer.The bearer will add the stats and sigils of any absorbed cards onto it's own.||
+|SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain an Unnatural Creature(see Cards section) in their hand for each sigil lost.These creatures will have one added sigil each, corresponding to the lost sigil.If the bearer had no sigils to lose, it will create a single, blank creature in the player's hand.||
 |InherentUndying|When the bearer perishes, an exact copy of the bearer will be created in the player's hand.||
 
 ___
@@ -849,8 +849,9 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 
 |Name|General concept|
 |-|:-:|
-|Arachnid|Spiders, Scorpions, Ticks, and many other eight-legged arthropods fall into the category of Arachnids.|
-|Crustaceans|Crabs, lobsters, isopods, even barnacles! At the end of the day, we all return to crab.|
+Arachnid|Spiders, Scorpions, Ticks, and many other eight-legged arthropods fall into the category of Arachnids.
+Crustaceans|Crabs, lobsters, isopods, even barnacles! At the end of the day, we all return to crab.
+Rodent|Mice, rats, beavers, and even squirrels. All of these peculiar little mammals fall under the order of Rodentia.
 
 ___
 ### Nevernameds Extended Properties
