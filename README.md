@@ -862,32 +862,38 @@ A list of properties which modders using this sigil pack may apply to their card
 
 |Name|Effect|
 |-|:-:|
-|CustomDamDefinition|If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.|
-|CustomFactoryConduitDefinition|If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.|
-|CustomRabbitHoleDefinition|If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.|
-|CustomAntSpawnerDefinition|If set to a valid card ID, will override the definition of the Ant the card will spawn with the Ant Spawner sigil.|
-|CustomSquirrelShedderDefinition|If set to a valid card ID, will override the definition of the Squirrels the card will spawn with the Squirrel Shedder sigil.|
-|CustomSkeletonCrewDefinition|If set to a valid card ID, will override the definition of the Skeletons the card will spawn with the Skeleton Crew sigil.|
-|CustomBeesWithinDefinition|If set to a valid card ID, will override the definition of the Bees the card will spawn with the Bees Within sigil.|
-|CustomBellDefinition|If set to a valid card ID, will override the definition of the Chimes the card will spawn with the Bellist sigil.|
-|ClawedLeftClawOverride|If set to a valid card ID, will override the definition of the left claw the card will spawn with the Clawed sigil.|
-|ClawedRightClawOverride|If set to a valid card ID, will override the definition of the right claw the card will spawn with the Clawed sigil.|
-|CustomTransformerTransformation|If set to a valid card ID, will determine what the card transforms into with the custom Transformer sigil.|
-|TwisterTransformation|If set to a valid card ID, will determine what the card transforms into with the Twister sigil.|
-|GutSpewerGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Gut Spewer sigil.|
-|ExplodingCorpseGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Exploding Corpse sigil.|
-|OrganThiefGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Organ Thief sigil.|
-|ParthenogenesisOverride|If set to a valid card ID, will override the definition of the Clone Grub the card will leave begind with the Parthenogenesis sigil.|
-|FatalFlankOverride|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will leave begind with the Fatal Flank sigil.|
-|OverrideSigilShedderDefinition|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will give with the Sigil Shedder ability.|
-|HarbingerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Harbinger Sigil.|
-|TramplerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Trampler Sigil.|
-|FlightyLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Flighty Sigil.|
-|CustomDoomedDuration|If set to a number, and the card has the Doomed sigil, it will wait for that number of turns before perishing, rather than perishing immediately.|
-|CustomSoakCounter|If set to a number, determines how many times the card must be struck before the Soak sigil triggers.|
-|PreventBones|If set to any value, the card will not grant bones when it perishes.|
-|BannedFromCampfire|If set to any value, the card will not appear as an option to be buffed at campfires.|
-|BannedSigilTransferVictim|If set to any value, the card will not appear as an option to be sacrificed at the Sacrifice Stones.|
-|BannedSigilTransferTarget|If set to any value, the card will not appear as an option to be given sigils at the Sacrifice Stones.|
-|CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.|
-|PreventPlay|If set to any value, the card will be unable to be played during combat.|
+CustomDamDefinition|If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.
+CustomFactoryConduitDefinition|If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.
+CustomRabbitHoleDefinition|If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.
+CustomAntSpawnerDefinition|If set to a valid card ID, will override the definition of the Ant the card will spawn with the Ant Spawner sigil.
+CustomSquirrelShedderDefinition|If set to a valid card ID, will override the definition of the Squirrels the card will spawn with the Squirrel Shedder sigil.
+CustomSkeletonCrewDefinition|If set to a valid card ID, will override the definition of the Skeletons the card will spawn with the Skeleton Crew sigil.
+CustomBeesWithinDefinition|If set to a valid card ID, will override the definition of the Bees the card will spawn with the Bees Within sigil.
+CustomBellDefinition|If set to a valid card ID, will override the definition of the Chimes the card will spawn with the Bellist sigil.
+ClawedLeftClawOverride|If set to a valid card ID, will override the definition of the left claw the card will spawn with the Clawed sigil.
+ClawedRightClawOverride|If set to a valid card ID, will override the definition of the right claw the card will spawn with the Clawed sigil.
+CustomTransformerTransformation|If set to a valid card ID, will determine what the card transforms into with the custom Transformer sigil.
+TwisterTransformation|If set to a valid card ID, will determine what the card transforms into with the Twister sigil.
+GutSpewerGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Gut Spewer sigil.
+ExplodingCorpseGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Exploding Corpse sigil.
+OrganThiefGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Organ Thief sigil.
+ParthenogenesisOverride|If set to a valid card ID, will override the definition of the Clone Grub the card will leave begind with the Parthenogenesis sigil.
+FatalFlankOverride|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will leave begind with the Fatal Flank sigil.
+OverrideSigilShedderDefinition|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will give with the Sigil Shedder ability.
+HarbingerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Harbinger Sigil.
+TramplerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Trampler Sigil.
+FlightyLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Flighty Sigil.
+ErraticLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Erratic Sigil.
+PhantasmicLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Phantasmic Sigil.
+CustomDoomedDuration|If set to a number, and the card has the Doomed sigil, it will wait for that number of turns before perishing, rather than perishing immediately.
+CustomSoakCounter|If set to a number, determines how many times the card must be struck before the Soak sigil triggers.
+PreventBones|If set to any value, the card will not grant bones when it perishes.
+BannedFromCampfire|If set to any value, the card will not appear as an option to be buffed at campfires.
+BannedFromCampfireDamage|If set to any value, the card will not appear as an option to be buffed specifically at Damage campfires.
+BannedFromCampfireHealth|If set to any value, the card will not appear as an option to be buffed specifically at Health campfires.
+BannedSigilTransferVictim|If set to any value, the card will not appear as an option to be sacrificed at the Sacrifice Stones.
+BannedSigilTransferTarget|If set to any value, the card will not appear as an option to be given sigils at the Sacrifice Stones.
+BannedFromBoneLord|If set to any value, the card will not appear as an option to be sacrificed at the Bone Lord Node.
+CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.
+PreventPlay|If set to any value, the card will be unable to be played during combat.
+AllStrikesDoubled|If set to any value, the card will strike all spaces which it would normally strike an additional time when attacking.
