@@ -901,7 +901,8 @@ AllStrikesDoubled|If set to any value, the card will strike all spaces which it 
 ___
 ### Nevernameds Cards
 
-Name|Cost|Power|Health|Sigils|Tribe|Traits|Created By|Notes
+|Name|Cost|Power|Health|Sigils|Tribe|Traits|Created By|Notes|
+|-|-|-|-|-|-|-|-|-|
 Web|Free|0|1|Web, Remove, Mighty Leap|None|Terrain, NoBones|Weaver|
 Guts|Free|0|1|Fledgling(3 Turns)|None|Terrain|Gut Spewer, Exploding Corpse, Organ Thief|Evolves into Festering Guts
 Festering Guts|Free|0|1|Doomed|None|Terrain|Guts w/ Fledgling|
