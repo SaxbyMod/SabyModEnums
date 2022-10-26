@@ -897,3 +897,21 @@ BannedFromBoneLord|If set to any value, the card will not appear as an option to
 CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.
 PreventPlay|If set to any value, the card will be unable to be played during combat.
 AllStrikesDoubled|If set to any value, the card will strike all spaces which it would normally strike an additional time when attacking.
+
+___
+### Nevernameds Cards
+
+Name|Cost|Power|Health|Sigils|Tribe|Traits|Created By|Notes
+Web|Free|0|1|Web, Remove, Mighty Leap|None|Terrain, NoBones|Weaver|
+Guts|Free|0|1|Fledgling(3 Turns)|None|Terrain|Gut Spewer, Exploding Corpse, Organ Thief|Evolves into Festering Guts
+Festering Guts|Free|0|1|Doomed|None|Terrain|Guts w/ Fledgling|
+Claw (Left)|Free|1|1|Crooked Strike Right, Claw|None||Clawed|
+Claw (Right)|Free|1|1|Crooked Strike Left, Claw|None||Clawed|
+Clone Grub|Free|0|2|Fledgling|None||Parthenogenesis|Evolves into whatever created the Clone Grub via the Parthenogenesis sigil.
+Enchanted Pine|Free|0|2|Mighty Leap, Gem Dependent|None||Woodsie Lord|
+Unnatural Creature|Free|1|1||None||SigilShedder|
+Mess|Free|0|2||None||Stinky|
+Termite|2|1|2||Insect||Termite King, Termatriarch|
+Mayfly|1|1|1|Airborne, Brittle|Insect||Buzz Off|
+The Prospector|2|2|3|Guardian, Gold Rush|||Copier|
+Royal Dominguez|5|1|3|Skeleton Crew, Fire In The Hole|||Copier|
