@@ -198,7 +198,7 @@ ___
 |GainGemOrange | Counts as Orange gem cost |
 |GainGemTriple | Counts as all 3 gems when in play |
 |GemDependant | When played, and at start of turn, will die if you control no gems |
-|GemsDraw | Unused |
+|GemsDraw | When this card is played, the player will draw cards equal to the number of Mox Cards on their side of the board. |
 |GuardDog | When a card is played opposite an empty slot, will move there  |
 |Haunter | Unused |
 |HydraEgg | Bizarre ability that will cause the card to transform into a Hydra if the player's deck contains cards with 1-5 attack, 1-5 health, and one of each of the game's default tribes |
