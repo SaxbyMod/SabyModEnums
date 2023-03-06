@@ -514,7 +514,6 @@ bitty45.inscryption.sigils
 |Pyrophobia (Power)|A card bearing this sigil may not recieve Power buffs from campsites.|
 |Pyrophobia (Health)|A card bearing this sigil may not recieve Health buffs from campsites.|
 |Foolhardy|A card bearing this sigil may not recieve modifications from any source.|
-|Mox Dependant|If a card bearing this sigil's owner controls no Mox cards, a card bearing this sigil perishes.|
 |Mox Phobic|If a card bearing this sigil's owner controls a Mox card, a card bearing this sigil perishes.|
 |**Strafe Sigils**|---|
 |Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
@@ -641,150 +640,176 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 
 *If a sigil from the mod is not in this list, ASSUME THAT IT IS BROKEN OR UNFINISHED, AND DO NOT USE IT.*
 
-Sigil Name|Power Level|Description|Notes|
-|-|:-:|:-:|:-:|
-|Copier|4|When the sigil bearer is killed by another card, a copy of the card that killed it is created in the player's hand.|Has unique interactions when killed by certain boss effects.|
-|Flighty|0|At the end of the turn, the sigil bearer will move to a random open space on the same side of the board.||
-|Harbinger|1|While the sigil bearer is on the board, when another card on the player's side of the board dies, the sigil bearer will move to their empty spot.||
-|Gut Spewer|2|When played, creates a Guts in your hand (See Cards section).|Guts adopts all the sigils of the original bearer.|
-|Exploding Corpse|4|When the sigil bearer dies, a Guts is created in every empty space.|Guts adopt one of the sigils of the original bearer, chosen at random.|
-|Doomed|-3|At the end of the turn, the sigil bearer dies.||
-|Unfocused Strike|1|The sigil bearer will attack a random opponent space when it attacks.|With multiple strikes, each strike will be random.|
-|Commander|4|When the sigil bearer is struck by another creature, the cards to it's left and right will attack that creature.||
-|Bandage Weaver|3|At the end of the turn, cards to the left and right of the sigil bearer are healed 1 health.|Cannot overheal.|
-|Endangered|-2|At the end of the turn, the sigil bearer has a 25% chance to die.||
-|Tooth Puller|3|At the end of the turn, a point of damage is added to the opponent's scale.||
-|Trophy Hunter|2|The sigil bearer will strike the most powerful opponent card when it attacks.|See Card Power Level on the Inscryption Wiki for more details on card power.|
-|Fearsome|2|When a card bearing this sigil attacks a space containing another creature, that creature will move out of the way if there is room.||
-|Trio|5|When the sigil bearer is played, a copy of the sigil bearer is created to it's left and right.||
-|Hypermorphic|0|At the end of the turn, the sigil bearer will transform into a random card.The new creature will also have the Hypermorphic sigil.|Rare cards will always transform into rare cards, and commons will always transform into commons.Cards will only turn into cards of the same Temple.In Act 1, if the card is common and has a tribe, it will only transform into cards of the same tribe.|
-|Enraged|4|When the sigil bearer is struck, it gains 1 Power.||
-|Medicinal|3|When the sigil bearer is played, all friendly cards on the board are healed for 2 HP, and lose all sigils with negative Sigil Power.||
-|Burning|-1|At the end of the term, the sigil bearer takes 1 damage.Any creatures which strike the sigil bearer also gain the Burning sigil.||
-|Fire Resistant|0|The sigil bearer will not take damage from the Burning sigil.||
-|Ignition|4|Creatures struck by the sigil bearer gain the Burning sigil.|Cannot ignite creatures with the Made Of Stone sigil.|
-|Savage Ritual|3|When the sigil bearer is sacrificed, it will attack once before perishing.||
-|Trapjaw|4|The sigil bearer will attack twice.If there is a card to the left of the opposing space, it will strike that card. If not, it will strike straight forward.If there is a card to the right of the opposing space, it will attack that space. If not, it will attack straight forward.||
-|Skin Animator|3|While the sigil bearer is on the board, any pelt cards on the same side of the board gain the sigil bearer's attack power.||
-|Organ Thief|2|When the sigil bearer kills another creature, a Guts is created in the player's hand.||
-|Snapshot|4|When the sigil bearer is played, it records the state of the board.When the sigil bearer dies, it resets the board to this state, minus itself.|
-|Energy Dependent|-2|If the player has no energy, the sigil bearer dies.||
-|Crooked Strike Left|0|The sigil bearer's attacks will always be one space to the left of where they would be normally.|If the sigil bearer also has Crooked Strike Right, it will behave as if it has Bifurcated Strike.|
-|Crooked Strike Right|0|The sigil bearer's attacks will always be one space to the right of where they would be normally.||
-|Lonesome|4|The sigil bearer gains +1 power for each empty adjacent space, up to a max of +2.||
-|Deus Hoof|4|While the sigil bearer is on the board, all Hooved tribe cards on the same side of the board gain +1 power and health.When the sigil bearer is struck, all Hooved tribe cards on the same side of the board will attack the striker.||
-|Ripper|3|When a non-terrain card with no cost and 1 health is played on the same side of the board as the sigil bearer, it will die.The sigil bearer will move to the position in which it was placed, and gain +1 power and health.|Will also trigger on the Black Goat, regardless of it's health.Consuming the Black Goat grants +3 Power and Health.|
-|Haunter|2|When the sigil bearer dies, it's sigils (except for Haunter) will linger in the space it died in. The next card to enter that space will gain those sigils.|Only works in Act 1.|
-|Frail Sacrifice|-2|When the sigil bearer is sacrificed, the creature it was sacrificed for gains the Frail sigil.||
-|Mockery|3|If the sigil bearer is played opposite an opponent's creature, it will adjust it's stats to match that creature's stats for the remainder of the fight.||
-|Immortal Coil|5|If a card belonging to the player dies while the sigil bearer is on the board, the perished card will return to the player's hand with one less health.|Cannot make a card's health less than one.Cannot resurrect itself.|
-|Clawed|4|When the sigil bearer is played, a Claw (Left) is created to it's left, and a Claw (Right) is created to it's right.If those spaces are occupied, any creatures in them will die to make room for the claws.||
-|Claw|-3|The sigil bearer will lose all attack power if it is not adjacent to a card with the Clawed sigil.||
-|Running Strike|3|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing.Before moving, the sigil bearer will attack the space opposite of the space it is moving to.||
-|Abstain|-2|The sigil bearer will not attack during the normal turn order, but may still be prompted to attack by other sigil effects.||
-|Cute|4|When the sigil bearer is struck, the card that struck it will be rendered unable to attack next turn.||
-|Web|2|If a creature in the Insect tribe would strike the sigil bearer, it does not.||
-|Trampler|1|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing. If there is a card in the space that is being moved to, that card will die. When killing a card via moving over it, the sigil bearer will gain +1 Power.||
-|Sharper Quills|2|When the sigil bearer is struck, the striker will take 2 damage.||
-|Clawing Hand|3|When the sigil bearer is struck, the striker will take damage equal to the number of cards in the player's hand.||
-|Weaver|2|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, and leave a Web in it's place. (See Cards section)||
-|Return Strike|4|When the sigil bearer is struck, it will attack the striker once in retaliation.||
-|Inspiring Sacrifice|4|When the sigil bearer is sacrificed, the creature it was sacrificed for gains all of it's sigils.||
-|Decked Out|3|When the sigil bearer is struck, a Squirrel, Empty Vessel, Skeleton, or random Mox Gem is created in the player's hand.||
-|Bone Dependent|-2|If the player has no bones, the sigil bearer dies.||
-|Other Side|3|While the sigil bearer is on the board, a Skeleton will be created in the player's hand whenever a player creature perishes.|Cannot create Skeletons from Skeletons, or itself.|
-|Exceptional Sacrifice|4|Increases the sigil bearer's blood worth for sacrifice by 5.||
-|Trifling Sacrifice|1|Increases the sigil bearer's blood worth for sacrifice by 1.||
-|Visceral|1|When the sigil bearer is sacrificed, the player gains bones equal to the amount of blood which was wasted in the sacrifice.||
-|Tuck And Roll|3|At the beginning of the owner's turn, the sigil bearer will move to the leftmost unnoccupied slot which is opposed by the least attack power.|If there is no card in an opposing space and the sigil bearer belongs to the player, it will consider the opponent's queued card instead.Creatures with Touch of Death are considered 999 attack power unless the sigil bearer has the Made of Stone sigil.Creatures with Airborne are considered 0 attack power unless the sigil bearer has Mighty Leap.|
-|Bone Spurs|2|When the sigil bearer is struck, the player gains 1 bone.||
-|Crossbones|1|When the sigil bearer is played, the player gains 2 bones.||
-|Home Run|0|The sigil bearer will always attack the slot opposite the slot it was placed in, even if it moves.||
-|Squirrel Dependent|-3|If there are no cards in the Squirrel Tribe on the same side of the board as the sigil bearer, the sigil bearer will die.|If the sigil bearer itself is in the Squirrel tribe, it cannot keep itself alive.|
-|Vampiric|3|When the sigil bearer kills another creature, it gains +1 Health.||
-|Allure|2|At the start of the owner's turn, if the slot opposite the sigil bearer is empty, creatures to the left or right of the empty slot will be moved into it.||
-|Traitor|-3|When the sigil bearer is played, if the slot opposite it is empty, it will move into that slot.||
-|Termite King|1|If the sigil bearer is on the same side of the board as a card with the Termatriarch Sigil, the Termatriarch sigil will be allowed to activate.||
-|Termatriarch|1|At the start of the owner's turn, if there is also a card with the Termite King sigil on the same side of the board, a Termite will be created in the player's hand. (See Cards section)|Created Termite will adopt any modifiers given to both parents.|
-|Parthenogenesis|4|When the sigil bearer dies, it will leave a Clone Grub in it's place. The Clone Grub will evolve back into a copy of the original sigil bearer.|Does not trigger on Sacrifice.|
-|Landscaper|2|When the sigil bearer is played, all Terrain cards are removed from the board and added to the player's hand.||
-|Diver|0|When the sigil bearer attacks a slot containing a submerged card, it will force the card to re-emerge in order to be attacked.||
-|Fan Tailed|2|When the sigil bearer is played, all cards on the same side of the board gain the effect of the Airborne sigil until the end of the turn.||
-|Transformer (Custom)|3|At the end of the turn, the sigil bearer will transform to a set alternate form.|If the sigil bearer does not have a set alternate form, it will instead alternate between having and not having a +2 power buff each turn.|
-|Twister|3|When the sigil bearer is struck, it transforms to a sert alternate form.|If the sigil bearer does not have a set alternate form, it will instead alternate between having and not having a +2 power buff each time it is struck.|
-|Twin Bond|4|When the sigil bearer is played, an identical copy is created to the left or right, even killing adjacent cards to make space if necessary.The original and it's copy share the same health, and if one dies, the other will as well.||
-|Subaquatic Spines|3|The sigil bearer will submerge itself during the opponent's turn. Creatures which attack the space the sigil bearer is in will take 1 damage.||
-|Frail|-2|If the sigil bearer takes any damage, it will die.||
-|Caustic|3|When the sigil bearer perishes, the creature that killed it will also die.||
-|Amorphous (Act 2)|3|A special version of the Amorphous sigil which functions in Act 2, and can take on Act 2 sigils.||
-|Ant Guardian|3|When any card with the Ant trait on the same side of the board as the sigil bearer is struck, the sigil bearer will attack the striker in retaliation.|If the sigil bearer has the Ant trait, it will not avenge itself.|
-|Moxcraft|3|When the sigil bearer is struck, a random mox gem is created in the owner's hand.||
-|Woodsie Lord|3|When the sigil bearer is played, an Enchanted Pine is created in every empty space on the board.||
-|Fringe Strike|4|The sigil bearer will always strike the leftmost and rightmost opponent spaces when it attacks.||
-|Dupeglitch|5|When the sigil bearer is played, the player may search their deck for any card, and create an identical copy of it in their hand.||
-|Downdraft|3|At the start of the owner's turn, creatures to the left and right of the sigil bearer gain the effect of the Airborne sigil until the end of the turn.Cards played adjacent to the sigil bearer also gain the effect of the Airborne sigil until the end of the turn.||
-|Vessel Printer (Act 2)|2|A version of the Vessel Printer sigil which functions in Act 2.||
-|Recharge|1|When the sigil bearer is played, the player gains 1 energy. Does not affect energy maximum.||
-|Vessel Shedder|4|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, and leave an Empty Vessel in their place.||
-|Gift Bearer|3|When the sigil bearer perishes, a random common card from the same Temple will be created in the player's hand.A modified version of the Gift Bearer sigil which works in all acts.|Created card gains all mods given to the original.|
-|Kin Bearer|3|When the sigil bearer perishes, a random card from the same Temple and Tribe will be created in the player's hand.If the bearer has no tribe, the created card is completely random.|Created card gains all mods given to the original.|
-|Harts Within|3|When the sigil bearer is struck, a random card from the Hooved tribe is created in the player's hand.||
-|Artistic License|2|If the sigil bearer is played opposite an opponent's creature, that creature loses all sigils.||
-|Chaos Strike|3|When the sigil bearer is drawn, this sigil is replaced by a random strike modifier sigil.||
-|Blood Dependent|-3|If the sigil bearer does not strike a creature during it's turn, it will die at the beginning of the owner's next turn.||
-|Death Snatch|2|When the sigil bearer perishes, a card is automatically drawn from the player's deck.||
-|Aculeate Grip|1|If a card is placed on the same side of the board as the sigil bearer, the sigil bearer will move towards them as far as possible, dealing 1 damage to whatever they collide with (be it the placed card, or an obstacle) and increasing it's own Health by 1.||
-|Motivator|-2|When the sigil bearer strikes a creature, that creature gains 1 power.||
-|Paralytic|1|When the sigil bearer strikes a creature, that creature loses 1 power.|Does not affect cards with the Giant trait.|
-|Buzz Off|3|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, leaving a Mayfly in it's place. (See Cards section)||
-|Coastguard|1|The sigil bearer during the opponent's turn. When an opposing creature is placed opposite to an empty space, the sigil bearer will move to that empty space, while remaining submerged.||
-|Spiders Web|4|If the sigil bearer is on the board, any time an opponent's creature moves (with the exception of entering the board for the first time) the sigil bearer will strike them for one damage.||
-|Triple Strike|5|The sigil bearer will strike the opposing space two extra times when attacking.||
-|Bonelust|4|When the sigil bearer kills another creature, the player is granted 3 bones.||
-|Moxwarp|3|While the sigil bearer is on the board, any damage dealt to a Sapphire Mox will cause all Ruby Mox on the board to attack for the amount dealt.Any damage dealt to a Ruby Mox will also cause all Sapphire Mox on the board to attack for the amount dealt.||
-|Tempting Target|2|If an opponent creature would strike a space adjacent to the sigil bearer, it will instead strike the sigil bearer.||
-|Swooping Strike|4|The sigil bearer will strike the opposing space an extra time when attacking.The sigil bearer will gain the effect of the Airborne sigil at the beginning of each turn, but lose it after striking for the first time on that turn.||
-|Graveyard Shift|3|When the sigil bearer dies, a specified card is left in it's place.|Unlike Frozen Away, this card will gain any modifiers applied to the original.
-|Incontinent|4|When the sigil bearer would be struck, a Mess is created in it's place (see Cards Section) and the sigil bearer moves to the right.||
-|Blood From Stone|2|The player may sacrifice Terrain cards in order to play the sigil bearer.||
-|Tug|1|When the sigil bearer is played opposing an empty space with an opponent creature queued to come in on the opponent's turn, that creature will instead be pulled into the opposing space during the current turn.||
-|Point Nemo|2|When the sigil bearer is played, all cards on the board gain the Waterborne Sigil.|Does not affect cards with the Uncuttable trait.|
-|Gooey|3|When the sigil bearer is struck, the striker loses 1 power.|Does not affect cards with the Giant trait.|
-|Immaterial|1|When the sigil bearer is attacked during normal combat action, any damage will pass straight through to the bearer's owner.||
-|Stalwart|1|Any movement by the sigil bearer will be cancelled, and return the sigil bearer to it's original space.||
-|Gold Rush|5|When the sigil bearer is played, all opponent cards on the board perish, and are replaced by Gold Nuggets.||
-|Fire In The Hole|4|When the sigil bearer perishes, it's owner may choose an opponent slot. The creature in that slot takes 10 damage.||
-|Erratic|0|After attacking, the sigil bearer will move in the direction the sigil is pointing. Cannot move if obstructed. 50% chance to flip the sigil direction each turn.||
-|Soak|5|Any damage taken by the sigil bearer is reduced by 1. After being struck the number of times rendered on the sigil, the bearer will attack with power equal to it's current health, then perish.|Times required to be struck is configurable via Extended Properties.|
-|Dog Gone|2|The sigil bearer gains +2 power if opposed by a creature in the Canine tribe.||
-|Snakebite|2|The sigil bearer gains +2 power if opposed by a creature in the Reptile tribe.||
-|Fowl Play|2|The sigil bearer gains +2 power if opposed by a creature in the Avian tribe.||
-|Deerly Departed|2|The sigil bearer gains +2 power if opposed by a creature in the Hooved tribe.||
-|Insectivore|2|The sigil bearer gains +2 power if opposed by a creature in the Insect tribe.||
-|Crusher|1|The sigil bearer gains +2 power if opposed by a Terrain card.||
-|Rock Eater|0|Any terrain cards played while the sigil bearer is on the board will be removed, and their stats and sigils will be added to the sigil bearer.||
-|Fatal Flank|3|When the sigil bearer perishes, it creates an Unnatural Creature to it's left and right.|Exact card created is configurable|
-|Eager|3|The sigil bearer gains +2 power for one turn after being played.||
-|Lurk|4|The sigil bearer will submerge during the opponent's turn. When an enemy card enters the space directly opposing the sigil bearer, the sigil bearer will strike it for 1 damage.||
-|Lash Out|3|At the end of the owner's turn, the sigil bearer will attack a random opponent space.||
-|Ravenous|5|The sigil bearer will strike the opposing space an additional time when attacking for every creature it has killed since the beginning of combat.||
-|Esprit De Corps|3|While the sigil bearer is on the board, cards in the leftmost and rightmost slots on the same side of the board gain 1 power.||
-|Sanguine|4|While the sigil bearer is on the board, it will gain +1 power when the player sacrifices a creature. These buffs last for the remainder of the battle.||
-|Unbalanced Leadership|3|The creature to the left of the sigil bearer gains 2 power.||
-|Bone Duke|1|When the sigil bearer dies, it's owner gains 2 additional bones for a total of 3.||
-|Sturdy|3|Any damage taken by the sigil bearer is reduced by 1.||
-|Resilient|4|Any damage taken by the sigil bearer is reduced to 1.||
-|Mauler|4|When the sigil bearer kills a creature, any overkill damage is dealt directly to that creature's owner, rather than the queued card.||
-Fossil Record|1|While the sigil bearer is on the board, any terrain cards which perish grant an additional 3 bones to the player.||
-|Call To Arms|4|When the sigil bearer is played, the creatures to it's left and right will immediately attack.||
-|Splash Damage|4|When the sigil bearer strikes a slot, creatures to the left and right of that slot also take 1 damage.||
-|Phantasmic|1|At the end of the owner's turn, the sigil bearer will move in the direction the sigil is pointing. It will pass through obstructions, and wrap around to the other side of the board if it hits the edge.||
-|Waterborne Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Waterborne sigil.||
-|Sprinter Latch|0|When the sigil bearer dies, it's owner chooses a card to gain the Sprinter sigil.||
-|Burning Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burning sigil.||
-|Burrower Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burrower sigil.||
-|Weird Latch|1|When the sigil bearer is drawn, this sigil is replaced by a random latch sigil.||
-|Repulsive When Powered|4|While the sigil bearer is within a conduit, if another creature would strike the sigil bearer, it does not.||
+|Sigil Name|Power Level|Description|Notes|
+|-|-|-|-|
+Copier|4|When the sigil bearer is killed by another card, a copy of the card that killed it is created in the player's hand.|Has unique interactions when killed by certain boss effects.
+Flighty|0|At the end of the turn, the sigil bearer will move to a random open space on the same side of the board.|
+Harbinger|1|While the sigil bearer is on the board, when another card on the player's side of the board dies, the sigil bearer will move to their empty spot.|
+Gut Spewer|2|When played, creates a Guts in your hand (See Cards section).|Guts adopts all the sigils of the original bearer.
+Exploding Corpse|4|When the sigil bearer dies, a Guts is created in every empty space.|Guts adopt one of the sigils of the original bearer, chosen at random.
+Doomed|-3|At the end of the turn, the sigil bearer dies.|
+Unfocused Strike|1|The sigil bearer will attack a random opponent space when it attacks.|With multiple strikes, each strike will be random.
+Commander|4|When the sigil bearer is struck by another creature, the cards to it's left and right will attack that creature.|
+Bandage Weaver|3|At the end of the turn, cards to the left and right of the sigil bearer are healed 1 health.|Cannot overheal.
+Endangered|-2|At the end of the turn, the sigil bearer has a 25% chance to die.|
+Tooth Puller|3|At the end of the turn, a point of damage is added to the opponent's scale.|
+Trophy Hunter|2|The sigil bearer will strike the most powerful opponent card when it attacks.|See Card Power Level on the Inscryption Wiki for more details on card power.
+Fearsome|2|When a card bearing this sigil attacks a space containing another creature, that creature will move out of the way if there is room.|
+Trio|5|When the sigil bearer is played, a copy of the sigil bearer is created to it's left and right.|
+Hypermorphic|0|At the end of the turn, the sigil bearer will transform into a random card.The new creature will also have the Hypermorphic sigil.|Rare cards will always transform into rare cards, and commons will always transform into commons.Cards will only turn into cards of the same Temple.In Act 1, if the card is common and has a tribe, it will only transform into cards of the same tribe.
+Enraged|4|When the sigil bearer is struck, it gains 1 Power.|
+Medicinal|3|When the sigil bearer is played, all friendly cards on the board are healed for 2 HP, and lose all sigils with negative Sigil Power.|
+Burning|-1|At the end of the term, the sigil bearer takes 1 damage.Any creatures which strike the sigil bearer also gain the Burning sigil.|
+Fire Resistant|0|The sigil bearer will not take damage from the Burning sigil.|
+Ignition|4|Creatures struck by the sigil bearer gain the Burning sigil.|Cannot ignite creatures with the Made Of Stone sigil.
+Savage Ritual|3|When the sigil bearer is sacrificed, it will attack once before perishing.|
+Trapjaw|4|The sigil bearer will attack twice.If there is a card to the left of the opposing space, it will strike that card. If not, it will strike straight forward.If there is a card to the right of the opposing space, it will attack that space. If not, it will attack straight forward.|
+Skin Animator|3|While the sigil bearer is on the board, any pelt cards on the same side of the board gain the sigil bearer's attack power.|
+Organ Thief|2|When the sigil bearer kills another creature, a Guts is created in the player's hand.|
+Snapshot|4|When the sigil bearer is played, it records the state of the board.When the sigil bearer dies, it resets the board to this state, minus itself.|
+Energy Dependent|-2|If the player has no energy, the sigil bearer dies.|
+Crooked Strike Left|0|The sigil bearer's attacks will always be one space to the left of where they would be normally.|If the sigil bearer also has Crooked Strike Right, it will behave as if it has Bifurcated Strike.
+Crooked Strike Right|0|The sigil bearer's attacks will always be one space to the right of where they would be normally.|
+Lonesome|4|The sigil bearer gains +1 power for each empty adjacent space, up to a max of +2.|
+Deus Hoof|4|While the sigil bearer is on the board, all Hooved tribe cards on the same side of the board gain +1 power and health.When the sigil bearer is struck, all Hooved tribe cards on the same side of the board will attack the striker.|
+Ripper|3|When a non-terrain card with no cost and 1 health is played on the same side of the board as the sigil bearer, it will die.The sigil bearer will move to the position in which it was placed, and gain +1 power and health.|Will also trigger on the Black Goat, regardless of it's health.Consuming the Black Goat grants +3 Power and Health.
+Haunter|2|When the sigil bearer dies, it's sigils (except for Haunter) will linger in the space it died in. The next card to enter that space will gain those sigils.|Only works in Act 1.
+Frail Sacrifice|-2|When the sigil bearer is sacrificed, the creature it was sacrificed for gains the Frail sigil.|
+Mockery|3|If the sigil bearer is played opposite an opponent's creature, it will adjust it's stats to match that creature's stats for the remainder of the fight.|
+Immortal Coil|5|If a card belonging to the player dies while the sigil bearer is on the board, the perished card will return to the player's hand with one less health.|Cannot make a card's health less than one.Cannot resurrect itself.
+Clawed|4|When the sigil bearer is played, a Claw (Left) is created to it's left, and a Claw (Right) is created to it's right.If those spaces are occupied, any creatures in them will die to make room for the claws.|
+Claw|-3|The sigil bearer will lose all attack power if it is not adjacent to a card with the Clawed sigil.|
+Running Strike|3|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing.Before moving, the sigil bearer will attack the space opposite of the space it is moving to.|
+Abstain|-2|The sigil bearer will not attack during the normal turn order, but may still be prompted to attack by other sigil effects.|
+Cute|4|When the sigil bearer is struck, the card that struck it will be rendered unable to attack next turn.|
+Web|2|If a creature in the Insect tribe would strike the sigil bearer, it does not.|
+Trampler|1|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing. If there is a card in the space that is being moved to, that card will die. When killing a card via moving over it, the sigil bearer will gain +1 Power.|
+Sharper Quills|2|When the sigil bearer is struck, the striker will take 2 damage.|
+Clawing Hand|3|When the sigil bearer is struck, the striker will take damage equal to the number of cards in the player's hand.|
+Weaver|2|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, and leave a Web in it's place. (See Cards section)|
+Return Strike|4|When the sigil bearer is struck, it will attack the striker once in retaliation.|
+Inspiring Sacrifice|4|When the sigil bearer is sacrificed, the creature it was sacrificed for gains all of it's sigils.|
+Decked Out|3|When the sigil bearer is struck, a Squirrel, Empty Vessel, Skeleton, or random Mox Gem is created in the player's hand.|
+Bone Dependent|-2|If the player has no bones, the sigil bearer dies.|
+Other Side|3|While the sigil bearer is on the board, a Skeleton will be created in the player's hand whenever a player creature perishes.|Cannot create Skeletons from Skeletons, or itself.
+Exceptional Sacrifice|4|Increases the sigil bearer's blood worth for sacrifice by 5.|
+Trifling Sacrifice|1|Increases the sigil bearer's blood worth for sacrifice by 1.|
+Visceral|1|When the sigil bearer is sacrificed, the player gains bones equal to the amount of blood which was wasted in the sacrifice.|
+Tuck And Roll|3|At the beginning of the owner's turn, the sigil bearer will move to the leftmost unnoccupied slot which is opposed by the least attack power.|If there is no card in an opposing space and the sigil bearer belongs to the player, it will consider the opponent's queued card instead.Creatures with Touch of Death are considered 999 attack power unless the sigil bearer has the Made of Stone sigil.Creatures with Airborne are considered 0 attack power unless the sigil bearer has Mighty Leap.
+Bone Spurs|2|When the sigil bearer is struck, the player gains 1 bone.|
+Crossbones|1|When the sigil bearer is played, the player gains 2 bones.|
+Home Run|0|The sigil bearer will always attack the slot opposite the slot it was placed in, even if it moves.|
+Squirrel Dependent|-3|If there are no cards in the Squirrel Tribe on the same side of the board as the sigil bearer, the sigil bearer will die.|If the sigil bearer itself is in the Squirrel tribe, it cannot keep itself alive.
+Vampiric|3|When the sigil bearer kills another creature, it gains +1 Health.|
+Allure|2|At the start of the owner's turn, if the slot opposite the sigil bearer is empty, creatures to the left or right of the empty slot will be moved into it.|
+Traitor|-3|When the sigil bearer is played, if the slot opposite it is empty, it will move into that slot.|
+Termite King|1|If the sigil bearer is on the same side of the board as a card with the Termatriarch Sigil, the Termatriarch sigil will be allowed to activate.|
+Termatriarch|1|At the start of the owner's turn, if there is also a card with the Termite King sigil on the same side of the board, a Termite will be created in the player's hand. (See Cards section)|Created Termite will adopt any modifiers given to both parents.
+Parthenogenesis|4|When the sigil bearer dies, it will leave a Clone Grub in it's place. The Clone Grub will evolve back into a copy of the original sigil bearer.|Does not trigger on Sacrifice.
+Landscaper|2|When the sigil bearer is played, all Terrain cards are removed from the board and added to the player's hand.|
+Diver|0|When the sigil bearer attacks a slot containing a submerged card, it will force the card to re-emerge in order to be attacked.|
+Fan Tailed|2|When the sigil bearer is played, all cards on the same side of the board gain the effect of the Airborne sigil until the end of the turn.|
+Transformer (Custom)|3|At the end of the turn, the sigil bearer will transform to a set alternate form.|If the sigil bearer does not have a set alternate form, it will instead alternate between having and not having a +2 power buff each turn.
+Twister|3|When the sigil bearer is struck, it transforms to a sert alternate form.|If the sigil bearer does not have a set alternate form, it will instead alternate between having and not having a +2 power buff each time it is struck.
+Twin Bond|4|When the sigil bearer is played, an identical copy is created to the left or right, even killing adjacent cards to make space if necessary.The original and it's copy share the same health, and if one dies, the other will as well.|
+Subaquatic Spines|3|The sigil bearer will submerge itself during the opponent's turn. Creatures which attack the space the sigil bearer is in will take 1 damage.|
+Frail|-2|If the sigil bearer takes any damage, it will die.|
+Caustic|3|When the sigil bearer perishes, the creature that killed it will also die.|
+Amorphous (Act 2)|3|A special version of the Amorphous sigil which functions in Act 2, and can take on Act 2 sigils.|
+Ant Guardian|3|When any card with the Ant trait on the same side of the board as the sigil bearer is struck, the sigil bearer will attack the striker in retaliation.|If the sigil bearer has the Ant trait, it will not avenge itself.
+Moxcraft|3|When the sigil bearer is struck, a random mox gem is created in the owner's hand.|
+Woodsie Lord|3|When the sigil bearer is played, an Enchanted Pine is created in every empty space on the board.|
+Fringe Strike|4|The sigil bearer will always strike the leftmost and rightmost opponent spaces when it attacks.|
+Dupeglitch|5|When the sigil bearer is played, the player may search their deck for any card, and create an identical copy of it in their hand.|
+Downdraft|3|At the start of the owner's turn, creatures to the left and right of the sigil bearer gain the effect of the Airborne sigil until the end of the turn.Cards played adjacent to the sigil bearer also gain the effect of the Airborne sigil until the end of the turn.|
+Vessel Printer (Act 2)|2|A version of the Vessel Printer sigil which functions in Act 2.|
+Recharge|1|When the sigil bearer is played, the player gains 1 energy. Does not affect energy maximum.|
+Vessel Shedder|4|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, and leave an Empty Vessel in their place.|
+Gift Bearer|3|When the sigil bearer perishes, a random common card from the same Temple will be created in the player's hand.A modified version of the Gift Bearer sigil which works in all acts.|Created card gains all mods given to the original.
+Kin Bearer|3|When the sigil bearer perishes, a random card from the same Temple and Tribe will be created in the player's hand.If the bearer has no tribe, the created card is completely random.|Created card gains all mods given to the original.
+Harts Within|3|When the sigil bearer is struck, a random card from the Hooved tribe is created in the player's hand.|
+Artistic License|2|If the sigil bearer is played opposite an opponent's creature, that creature loses all sigils.|
+Chaos Strike|3|When the sigil bearer is drawn, this sigil is replaced by a random strike modifier sigil.|
+Blood Dependent|-3|If the sigil bearer does not strike a creature during it's turn, it will die at the beginning of the owner's next turn.|
+Death Snatch|2|When the sigil bearer perishes, a card is automatically drawn from the player's deck.|
+Aculeate Grip|1|If a card is placed on the same side of the board as the sigil bearer, the sigil bearer will move towards them as far as possible, dealing 1 damage to whatever they collide with (be it the placed card, or an obstacle) and increasing it's own Health by 1.|
+Motivator|-2|When the sigil bearer strikes a creature, that creature gains 1 power.|
+Paralytic|1|When the sigil bearer strikes a creature, that creature loses 1 power.|Does not affect cards with the Giant trait.
+Buzz Off|3|At the end of the turn, the sigil bearer will move in the direction the sigil is pointing, leaving a Mayfly in it's place. (See Cards section)|
+Coastguard|1|The sigil bearer during the opponent's turn. When an opposing creature is placed opposite to an empty space, the sigil bearer will move to that empty space, while remaining submerged.|
+Spiders Web|4|If the sigil bearer is on the board, any time an opponent's creature moves (with the exception of entering the board for the first time) the sigil bearer will strike them for one damage.|
+Triple Strike|5|The sigil bearer will strike the opposing space two extra times when attacking.|
+Bonelust|4|When the sigil bearer kills another creature, the player is granted 3 bones.|
+Moxwarp|3|While the sigil bearer is on the board, any damage dealt to a Sapphire Mox will cause all Ruby Mox on the board to attack for the amount dealt.Any damage dealt to a Ruby Mox will also cause all Sapphire Mox on the board to attack for the amount dealt.|
+Tempting Target|2|If an opponent creature would strike a space adjacent to the sigil bearer, it will instead strike the sigil bearer.|
+Swooping Strike|4|The sigil bearer will strike the opposing space an extra time when attacking.The sigil bearer will gain the effect of the Airborne sigil at the beginning of each turn, but lose it after striking for the first time on that turn.|
+Graveyard Shift|3|When the sigil bearer dies, a specified card is left in it's place.|Unlike Frozen Away, this card will gain any modifiers applied to the original.
+Incontinent|4|When the sigil bearer would be struck, a Mess is created in it's place (see Cards Section) and the sigil bearer moves to the right.|
+Blood From Stone|2|The player may sacrifice Terrain cards in order to play the sigil bearer.|
+Tug|1|When the sigil bearer is played opposing an empty space with an opponent creature queued to come in on the opponent's turn, that creature will instead be pulled into the opposing space during the current turn.|
+Point Nemo|2|When the sigil bearer is played, all cards on the board gain the Waterborne Sigil.|Does not affect cards with the Uncuttable trait.
+Gooey|3|When the sigil bearer is struck, the striker loses 1 power.|Does not affect cards with the Giant trait.
+Immaterial|1|When the sigil bearer is attacked during normal combat action, any damage will pass straight through to the bearer's owner.|
+Stalwart|1|Any movement by the sigil bearer will be cancelled, and return the sigil bearer to it's original space.|
+Gold Rush|5|When the sigil bearer is played, all opponent cards on the board perish, and are replaced by Gold Nuggets.|
+Fire In The Hole|4|When the sigil bearer perishes, it's owner may choose an opponent slot. The creature in that slot takes 10 damage.|
+Erratic|0|After attacking, the sigil bearer will move in the direction the sigil is pointing. Cannot move if obstructed. 50% chance to flip the sigil direction each turn.|
+Soak|5|Any damage taken by the sigil bearer is reduced by 1. After being struck the number of times rendered on the sigil, the bearer will attack with power equal to it's current health, then perish.|Times required to be struck is configurable via Extended Properties.
+Dog Gone|2|The sigil bearer gains +2 power if opposed by a creature in the Canine tribe.|
+Snakebite|2|The sigil bearer gains +2 power if opposed by a creature in the Reptile tribe.|
+Fowl Play|2|The sigil bearer gains +2 power if opposed by a creature in the Avian tribe.|
+Deerly Departed|2|The sigil bearer gains +2 power if opposed by a creature in the Hooved tribe.|
+Insectivore|2|The sigil bearer gains +2 power if opposed by a creature in the Insect tribe.|
+Crusher|1|The sigil bearer gains +2 power if opposed by a Terrain card.|
+Rock Eater|0|Any terrain cards played while the sigil bearer is on the board will be removed, and their stats and sigils will be added to the sigil bearer.|
+Fatal Flank|3|When the sigil bearer perishes, it creates an Unnatural Creature to it's left and right.|Exact card created is configurable.
+Eager|3|The sigil bearer gains +2 power for one turn after being played.|
+Lurk|4|The sigil bearer will submerge during the opponent's turn. When an enemy card enters the space directly opposing the sigil bearer, the sigil bearer will strike it for 1 damage.|
+Lash Out|3|At the end of the owner's turn, the sigil bearer will attack a random opponent space.|
+Ravenous|5|The sigil bearer will strike the opposing space an additional time when attacking for every creature it has killed since the beginning of combat.|
+Esprit De Corps|3|While the sigil bearer is on the board, cards in the leftmost and rightmost slots on the same side of the board gain 1 power.|
+Sanguine|4|While the sigil bearer is on the board, it will gain +1 power when the player sacrifices a creature. These buffs last for the remainder of the battle.|
+Unbalanced Leadership|3|The creature to the left of the sigil bearer gains 2 power.|
+Bone Duke|1|When the sigil bearer dies, it's owner gains 2 additional bones for a total of 3.|
+Sturdy|3|Any damage taken by the sigil bearer is reduced by 1.|
+Resilient|4|Any damage taken by the sigil bearer is reduced to 1.|
+Mauler|4|When the sigil bearer kills a creature, any overkill damage is dealt directly to that creature's owner, rather than the queued card.|
+Fossil Record|1|While the sigil bearer is on the board, any terrain cards which perish grant an additional 3 bones to the player.|
+Call To Arms|4|When the sigil bearer is played, the creatures to it's left and right will immediately attack.|
+Splash Damage|4|When the sigil bearer strikes a slot, creatures to the left and right of that slot also take 1 damage.|
+Phantasmic|1|At the end of the owner's turn, the sigil bearer will move in the direction the sigil is pointing. It will pass through obstructions, and wrap around to the other side of the board if it hits the edge.|
+Filter Feeder|4|When a creature adjacent to the sigil bearer dies, the sigil bearer gains 1 power or 1 health.|
+Wavering Strike|0|At the end of each turn, the sigil bearer will alternate between attacking one slot to the left of it's normal targets, or one slot to the right of it's normal targets.|
+Pinnacle Strike|5|The sigil bearer will strike all opponent slots when it attacks.|
+Odd Strike|4|The sigil bearer will strike all odd indexed opponent slots.|
+Even Strike|4|The sigil bearer will strike all even indexed opponent slots.|
+Valuable|2|When the sigil bearer dies, it's owner gains an amount of currency.|Gives 2 teeth in act 1, 3 foils in act 2, and 3 robobucks in act 3.
+Thief|2|When the sigil bearer kills a creature, the player gains 1 currency.|
+Center Strike|4|The sigil bearer will strike all opponent slots except for those in the leftmost and rightmost lanes.|
+Herald|4|When the sigil bearer kills a creature, creatures to the left and right of the bearer gain 1 power.|
+Revolve|3|When the sigil bearer is played, all creatures on the board move one space clockwise.|
+Divisibility Strike|4|The sigil bearer alternates between the effects of Odd Strike and Even Strike at the end of each turn.|
+Venator|3|When the sigil bearer kills a creature, it will transform to or from an alternate form.|If the sigil bearer does not have a set alternate form, it will instead alternate between having and not having a +2 power buff upon scoring a kill.
+Summoner|3|When the sigil bearer is played, the player is presented a selection of three random creatures. They may choose one to be created in their hand.|
+Sharpest Quills|3|When the sigil bearer is struck, the striker takes 3 damage.|
+Sinister Strike|4|The sigil bearer will also strike the space to the left of the opposing space when it attacks.|
+Dexter Strike|4|The sigil bearer will also strike the space to the right of the opposing space when it attacks.|
+Remote Controlled|3|When the sigil bearer is played, a Remote Controller is created in the player's hand. When the remote controller is struck, the sigil bearer will attack the striker.|
+Pushover|-1|The sigil bearer will perish if it is opposed by a creature.|
+Healshield|2|If the sigil bearer does not take damage or lose the armored sigil for a turn, it will gain the Armored sigil at the start of the next turn.|
+Sentriple|4|When a creature moves in front of the sigil bearer, that creature, as well as any adjacent creatures to it, are dealt 1 damage.|
+Bloodrunner|1|When the sigil bearer strikes a creature it will move in the direction the sigil is pointing.|
+Surging Quills|2|When the sigil bearer is struck, it deals damage to the striker equal to how many times it has taken damage in the battle.|
+Split Sentry|3|When a creature moves in front of the sigil bearer, cards adjacent to that creature are dealt 1 damage.|
+Snare|3|When the sigil bearer is played, it consumes the opposing creature. The opposing creature will be released back into the opposing space when the sigil bearer perishes.|
+Bully|1|The sigil bearer will strike the least powerful opponent card when it attacks.|
+Legion|4|When struck, the sigil bearer will create a number of Spirit Beasts in the owner's hand equal to how much health the sigil bearer has remining. After this, the sigil bearer will perish.|Configurable.
+Waterborne Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Waterborne sigil.|
+Sprinter Latch|0|When the sigil bearer dies, it's owner chooses a card to gain the Sprinter sigil.|
+Burning Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burning sigil.|
+Burrower Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burrower sigil.|
+Weird Latch|1|When the sigil bearer is drawn, this sigil is replaced by a random latch sigil.|
+Repulsive When Powered|4|While the sigil bearer is within a conduit, if another creature would strike the sigil bearer, it does not.|
 
 ___
 ### Nevernameds Activated Sigils
@@ -792,15 +817,19 @@ ___
 the mod GUID is 'nevernamed.inscryption.sigils'
 
 |Sigil Name|Power Level|Cost|Description|Notes|
-|-|:-:|:-:|:-:|:-:|
-|Fetch|1|1|When activated, the sigil bearer will move in the direction the sigil is pointing.||
-|Remove|0|Free|When activated, the sigil bearer will die.|\
-|Eternal Gallop|5|Free|When activated, the sigil bearer will move in the direction the sigil is pointing.||
-|Flip|0|Free|When activated, the sigil bearer has a 50/50 chance to either gain +1 power and health, or die.||
-|Dredge|4|4|When activated, the player may search their deck for any card and add it to their hand.||
-|Bonefed|2|2|When activated, the sigil bearer is healed for 3 health.|Cannot overheal.|
-|Bone Strike|4|2|When activated, the sigil bearer will strike the creature opposing it for 1 damage.||
+|-|-|-|-|-|
+|Fetch|1|1|When activated, the sigil bearer will move in the direction the sigil is pointing.|
+|Remove|0|Free|When activated, the sigil bearer will die.|
+|Eternal Gallop|5|Free|When activated, the sigil bearer will move in the direction the sigil is pointing.|
+|Flip|0|Free|When activated, the sigil bearer has a 50/50 chance to either gain +1 power and health, or die.|
+|Dredge|4|4|When activated, the player may search their deck for any card and add it to their hand.|
+|Bonefed|2|2|When activated, the sigil bearer is healed for 3 health.|Cannot overheal.
+|Bone Strike|4|2|When activated, the sigil bearer will strike the creature opposing it for 1 damage.|
 |Upgrade Subroutine|3|Complex|When the sigil bearer kills another creature, this sigil gains a point. When activated, the sigil bearer's owner is presented with a coice of three sigils with which to permanently upgrade the sigil bearer, spending some points. The more points accumulated before activation, the higher quality the presented options can be.|
+|Causality|2|1|When activated, picks one of the following effects to trigger: Nothing, Deal 1 damage directly to the opponent, Increase the power of one of your cards by 1, or increase the health of one of your cards by 1.|
+|Carnivore|2|2|When activated, the sigil bearer gains 3 power.|
+|Deadbeat|1|Free|When activated, the owner may pick another creature on their side of the board, and kill it.|
+|Bloodbait|1|1|When activated, the sigil bearer will return to the owner's hand.|
 
 ___
 ### Nevernameds Variable Stats
@@ -810,20 +839,21 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 *Special power or health stat icons which change in response to stimuli.*
 
 |Name|Type|Description|Notes|
-|-|:-:|:-:|:-:|
-|Ant Plus Two|Power|Value represented is equal to the number of Ants on the same side of the board, plus two.||
-|Health Damage|Power|Value represented is equal to the bearer's current Health.||
-|Blood And Bone|Power|Value represented is equal to the opposing card's blood cost plus half the opposing card's bone cost.||
-|Director Of The Board|Power|Value represented is equal to the number of cards on the board, including opponent cards.||
-|Damage Dice|Power|Value represented starts at 3, and at the beginning of all subsequent turns will change to a random number between 1 and 6.||
-|Birds of a Feather|Power|Value represented is equal to the number of Avian tribe creatures on the board, including Opponent creatures.||
-|Pack Hunter|Power|Value represented is equal to the number of Canine tribe creatures on the board, including Opponent creatures.||
-|Herding Beast|Power|Value represented is equal to the number of Hooved tribe creatures on the board, including Opponent creatures.||
-|World Wide Web|Power|Value represented is equal to the number of Arachnid tribe creatures on the board, including Opponent creatures.||
-|Boned|Health|Value represented is equal to the number of bones the player had when the card was played. Does not fluctuate with future bone changes.||
-|One Half Squirrels|Power|Value represented is equal to half the number of Squirrels remaining in the player's side deck.||
-|Sin Eater|Power|Value represented is equal to the number of sigils which were present on the cards sacrificed to play the bearer.||
-|Ambitious|Power|Value represented is equal to the highest damage number present on the board.|Recalculates at the start of each turn.|
+|-|-|-|-|
+Ant Plus Two|Power|Value represented is equal to the number of Ants on the same side of the board, plus two.|
+Health Damage|Power|Value represented is equal to the bearer's current Health.|
+Blood And Bone|Power|Value represented is equal to the opposing card's blood cost plus half the opposing card's bone cost.|
+Director Of The Board|Power|Value represented is equal to the number of cards on the board, including opponent cards.|
+Damage Dice|Power|Value represented starts at 3, and at the beginning of all subsequent turns will change to a random number between 1 and 6.|
+Birds of a Feather|Power|Value represented is equal to the number of Avian tribe creatures on the board, including Opponent creatures.|
+Pack Hunter|Power|Value represented is equal to the number of Canine tribe creatures on the board, including Opponent creatures.|
+Herding Beast|Power|Value represented is equal to the number of Hooved tribe creatures on the board, including Opponent creatures.|
+World Wide Web|Power|Value represented is equal to the number of Arachnid tribe creatures on the board, including Opponent creatures.|
+Boned|Health|Value represented is equal to the number of bones the player had when the card was played. Does not fluctuate with future bone changes.|
+One Half Squirrels|Power|Value represented is equal to half the number of Squirrels remaining in the player's side deck.|
+Sin Eater|Power|Value represented is equal to the number of sigils which were present on the cards sacrificed to play the bearer.|
+Ambitious|Power|Value represented is equal to the highest damage number present on the board.|Recalculates at the start of each turn.
+Strength In Numbers|Power|Value represented is equal to the number of creatures with the Strength in Numbers ability on the board, including opponent creatures.|
 
 ___
 ### Nevernameds Special Abilities
@@ -833,12 +863,13 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 *Special powers which behave like sigils, but do not appear on the card and are not transferrable.*
 
 |Name|Description|Notes|
-|-|:-:|:-:|
-|InherentFecundity|When the bearer is played, an exact copy of the bearer will be created in the player's hand.|Does not decay like standard Kaycees Mod Fecundity.|
-|ContinualEvolution|At the beginning of each turn, the bearer will gain +1 power and health.||
-|AbsorbOtherCards|While the bearer is on the board, any non-side-deck cards played on the same side of the board will be 'absorbed' into the bearer.The bearer will add the stats and sigils of any absorbed cards onto it's own.||
-|SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain an Unnatural Creature(see Cards section) in their hand for each sigil lost.These creatures will have one added sigil each, corresponding to the lost sigil.If the bearer had no sigils to lose, it will create a single, blank creature in the player's hand.||
-|InherentUndying|When the bearer perishes, an exact copy of the bearer will be created in the player's hand.||
+|-|-|-|
+InherentFecundity|When the bearer is played, an exact copy of the bearer will be created in the player's hand.|Does not decay like standard Kaycees Mod Fecundity.
+ContinualEvolution|At the beginning of each turn, the bearer will gain +1 power and health.|
+AbsorbOtherCards|While the bearer is on the board, any non-side-deck cards played on the same side of the board will be 'absorbed' into the bearer.The bearer will add the stats and sigils of any absorbed cards onto it's own.|
+SigilShedder|When the bearer is played, any sigils the bearer has will be removed, and the player will gain an Unnatural Creature(see Cards section) in their hand for each sigil lost.These creatures will have one added sigil each, corresponding to the lost sigil.If the bearer had no sigils to lose, it will create a single, blank creature in the player's hand.|
+InherentUndying|When the bearer perishes, an exact copy of the bearer will be created in the player's hand.|
+InherentCardOnHit|When the bearer is struck, a set creature is created in the player's hand.|
 
 ___
 ### Nevernameds tribes
@@ -848,7 +879,7 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 *Currently, there is only one unique tribe added by this mod.*
 
 |Name|General concept|
-|-|:-:|
+|-|-|
 Arachnid|Spiders, Scorpions, Ticks, and many other eight-legged arthropods fall into the category of Arachnids.
 Crustaceans|Crabs, lobsters, isopods, even barnacles! At the end of the day, we all return to crab.
 Rodent|Mice, rats, beavers, and even squirrels. All of these peculiar little mammals fall under the order of Rodentia.
@@ -861,7 +892,7 @@ GUID IS 'nevernamed.inscryption.sigils' [Unsure if its needed Here]
 A list of properties which modders using this sigil pack may apply to their cards to grant them various special properties.
 
 |Name|Effect|
-|-|:-:|
+|-|-|
 CustomDamDefinition|If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.
 CustomFactoryConduitDefinition|If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.
 CustomRabbitHoleDefinition|If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.
@@ -897,22 +928,10 @@ BannedFromBoneLord|If set to any value, the card will not appear as an option to
 CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.
 PreventPlay|If set to any value, the card will be unable to be played during combat.
 AllStrikesDoubled|If set to any value, the card will strike all spaces which it would normally strike an additional time when attacking.
-
-___
-### Nevernameds Cards
-
-|Name|Cost|Power|Health|Sigils|Tribe|Traits|Created By|Notes|
-|-|-|-|-|-|-|-|-|-|
-Web|Free|0|1|Web, Remove, Mighty Leap|None|Terrain, NoBones|Weaver|
-Guts|Free|0|1|Fledgling(3 Turns)|None|Terrain|Gut Spewer, Exploding Corpse, Organ Thief|Evolves into Festering Guts
-Festering Guts|Free|0|1|Doomed|None|Terrain|Guts w/ Fledgling|
-Claw (Left)|Free|1|1|Crooked Strike Right, Claw|None||Clawed|
-Claw (Right)|Free|1|1|Crooked Strike Left, Claw|None||Clawed|
-Clone Grub|Free|0|2|Fledgling|None||Parthenogenesis|Evolves into whatever created the Clone Grub via the Parthenogenesis sigil.
-Enchanted Pine|Free|0|2|Mighty Leap, Gem Dependent|None||Woodsie Lord|
-Unnatural Creature|Free|1|1||None||SigilShedder|
-Mess|Free|0|2||None||Stinky|
-Termite|2|1|2||Insect||Termite King, Termatriarch|
-Mayfly|1|1|1|Airborne, Brittle|Insect||Buzz Off|
-The Prospector|2|2|3|Guardian, Gold Rush|||Copier|
-Royal Dominguez|5|1|3|Skeleton Crew, Fire In The Hole|||Copier|
+InherentCardOnHitDef|If set to a valid card ID, will determine what creature the card gives with the InherentCardOnHit special ability.
+LegionCardOverride|If set to a valid card ID, will determine what creatures the card gives with the Legion sigil.
+SummonerGivesRareCards|If set to any value, the card will give a selection of Rare cards with the Summoner sigil.
+SummonerAdoptsMods|If set to any value, options given by the summoner sigil when applied to the card will adopt the card's modifications.
+NumberOfSummonerAddedSigils|If set to a number, card options given by the summoner sigil will have that number of randomly chosen added sigils.
+NumberOfSummonerOptions|If set to a number, the summoner sigil will give that number of options instead of the default 3.
+VenatorTransformation|If set to a valid card ID, will determine what the card transforms into with the Venator sigil.
