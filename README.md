@@ -503,57 +503,56 @@ bitty45.inscryption.sigils
 
 |Name|Description|
 |:-|:-|
-|**Restriction Sigils**|---|
-|Repulsion|A card bearing this sigil may not attack.|
-|Nonexistent Soul|A card bearing this sigil may not have sigils transferred to, or from this card.|
-|Weak Soul|A card bearing this sigil may not have its sigils transferred to another card.|
-|Strong Soul|A card bearing this sigil may not recieve sigils from another card.|
-|Pyrophobia|A card bearing this sigil may not be buffed at campsites.|
-|Pyrophobia (Power)|A card bearing this sigil may not recieve Power buffs from campsites.|
-|Pyrophobia (Health)|A card bearing this sigil may not recieve Health buffs from campsites.|
-|Foolhardy|A card bearing this sigil may not recieve modifications from any source.|
-|Mox Phobic|If a card bearing this sigil's owner controls a Mox card, a card bearing this sigil perishes.|
-|**Strafe Sigils**|---|
-|Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.|
-|Hauler|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.|
-|Jumper|At the end of the owner's turn, a card bearing this sigil will move itself to the first empty space in the direction inscribed in the sigil.|
-|Super Sprinter|At the end of the owner's turn, a card bearing this sigil will move itself as far as possible in the direction inscribed in the sigil.|
-|Board Shifter|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. All cards will shift in the same direction, looping to the other edge of the board.|
-|Board Shifter (Opponent)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.|
-|Board Shifter (Player)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.|
-|**Swap Sigils**|---|
-|Heart Swap|When a card bearing this sigil is played, all cards on the board swap their power and health.|
-|Stubborn|A card bearing this sigil may not have its stats swapped.|
-|Flipper|At the end of the owner's turn, a card bearing this sigil swaps its stats.|
-|**Hand/Deck Sigils**|---|
-|Replenish|When a card bearing this sigil is drawn, draw a card.|
-|Fleeting|A card bearing this sigil will be discarded at the end of the turn.|
-|Fleeting Draw|When a card bearing this sigil is played, draw 1 card with Fleeting.|
-|Outcast|At the end of the turn, a card bearing this sigil is shuffled into the deck.|
-|Explosive Squirrel Reproduction|When a card bearing this sigil is played, fill your side deck with squirrels.|
-|**Misc Sigils**|---|
-|Dusty Quill|Whenever a creature dies while a card bearing this sigil is on the board, a corpse is raised in it's place. Corpses are defined as: 0/1.|
-|Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.|
-|Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.|
-|Soul Link|When a card bearing this sigil perishes, all other allied cards bearing this sigil perish as well.|
-|Hollow Draw|When a card bearing this sigil is played, discard the oldest card in your hand, draw a card.|
-|Hollow Barrage|When a card bearing this sigil is played, all cards take 1 damage.|
-|Hollow Repeater|When a card bearing this sigil perishes, all On Play sigils on that card are activated.|
-|Champion|A card bearing this sigil will not take damage from other cards except from combat.|
-|Clockwise|When a card bearing this sigil is played, all cards are moved clockwise.|
-|Twister|At the end of each turn a card bearing this sigil is on the board, move all cards on the board clockwise.|
-|Counter Attack|Once a card bearing this sigil is struck, the striker is then dealt damage equal to this card's attack.|
-|Mirror Counter|Once a card bearing this sigil is struck, the striker is then dealt damage equal to the striker's attack.|
-|Deathbell|At the start of each turn, a card bearing this sigil perishes.|
-|Mutual Hire|When a card bearing this sigil is played, a copy of it is created in the opposing space.|
-|Mysterious Mushrooms|At the end of the turn, if there is a card on either side of a card bearing this sigil, they are fused together.|
-|Eggist|When a card bearing this sigil is played, an Egg is created on each empty adjacent space.|
-|Fir Caller|When a card bearing this sigil is played, a Fir is created in each of the player's spaces.|
-|**Activated Sigils**|---|
-|Charged Barrage|Activate: Pay 4 life to increase the power of all cards on your side of the board by 1.|
-|Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.|
-|Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.|
-|||
+Restriction Sigils|---
+Repulsion|A card bearing this sigil may not attack.
+Nonexistent Soul|A card bearing this sigil may not have sigils transferred to, or from this card.
+Weak Soul|A card bearing this sigil may not have its sigils transferred to another card.
+Strong Soul|A card bearing this sigil may not recieve sigils from another card.
+Pyrophobia|A card bearing this sigil may not be buffed at campsites.
+Pyrophobia (Power)|A card bearing this sigil may not recieve Power buffs from campsites.
+Pyrophobia (Health)|A card bearing this sigil may not recieve Health buffs from campsites.
+Foolhardy|A card bearing this sigil may not recieve modifications from any source.
+Mox Phobic|If a card bearing this sigil's owner controls a Mox card, a card bearing this sigil perishes.
+Strafe Sigils|---
+Sticky|At the end of the owner's turn, a card bearing this sigil will move the opposing card and itself in the direction inscribed in the sigil.
+Hauler|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Adjacent friendly creatures will be pulled in the same direction.
+Jumper|At the end of the owner's turn, a card bearing this sigil will move itself to the first empty space in the direction inscribed in the sigil.
+Super Sprinter|At the end of the owner's turn, a card bearing this sigil will move itself as far as possible in the direction inscribed in the sigil.
+Board Shifter|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. All cards will shift in the same direction, looping to the other edge of the board.
+Board Shifter (Opponent)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.
+Board Shifter (Player)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.
+Swap Sigils|---
+Heart Swap|When a card bearing this sigil is played, all cards on the board swap their power and health.
+Stubborn|A card bearing this sigil may not have its stats swapped.
+Flipper|At the end of the owner's turn, a card bearing this sigil swaps its stats.
+Hand/Deck Sigils|---
+Replenish|When a card bearing this sigil is drawn, draw a card.
+Fleeting|A card bearing this sigil will be discarded at the end of the turn.
+Fleeting Draw|When a card bearing this sigil is played, draw 1 card with Fleeting.
+Outcast|At the end of the turn, a card bearing this sigil is shuffled into the deck.
+Explosive Squirrel Reproduction|When a card bearing this sigil is played, fill your side deck with squirrels.
+Misc Sigils|---
+Dusty Quill|Whenever a creature dies while a card bearing this sigil is on the board, a corpse is raised in it's place. Corpses are defined as: 0/1.
+Wildlife Camera|When a card bearing this sigil kills another card, a copy of the killed card is created in your hand.
+Bleached Brush|When a card bearing this sigil is played, the opposing card will lose all its sigils.
+Soul Link|When a card bearing this sigil perishes, all other allied cards bearing this sigil perish as well.
+Hollow Draw|When a card bearing this sigil is played, discard the oldest card in your hand, draw a card.
+Hollow Barrage|When a card bearing this sigil is played, all cards take 1 damage.
+Hollow Repeater|When a card bearing this sigil perishes, all On Play sigils on that card are activated.
+Champion|A card bearing this sigil will not take damage from other cards except from combat.
+Clockwise|When a card bearing this sigil is played, all cards are moved clockwise.
+Twister|At the end of each turn a card bearing this sigil is on the board, move all cards on the board clockwise.
+Counter Attack|Once a card bearing this sigil is struck, the striker is then dealt damage equal to this card's attack.
+Mirror Counter|Once a card bearing this sigil is struck, the striker is then dealt damage equal to the striker's attack.
+Deathbell|At the start of each turn, a card bearing this sigil perishes.
+Mutual Hire|When a card bearing this sigil is played, a copy of it is created in the opposing space.
+Mysterious Mushrooms|At the end of the turn, if there is a card on either side of a card bearing this sigil, they are fused together.
+Eggist|When a card bearing this sigil is played, an Egg is created on each empty adjacent space.
+Fir Caller|When a card bearing this sigil is played, a Fir is created in each of the player's spaces.
+Activated Sigils|---
+Charged Barrage|Activate: Pay 4 life to increase the power of all cards on your side of the board by 1.
+Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sigil.
+Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.
 
 ___
 ### Tribal Libary
@@ -826,11 +825,49 @@ Split Sentry|3|When a creature moves in front of the sigil bearer, cards adjacen
 Snare|3|When the sigil bearer is played, it consumes the opposing creature. The opposing creature will be released back into the opposing space when the sigil bearer perishes.|
 Bully|1|The sigil bearer will strike the least powerful opponent card when it attacks.|
 Legion|4|When struck, the sigil bearer will create a number of Spirit Beasts in the owner's hand equal to how much health the sigil bearer has remining. After this, the sigil bearer will perish.|Configurable.
+Trajectile Quills|2|When the sigil bearer is struck, it's owner chooses an opponent card to be dealt 1 damage.|
+Blood Gusher|4|When the sigil bearer kills a creature, itself as well as creatures to it's left and right gain +1 health.|
+Propagation|2|When the sigil bearer kills a creature, a set card is created on the board to the bearer's left or right.|Configurable.
+Eye for Battle|-2|The sigil bearer will lose all attack power if it is not directly opposing an enemy creature.|
+Wingrider|1|If a friendly creature with the airborne sigil is played while the sigil bearer is in the owner's hand, the sigil bearer will be played for free adjacent to the airborne card.|
+Bisection|3|When the sigil bearer kills a creature, two free copies of the slain creature are created in the hand. These copies have zero power, and halved health.|
+Emancipation|3|When the sigil bearer is played, copies of any cards which the player has in bottle items are created in the owner's hand without expending the bottle.|
+Cheater|2|When the sigil bearer kills a creature, one direct damage is dealt to the opponent.|
+Collector|1|At the end of the turn, the sigil bearer will strafe. Cards which are in the way of the sigil bearer are returned to the owner's hand.|
+Collateral Damage|3|At the end of the turn, the card which is physically closest to the sigil bearer on the board will be dealt ten damage.|
+Siphon|2|Creatures to the left of the sigil bearer lose all power. The sigil bearer gains power equal to the stats lost by the adjacent card.|
+Hook Line and Sinker|4|When the sigil bearer perishes by combat, the enemy creature opposing it will be pulled across the board and into the bearers old space.|
+Squirrel King|3|When the sigil bearer deals damage to a creature, a squirrel is created in the owner's hand.|
+Spurred|2|The sigil bearer gains +1 power when the slot directly opposing it is occupied.|Configurable.
+Sharp Shot|4|When the sigil bearer takes fatal damage, it gains +2 power and attacks once before perishing.|
+Enemy Lines|5|The sigil bearer will strike all lanes that it is not directly opposing when it attacks.|
+Painful Presence|2|At the end of the turn, all creatures adjacent to the sigil bearer horizontally, vertically, or diagonally take 1 damage.|
+Bloodborn|1|When the sigil bearer is sacrificed, it will transform to or from it's alternate form instead of perishing.|Configurable.
+Armortify|4|When the sigil bearer kills a creature, it gains the Armored Sigil.|
+Distraction|2|When the sigil bearer would be struck, it moves to the right or left and leaves a set card behind.|Configurable. Uses the same card spawn parameters as Loose Tail.
+Flank Blast|-2|When the sigil bearer perishes, adjacent friendly creatures are dealt 10 damage.|
+Split Detonation|5|When the sigil bearer perishes, creatures which are diagonally adjacent to it are dealt 10 damage.|
+Card Shedder|3|After attacking, the sigil bearer strafes, and leaves a set card behind.|Configurable.
+Sapphire Heart|3|When the sigil bearer perishes, a Sapphire Mox is created in it's place.|
+Emerald Heart|3|When the sigil bearer perishes, an Emerald Mox is created in it's place.|
+Ruby Core|3|When the sigil bearer perishes, a Ruby Vessel is created in it's place.|
+Emerald Core|3|When the sigil bearer perishes, a Emerald Vessel is created in it's place.|
+Sapphire Core|3|When the sigil bearer perishes, a Sapphire Vessel is created in it's place.|
+Docile|-2|The sigil bearer will wait a set number of turns between attacking.|Configurable.
+Reroute|0|At the end of the turn, the sigil bearer will swap places with a random creature on the same side of the board.|
+Globetrotter|-1|After attacking, the sigil bearer will strafe. If met with an obstruction, it will attempt to move to the other side of the board and circle around.|
+Drop|2|If the sigil bearer is drawn as part of your opening hand, it will automatically be played for free in a random space on your side of the board.|
+Unlucky|3|While the sigil bearer is on the board, enemy cards have a chance to lose power, health, or sigils when they are played.|
 Waterborne Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Waterborne sigil.|
 Sprinter Latch|0|When the sigil bearer dies, it's owner chooses a card to gain the Sprinter sigil.|
 Burning Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burning sigil.|
 Burrower Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Burrower sigil.|
 Weird Latch|1|When the sigil bearer is drawn, this sigil is replaced by a random latch sigil.|
+Null Latch|1|When the sigil bearer dies, it's owner chooses a card to gain the Null Conduit sigil.|
+Frail Latch|2|When the sigil bearer dies, it's owner chooses a card to gain the Frail sigil.|
+Haunter Latch|4|When the sigil bearer dies, it's owner chooses a card to gain the Haunter sigil.|
+Overclocked Latch|3|When the sigil bearer dies, it's owner chooses a card to gain +1 power and the Overclocked sigil.|
+Gem Latch|3|When the sigil bearer dies, it's owner chooses a card to become gemified.|
 Repulsive When Powered|4|While the sigil bearer is within a conduit, if another creature would strike the sigil bearer, it does not.|
 
 ___
@@ -852,6 +889,8 @@ the mod GUID is 'nevernamed.inscryption.sigils'
 |Carnivore|2|2|When activated, the sigil bearer gains 3 power.|
 |Deadbeat|1|Free|When activated, the owner may pick another creature on their side of the board, and kill it.|
 |Bloodbait|1|1|When activated, the sigil bearer will return to the owner's hand.|
+Trained Flier|1|Free|When activated, the sigil bearer will gain flight until next upkeep. If the sigil bearer already had flight, it will lose flight until next upkeep.|
+Trained Swimmer|1|Free|When activated, the sigil bearer will gain the effect of the Waterborne sigil until next upkeep.|
 
 ___
 ### Nevernameds Variable Stats
@@ -876,6 +915,12 @@ One Half Squirrels|Power|Value represented is equal to half the number of Squirr
 Sin Eater|Power|Value represented is equal to the number of sigils which were present on the cards sacrificed to play the bearer.|
 Ambitious|Power|Value represented is equal to the highest damage number present on the board.|Recalculates at the start of each turn.
 Strength In Numbers|Power|Value represented is equal to the number of creatures with the Strength in Numbers ability on the board, including opponent creatures.|
+Pack Power|Power|Value represented is equal to the number of items the player holds.|
+Pack Power Plus|Power|Value represented is equal to twice the number of items the player holds.|
+Trinket Vitality|Health|Value represented is equal to twice the number of items the player holds.|
+Half Charged|Power|Value represented is equal to half the player's Energy, rounded up.|
+Greenhorn|Health|Value represented is equal to twice the number of green gems that were on the board when the bearer was played.|
+Fabled|Power|Value represented is equal to twice the number of rare cards on the board.|
 
 ___
 ### Nevernameds Special Abilities
@@ -915,45 +960,53 @@ A list of properties which modders using this sigil pack may apply to their card
 
 |Name|Effect|
 |-|-|
-CustomDamDefinition|If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.
-CustomFactoryConduitDefinition|If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.
-CustomRabbitHoleDefinition|If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.
-CustomAntSpawnerDefinition|If set to a valid card ID, will override the definition of the Ant the card will spawn with the Ant Spawner sigil.
-CustomSquirrelShedderDefinition|If set to a valid card ID, will override the definition of the Squirrels the card will spawn with the Squirrel Shedder sigil.
-CustomSkeletonCrewDefinition|If set to a valid card ID, will override the definition of the Skeletons the card will spawn with the Skeleton Crew sigil.
-CustomBeesWithinDefinition|If set to a valid card ID, will override the definition of the Bees the card will spawn with the Bees Within sigil.
-CustomBellDefinition|If set to a valid card ID, will override the definition of the Chimes the card will spawn with the Bellist sigil.
-ClawedLeftClawOverride|If set to a valid card ID, will override the definition of the left claw the card will spawn with the Clawed sigil.
-ClawedRightClawOverride|If set to a valid card ID, will override the definition of the right claw the card will spawn with the Clawed sigil.
-CustomTransformerTransformation|If set to a valid card ID, will determine what the card transforms into with the custom Transformer sigil.
-TwisterTransformation|If set to a valid card ID, will determine what the card transforms into with the Twister sigil.
-GutSpewerGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Gut Spewer sigil.
-ExplodingCorpseGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Exploding Corpse sigil.
-OrganThiefGutOverride|If set to a valid card ID, will override the definition of the Guts the card will spawn with the Organ Thief sigil.
-ParthenogenesisOverride|If set to a valid card ID, will override the definition of the Clone Grub the card will leave begind with the Parthenogenesis sigil.
-FatalFlankOverride|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will leave begind with the Fatal Flank sigil.
-OverrideSigilShedderDefinition|If set to a valid card ID, will override the definition of the Unnatural Creatures the card will give with the Sigil Shedder ability.
-HarbingerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Harbinger Sigil.
-TramplerLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Trampler Sigil.
-FlightyLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Flighty Sigil.
-ErraticLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Erratic Sigil.
-PhantasmicLeaveBehind|If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Phantasmic Sigil.
-CustomDoomedDuration|If set to a number, and the card has the Doomed sigil, it will wait for that number of turns before perishing, rather than perishing immediately.
-CustomSoakCounter|If set to a number, determines how many times the card must be struck before the Soak sigil triggers.
-PreventBones|If set to any value, the card will not grant bones when it perishes.
-BannedFromCampfire|If set to any value, the card will not appear as an option to be buffed at campfires.
-BannedFromCampfireDamage|If set to any value, the card will not appear as an option to be buffed specifically at Damage campfires.
-BannedFromCampfireHealth|If set to any value, the card will not appear as an option to be buffed specifically at Health campfires.
-BannedSigilTransferVictim|If set to any value, the card will not appear as an option to be sacrificed at the Sacrifice Stones.
-BannedSigilTransferTarget|If set to any value, the card will not appear as an option to be given sigils at the Sacrifice Stones.
-BannedFromBoneLord|If set to any value, the card will not appear as an option to be sacrificed at the Bone Lord Node.
-CustomGiftBearerSpawnsRare|If set to any value, the card will give rare cards with the custom Gift Bearer sigil.
-PreventPlay|If set to any value, the card will be unable to be played during combat.
-AllStrikesDoubled|If set to any value, the card will strike all spaces which it would normally strike an additional time when attacking.
-InherentCardOnHitDef|If set to a valid card ID, will determine what creature the card gives with the InherentCardOnHit special ability.
-LegionCardOverride|If set to a valid card ID, will determine what creatures the card gives with the Legion sigil.
-SummonerGivesRareCards|If set to any value, the card will give a selection of Rare cards with the Summoner sigil.
-SummonerAdoptsMods|If set to any value, options given by the summoner sigil when applied to the card will adopt the card's modifications.
-NumberOfSummonerAddedSigils|If set to a number, card options given by the summoner sigil will have that number of randomly chosen added sigils.
-NumberOfSummonerOptions|If set to a number, the summoner sigil will give that number of options instead of the default 3.
-VenatorTransformation|If set to a valid card ID, will determine what the card transforms into with the Venator sigil.
+CustomDamDefinition	If set to a valid card ID, will override the definition of the Dams the card will spawn with the Dam Bearer sigil.
+CustomFactoryConduitDefinition	If set to a valid card ID, will override the definition of the L33pbots the card will spawn with the Factory Conduit sigil.
+CustomRabbitHoleDefinition	If set to a valid card ID, will override the definition of the Rabbits the card will spawn with the Rabbit Hole sigil.
+CustomAntSpawnerDefinition	If set to a valid card ID, will override the definition of the Ant the card will spawn with the Ant Spawner sigil.
+CustomSquirrelShedderDefinition	If set to a valid card ID, will override the definition of the Squirrels the card will spawn with the Squirrel Shedder sigil.
+CustomSkeletonCrewDefinition	If set to a valid card ID, will override the definition of the Skeletons the card will spawn with the Skeleton Crew sigil.
+CustomBeesWithinDefinition	If set to a valid card ID, will override the definition of the Bees the card will spawn with the Bees Within sigil.
+CustomBellDefinition	If set to a valid card ID, will override the definition of the Chimes the card will spawn with the Bellist sigil.
+ClawedLeftClawOverride	If set to a valid card ID, will override the definition of the left claw the card will spawn with the Clawed sigil.
+ClawedRightClawOverride	If set to a valid card ID, will override the definition of the right claw the card will spawn with the Clawed sigil.
+CustomTransformerTransformation	If set to a valid card ID, will determine what the card transforms into with the custom Transformer sigil.
+TwisterTransformation	If set to a valid card ID, will determine what the card transforms into with the Twister sigil.
+GutSpewerGutOverride	If set to a valid card ID, will override the definition of the Guts the card will spawn with the Gut Spewer sigil.
+ExplodingCorpseGutOverride	If set to a valid card ID, will override the definition of the Guts the card will spawn with the Exploding Corpse sigil.
+OrganThiefGutOverride	If set to a valid card ID, will override the definition of the Guts the card will spawn with the Organ Thief sigil.
+ParthenogenesisOverride	If set to a valid card ID, will override the definition of the Clone Grub the card will leave begind with the Parthenogenesis sigil.
+FatalFlankOverride	If set to a valid card ID, will override the definition of the Unnatural Creatures the card will leave begind with the Fatal Flank sigil.
+OverrideSigilShedderDefinition	If set to a valid card ID, will override the definition of the Unnatural Creatures the card will give with the Sigil Shedder ability.
+HarbingerLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Harbinger Sigil.
+TramplerLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Trampler Sigil.
+FlightyLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Flighty Sigil.
+ErraticLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Erratic Sigil.
+PhantasmicLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Phantasmic Sigil.
+CustomDoomedDuration	If set to a number, and the card has the Doomed sigil, it will wait for that number of turns before perishing, rather than perishing immediately.
+CustomSoakCounter	If set to a number, determines how many times the card must be struck before the Soak sigil triggers.
+PreventBones	If set to any value, the card will not grant bones when it perishes.
+BannedFromCampfire	If set to any value, the card will not appear as an option to be buffed at campfires.
+BannedFromCampfireDamage	If set to any value, the card will not appear as an option to be buffed specifically at Damage campfires.
+BannedFromCampfireHealth	If set to any value, the card will not appear as an option to be buffed specifically at Health campfires.
+BannedSigilTransferVictim	If set to any value, the card will not appear as an option to be sacrificed at the Sacrifice Stones.
+BannedSigilTransferTarget	If set to any value, the card will not appear as an option to be given sigils at the Sacrifice Stones.
+BannedFromBoneLord	If set to any value, the card will not appear as an option to be sacrificed at the Bone Lord Node.
+CustomGiftBearerSpawnsRare	If set to any value, the card will give rare cards with the custom Gift Bearer sigil.
+PreventPlay	If set to any value, the card will be unable to be played during combat.
+AllStrikesDoubled	If set to any value, the card will strike all spaces which it would normally strike an additional time when attacking.
+InherentCardOnHitDef	If set to a valid card ID, will determine what creature the card gives with the InherentCardOnHit special ability.
+LegionCardOverride	If set to a valid card ID, will determine what creatures the card gives with the Legion sigil.
+SummonerGivesRareCards	If set to any value, the card will give a selection of Rare cards with the Summoner sigil.
+SummonerAdoptsMods	If set to any value, options given by the summoner sigil when applied to the card will adopt the card's modifications.
+NumberOfSummonerAddedSigils	If set to a number, card options given by the summoner sigil will have that number of randomly chosen added sigils.
+NumberOfSummonerOptions	If set to a number, the summoner sigil will give that number of options instead of the default 3.
+VenatorTransformation	If set to a valid card ID, will determine what the card transforms into with the Venator sigil.
+BloodrunnerLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Bloodrunner sigil.
+PropagationOverride	If set to a valid card ID, will determine what creatures the card gives with the Propagation sigil.
+CustomSpurredBuff	If set to a number, controls how much damage the bearer gains from the Spurred Sigil. Spurred has inherent icon support for up to +3 damage.
+BloodBornTransformation	If set to a valid card ID, will determine what the card transforms into with the Bloodborn sigil.
+CustomDistractionMax	If set to a number, controls how many times the Distraction sigil can activate before being depleted.
+CardShedderLeaveBehind	If set to a valid card ID, the bearer will leave that card behind in it's old space when it moves via the Card Shedder sigil.
+CustomDocileCounter	If set to a number, controls how many turns the bearer waits between attacking with the Docile sigil.
+CustomValuablePayoutAmount	If set to a number, controls how many units of the respective act's currency the bearer will give upon death.
