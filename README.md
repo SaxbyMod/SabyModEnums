@@ -519,8 +519,8 @@ Hauler|At the end of the owner's turn, a card bearing this sigil will move in th
 Jumper|At the end of the owner's turn, a card bearing this sigil will move itself to the first empty space in the direction inscribed in the sigil.
 Super Sprinter|At the end of the owner's turn, a card bearing this sigil will move itself as far as possible in the direction inscribed in the sigil.
 Board Shifter|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. All cards will shift in the same direction, looping to the other edge of the board.
-Board Shifter (Opponent)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.
-Board Shifter (Player)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.
+Board Shifter (Opposing)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. The opponent's cards will shift in the same direction, looping to the other edge of the board.
+Board Shifter (Owner)|At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. Friendly cards will shift in the same direction, looping to the other edge of the board.
 Swap Sigils|---
 Heart Swap|When a card bearing this sigil is played, all cards on the board swap their power and health.
 Stubborn|A card bearing this sigil may not have its stats swapped.
