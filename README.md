@@ -1,5 +1,8 @@
 ___
-### Vanilla Meta Categories
+# Vanilla
+
+___
+## Vanilla Meta Categories
 
 |Value | Description |                              
 |-|-|  
@@ -11,7 +14,7 @@ ___
 | TraderOffer | Can show up at the trader in act 1 |
 
 ___
-### Vanilla Complexity
+## Vanilla Complexity
 
 |Value | Description |
 |-|-|
@@ -23,7 +26,7 @@ ___
 
 
 ___
-### Vanilla Temple
+## Vanilla Temple
 
 |Value | Description |
 |-|-|
@@ -35,7 +38,7 @@ ___
 
 
 ___
-### Vanilla GemType
+## Vanilla GemType
 
 |Value |
 |-|
@@ -44,7 +47,7 @@ ___
 |Orange|
 
 ___
-### Vanilla SpecialIcon
+## Vanilla SpecialIcon
 
 |Value | Description |
 |-|-|
@@ -56,7 +59,7 @@ ___
 |Mirror | Displays the Mirror icon for the cards attack |
 
 ___
-### Vanilla Tribe
+## Vanilla Tribe
 
 |Value |
 |-|
@@ -67,10 +70,8 @@ ___
 | Reptile  |
 | Squirrel |
 
-
-
 ___
-### Vanilla Trait
+## Vanilla Trait
 
 |Value | Description |
 |-|-|
@@ -96,9 +97,8 @@ ___
 |Undead | Unused |
 |Wolf | Unused |
 
-
 ___
-### Vanilla SpecialAbilities
+## Vanilla SpecialAbilities
 
 |Value | Description |
 |-|-|
@@ -127,10 +127,8 @@ ___
 |TalkingCardChooser | Exclusive to talking cards. |
 |TrapSpawner | Creates a Steel Trap in its place after it perishes.  |
 
-
-
 ___
-### Vanilla Sigils
+## Vanilla Sigils
   
 |Value | Description |                              
 |-|-|                                               
@@ -241,7 +239,7 @@ ___
 |WhackAMole | When an empty slot is attacked, will move to that slot|
 
 ___
-### Vanilla Appearance Behaviour
+## Vanilla Appearance Behaviour
   
 |Value | Description |                              
 |-|-|                                                                                                                                     
@@ -261,10 +259,11 @@ ___
 |TerrainBackground | Renders the card with terrain border |
 |TerrainLayout | Renders card with terrain card layout |
 
-
+___
+# All The Sigils
 
 ___
-### Voids "Good" Sigils
+## Voids "Good" Sigils
   
   GUID IS extraVoid.inscryption.voidSigils
   
@@ -364,7 +363,7 @@ ___
 | Zapper| When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn|
 
 ___
-### Memes "Good" Sigils
+## Memes "Good" Sigils
 
 GUID IS org.memez4life.inscryption.customsigils
 
@@ -415,7 +414,7 @@ Insect, Tribe attack
 Reptile, Tail and +0/1
 
 ___
-### Anthonys "Good" Sigils
+## Anthonys "Good" Sigils
 
 GUID is "AnthonyPython.inscryption.AnthonysSigils"
 
@@ -432,7 +431,7 @@ GUID is "AnthonyPython.inscryption.AnthonysSigils"
 | Transform Chicken (Enemy Only)| A Creature bearing this sigil will transform a random creature on the board only on the enemies side into a Chicken. A Chicken is defined as 1 Attack, 1 Health|
 
 ___
-### Voids "Bad" Sigils
+## Voids "Bad" Sigils
 
 GUID IS extraVoid.inscryption.voidSigils
 
@@ -461,7 +460,7 @@ For Dying:
 You can control how long a creature takes to die by setting the custom Property “void_dying_count”
 
 ___
-### Memes "Bad" Sigils
+## Memes "Bad" Sigils
 
 GUID IS org.memez4life.inscryption.customsigils
 
@@ -473,7 +472,7 @@ GUID IS org.memez4life.inscryption.customsigils
 | Rushing march| At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes|
 
 ___
-### "Vanilla Tweaks"
+## "Vanilla Tweaks"
 
 The GUID Is extraVoid.inscryption.voidSigils
 
@@ -483,7 +482,10 @@ The GUID Is extraVoid.inscryption.voidSigils
 | Broken| (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies|
 
 ___
-### Teeth sigils
+# Life Cost API
+
+___
+## Teeth sigils
 
 GUID IS extraVoid.inscryption.LifeCost
  
@@ -497,7 +499,10 @@ GUID IS extraVoid.inscryption.LifeCost
 | “Die Roll” | Pay 3 life for the card bearing this sigil to gain between 0 and 6 increased in stats, distributed randomly |
 
 ___
-### Bitty's Sigils
+# Bittys Sigils
+
+___
+## Bitty's Sigils
 
 bitty45.inscryption.sigils
 
@@ -555,7 +560,10 @@ Sigil Roll|Activate: Pay 4 Life to add a random sigil to a card bearing this sig
 Health Roll|Activate: Pay 1 Energy to set the health of a card bearing this sigil randomly between 1 and 3.
 
 ___
-### Tribal Libary
+# Tribal Libary
+
+___
+## Tribal Libary
   
 GUID is "tribes.libary"
 
@@ -1068,7 +1076,10 @@ ___
 |PixelBloodDecal|<img align="center" src="https://raw.githubusercontent.com/Nevernamed22/NevernamedsSigils/master/NevernamedsSigils/Resources/Appearances/pixelblooddecal.png">|Act 2|
 
 ___
-### Max Mod
+# Max Mod
+
+___
+## Max Mod
 |GUID|NAME|DESCRIPTION|
 |-|-|-|
 creator.max|Gain Five Batteries|When a card bearing this sigil is played, the owner gains five Max Energy.
@@ -1085,13 +1096,62 @@ creator.max|Lose Three Batteries|When a card bearing this sigil is played, the o
 creator.max|Lose Two Batteries|When a card bearing this sigil is played, the owner loses two Max Energy.
 
 ___
-### Too Many Sigils
+# Too Many Sigils
+___
+## Too Many Sigils Sigils
 |GUID|NAME|DESCRIPTION|
 |-|-|-|
-creator.TooManySigils|Dead Pack|When a card bearing this sigil perishes, the owner gains an item.
-creator.TooManySigils|Heart Locked|If this card takes damage it only takes one damage.
-creator.TooManySigils|Thick Shell|If this card takes damage one damage is reduced
-creator.TooManySigils|Launcher|During your end step, a card is launched to a random lane [Uses IceCubeName]
-creator.TooManySigils|Spawner|During your end step, this card moves in the direction inscrybed in the sigil, leaving a card behind in its previous lane. [Uses IceCubeName]
-creator.TooManySigils|Host|When this card is struck, a card is drawn into your hand.
-creator.TooManySigils|Bastion|If this card is damaged it only takes half the damage.
+|GUID|Name|Description|
+|:-:|:-|:-|
+|creator.TooManySigils|Bastion|When this card is damaged, It takes half the Damage it would normally.|
+|creator.TooManySigils|Covalesce|If a card bearing this sigil is alive during your endstep, This card gains 1 health.|
+|creator.TooManySigils|Dead Pack|When a card bearing this sigil perishes, it provides 1 Item to its owner.|
+|creator.TooManySigils|Gain Five Batteries|When a card bearing this sigil is played, the owner gains five Max Energy.|
+|creator.TooManySigils|Gain Four Batteries|When a card bearing this sigil is played, the owner gains four Max Energy.|
+|creator.TooManySigils|Gain One Battery|When a card bearing this sigil is played, the owner gains one Max Energy.|
+|creator.TooManySigils|Gain Six Batteries|When a card bearing this sigil is played, the owner gains six Max Energy.|
+|creator.TooManySigils|Gain Three Batteries|When a card bearing this sigil is played, the owner gains three Max Energy.|
+|creator.TooManySigils|Gain Two Batteries|When a card bearing this sigil is played, the owner gains two Max Energy.|
+|creator.TooManySigils|Heart Locked|When a card bearing this sigil is damaged, It only takes 1 Damage.|
+|creator.TooManySigils|Host|When a card bearing this sigil is damaged, a card is added to your hand.|
+|creator.TooManySigils|Launcher|If a card bearing this sigil is on the field during your endstep, a card is launched to one of your empty spaces.|
+|creator.TooManySigils|Lose Five Batteries|When a card bearing this sigil is played, the owner loses five Max Energy.|
+|creator.TooManySigils|Lose Four Batteries|When a card bearing this sigil is played, the owner loses four Max Energy.|
+|creator.TooManySigils|Lose One Battery|When a card bearing this sigil is played, the owner loses one Max Energy.|
+|creator.TooManySigils|Lose Six Batteries|When a card bearing this sigil is played, the owner loses six Max Energy.|
+|creator.TooManySigils|Lose Three Batteries|When a card bearing this sigil is played, the owner loses three Max Energy.|
+|creator.TooManySigils|Lose Two Batteries|When a card bearing this sigil is played, the owner loses two Max Energy.|
+|creator.TooManySigils|Rotting|If a card bearing this sigil is alive during your endstep, this card loses 1 power and 1 health.|
+|creator.TooManySigils|Spawner|If a card bearing this sigil is on field during your endstep, this card moves in the direction inscribed in the sigil, and a card is played in its previous space.|
+|creator.TooManySigils|Thick Shell|When a card bearing this sigil is damaged, It takes 1 less Damage.|
+
+___
+## Too Many Sigils Stats
+
+|GUID|Name|Description|
+|:-:|:-|:-|
+|creator.TooManySigils|Ants Minus|This cards power is equal to the amount of Ant's on field, minus this one.|
+
+___
+# Custom Currency
+
+___
+## Custom Currency Costs
+| NAME | INFO | EXTENSION PROPERTY |
+| - | - | - |
+| SKULLS | You start a run with Skulls equal to your challenge points. You can't get them back, so spend them wisely. | "SkullsCost": "2" |
+| BELLS | You gain a Bell every time you pass your turn. | "BellsCost": "4" |
+| OLD_BITS | You get 1 OLD_BITS every time you visit the Woodcarver or the Bone Lord. OLD_BITS aren't reset after a battle. | "OldBitsCost": "1" |
+| MANA | Works like Mana from Magic: the Gathering. You get mana from activating the Tap For Mana sigils. Mana is reset when you pass your turn. | "ManaCost": "1ub" |
+| GENERIC MOX | Like Mox, except that any color pays for it. | "GenericMoxCost": "true" |
+
+Note that Skulls, Bells, and OLD_BITS each support a cost of up to 13, and Mana supports a cost of up to 3 total.
+
+__
+## Custom Currency Sigils
+| GUID | NAME | INFO |
+| tvflabs.inscryption.CustomCurrency | Tap For White Mana | Activate: If this card does not have the Tapped sigil, you gain 1 white mana and this card gains the Tapped sigil. |
+| tvflabs.inscryption.CustomCurrency | Tap For Blue Mana | Activate: If this card does not have the Tapped sigil, you gain 1 blue mana and this card gains the Tapped sigil. |
+| tvflabs.inscryption.CustomCurrency | Tap For Black Mana | Activate: If this card does not have the Tapped sigil, you gain 1 black mana and this card gains the Tapped sigil. |
+| tvflabs.inscryption.CustomCurrency | Tap For Green Mana | Activate: If this card does not have the Tapped sigil, you gain 1 green mana and this card gains the Tapped sigil. |
+| tvflabs.inscryption.CustomCurrency | Tap For Red Mana | Activate: If this card does not have the Tapped sigil, you gain 1 red mana and this card gains the Tapped sigil. |
