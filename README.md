@@ -259,6 +259,16 @@ ___
 |DefaultEmission | Emissions are on cards by default. |
 
 ___
+## Regions
+| Region | Description |
+| - | - |
+| Alpine | This is The Trappers Region |
+| Forest | This is The Prospectors Region |
+| Midnight | This is Leshy's area in ACT 1. |
+| Midnight_Ascension | This is Leshy's area in KCM |
+| Pirateville | This is Royal's area |
+| Wetlands | This is Anglers Area |
+___
 # All The Sigils
 
 ___
