@@ -11,6 +11,25 @@ ___
 | Part3Random | Can show up as card from the Loot sigil |
 | Rare | Defines the card to be rare |
 | TraderOffer | Can show up at the trader in act 1 |
+| Part1Rulebook | Adds the sigil to the act 1 rulebook. |
+| Part1Modular | Allows the sigil to appear on totems, Wolf Pelt trades and Cave Trial rewards. |
+| Part3Rulebook | Adds the sigil to the act 3 rulebook. |
+| Part3Modular | Allows the sigil to appear in the Upgrade node in act 3. |
+| Part3BuildACard | Allows the sigil to be chosen in the Build-A-Bot node in act 3. |
+| BountyHunter | Allows the sigil to appear on act 3 Bounty Hunter cards. |
+| GrimoraRulebook | Adds the sigil to the rulebook in Grimora’s part of Finale. |
+| MagnificusRulebook | Adds the sigil to the rulebook in Magnificus’ part of Finale. |
+
+___
+## Power Levels
+| Event | Power Levels | Info |
+| - | - | - |
+| Cave Trial | 0-5 | If you want your sigil to appear on the Cave Trial rewards |
+| Totems | 0-7 | If you want your sigil to appear on totems |
+| Prospector | 0-5 | If you want your sigil to appear on Insect cards from the Prospector node |
+| Trader | 0-5 | If you want your sigil to appear on Wolf Pelt trades |
+| Amorphous | 0-5 | If you want the Amorphous sigil to be able to pick your sigil as one of the options |
+
 ___
 ## Complexity
 |Value | Description |
