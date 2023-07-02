@@ -689,6 +689,7 @@ Adds a wide collection of sigils across all acts of Inscryption, with a focus on
 For those looking to use my sigils in their own mods, the mod GUID is *nevernamed.inscryption.sigils*
 
 "Made By Amy"
+
 ___
 ## Nevernameds Sigils
 
