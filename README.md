@@ -687,6 +687,8 @@ ___
 # Nevernamed's Sigilarium
 Adds a wide collection of sigils across all acts of Inscryption, with a focus on Act 1 / Kaycee's Mod. Also includes variable stats and tribes!
 For those looking to use my sigils in their own mods, the mod GUID is *nevernamed.inscryption.sigils*
+
+"Sections made by Amy"
 ___
 ## Nevernameds Sigils
 
