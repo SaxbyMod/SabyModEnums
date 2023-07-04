@@ -997,29 +997,29 @@ ___
 
 | GUID | NAME | EFFECT |
 | - | - | - |
-|zepht.insxryption.ZephtPvZ|Spudow|When a card bearing this sigil gets defeated, it deals 3 damage to the opposing card.|
-|zepht.insxryption.ZephtPvZ|Sweet|At the end of the owner's turn, any card bearing this sigil will explode and deal 3 damage to the cards in the 3 enemy slots around it, then deal 1 damage to the cards in your adjacent slots.|
-|zepht.insxryption.ZephtPvZ|Spicy|At the end of the owner's turn, any card bearing this sigil will explode and deal 4 damage to not only the opposing card but also to the card on the opposing backline.|
-|zepht.insxryption.ZephtPvZ|DoomBringer|At the end of the owner's turn, any card bearing this sigil will explode and deal 4 damage to all of the opponent's cards, along with 1 damage to all of the owners cards, and then leave a crater where it stood.|
-|zepht.insxryption.ZephtPvZ|Scaredy|A card bearing this sigils loses 1 attack but gains 1 health when against an opposing card whose attack is greater than 0.|
-|zepht.insxryption.ZephtPvZ|Pierce|After attacking, a card bearing this sigil will also attack the card in the opposing queue, if there is one. It also bypasses the armored sigil.|
-|zepht.insxryption.ZephtPvZ|SporeSpreader|If a card bearing this sigil defeats another card, a copy of itself will be returned to your hand.|
-|zepht.insxryption.ZephtPvZ|SunMaker 1|At the end of the owner's turn, a card bearing this sigil will produce 1 sun.|
-|zepht.insxryption.ZephtPvZ|SunMaker 2|At the end of the owner's turn, a card bearing this sigil will produce 2 sun.|
-|zepht.insxryption.ZephtPvZ|SunMaker 3|At the end of the owner's turn, a card bearing this sigil will produce 3 sun.|
-|zepht.insxryption.ZephtPvZ|SunKill|When a card bearing this sigil defeats another card, the other card will drop 3 sun.|
-|zepht.insxryption.ZephtPvZ|AddStats|When a card bearing this sigil is played, its health, attack and other sigils will be added to every other card on your side of the board. Then this card will die.|
-|zepht.insxryption.ZephtPvZ|Armor Breaker|When a card bearing this sigil is played, it removes all defense sigils from all of the opposing cards.|
-|zepht.insxryption.ZephtPvZ|Hardheaded|When a card bearing this sigil is attacked, the damage taken will be reduced by 2. Then this sigil will be removed.|
-|zepht.insxryption.ZephtPvZ|Zombie Caller|When a card bearing this sigil is played, A zombie gets played on each empty adjacent space. A zombie is defined as: 1 Power 2 Health.|
+|zepht.inscryption.ZephtPvZ|Spudow|When a card bearing this sigil gets defeated, it deals 3 damage to the opposing card.|
+|zepht.inscryption.ZephtPvZ|Sweet|At the end of the owner's turn, any card bearing this sigil will explode and deal 3 damage to the cards in the 3 enemy slots around it, then deal 1 damage to the cards in your adjacent slots.|
+|zepht.inscryption.ZephtPvZ|Spicy|At the end of the owner's turn, any card bearing this sigil will explode and deal 4 damage to not only the opposing card but also to the card on the opposing backline.|
+|zepht.inscryption.ZephtPvZ|DoomBringer|At the end of the owner's turn, any card bearing this sigil will explode and deal 4 damage to all of the opponent's cards, along with 1 damage to all of the owners cards, and then leave a crater where it stood.|
+|zepht.inscryption.ZephtPvZ|Scaredy|A card bearing this sigils loses 1 attack but gains 1 health when against an opposing card whose attack is greater than 0.|
+|zepht.inscryption.ZephtPvZ|Pierce|After attacking, a card bearing this sigil will also attack the card in the opposing queue, if there is one. It also bypasses the armored sigil.|
+|zepht.inscryption.ZephtPvZ|SporeSpreader|If a card bearing this sigil defeats another card, a copy of itself will be returned to your hand.|
+|zepht.inscryption.ZephtPvZ|SunMaker 1|At the end of the owner's turn, a card bearing this sigil will produce 1 sun.|
+|zepht.inscryption.ZephtPvZ|SunMaker 2|At the end of the owner's turn, a card bearing this sigil will produce 2 sun.|
+|zepht.inscryption.ZephtPvZ|SunMaker 3|At the end of the owner's turn, a card bearing this sigil will produce 3 sun.|
+|zepht.inscryption.ZephtPvZ|SunKill|When a card bearing this sigil defeats another card, the other card will drop 3 sun.|
+|zepht.inscryption.ZephtPvZ|AddStats|When a card bearing this sigil is played, its health, attack and other sigils will be added to every other card on your side of the board. Then this card will die.|
+|zepht.inscryption.ZephtPvZ|Armor Breaker|When a card bearing this sigil is played, it removes all defense sigils from all of the opposing cards.|
+|zepht.inscryption.ZephtPvZ|Hardheaded|When a card bearing this sigil is attacked, the damage taken will be reduced by 2. Then this sigil will be removed.|
+|zepht.inscryption.ZephtPvZ|Zombie Caller|When a card bearing this sigil is played, A zombie gets played on each empty adjacent space. A zombie is defined as: 1 Power 2 Health.|
 
 ___
 ## PVZ Tribes
 
 | GUID | NAME |
 | - | - |
-|zepht.insxryption.ZephtPvZ|PlantSun|
-|zepht.insxryption.ZephtPvZ|PlantAttack|
-|zepht.insxryption.ZephtPvZ|PlantDefend|
-|zepht.insxryption.ZephtPvZ|PlantSupport|
-|zepht.insxryption.ZephtPvZ|PlantBomb|
+|zepht.inscryption.ZephtPvZ|PlantSun|
+|zepht.inscryption.ZephtPvZ|PlantAttack|
+|zepht.inscryption.ZephtPvZ|PlantDefend|
+|zepht.inscryption.ZephtPvZ|PlantSupport|
+|zepht.inscryption.ZephtPvZ|PlantBomb|
