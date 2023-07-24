@@ -1,4 +1,15 @@
 ___
+# Credits:
+
+Stoat: Almost all sections
+
+Bitty: Bitty's Sigils and Regions
+
+~~Amy: NN'S Sigilarium~~
+
+Whistlewind: Abnormal Sigils Section
+
+___
 # Vanilla
 
 ___
@@ -273,223 +284,193 @@ ___
 # All The Sigils
 
 ___
-## Voids "Good" Sigils
+## All The Sigils: Sigils
   
-  GUID IS extraVoid.inscryption.voidSigils
+The GUID of this mod is "ATS".
   
-|Name | Description |
-|-|-|
-| Abundance| [creature] will grant one tooth per instance of Abundance when killed|
-| Acidic Trail| At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 opposing creature if it is able to move|
-| Agile| When a [creature] would be struck, it will move out of the way|
-| Antler Bearer| When [creature] is killed, gain three random hooved tribe cards|
-| Blinding Strike| When [creature] attacks a card, that card gains the random strike sigil|
-| Blood Growth| When [creature] attacks, the amount of blood it is counted as when sacrificed will increase|
-| BloodGuzzler| [creature] deals damage, it gains 1 Health for each damage dealt|
-| Bodyguard| [creature] will redirect the initial attack of a card to it, if the attack was targeting an adjacent space|
-| Box| [creature] will get removed from your deck on death, and a new creature contained within will be added to it|
-| Bone Picker| [creature] kills a creature, it will generate 1 Bone|
-| Bone Shard| [creature] will generate 1 bone when hit, if it lives through the attack|
-| Caustic| At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space. An acid puddle is defined as: 0 power, 2 health, sharp sigil|
-| Coin Finder| At the end of the owner's turn, [creature] will grant the owner 1 foil||
-| Consumer| When [creature] kills another creature, it gains 2 health|
-| Deadly Waters| [creature] will kill cards that attacked over it while it was face|down|
-| Deathburst| [creature] will deal 1 damage to each oppsing space to the left, right, and center of it|
-| Desperation| [creature] is damaged to 1 health, it will gain 3 power|
-| Disease Absorbtion| When played, [creature] will take all negative sigils from the player's side onto itself|
-| Dive (Bones)| Pay 2 bones to cause this card to flip face down at the end of the owner's turn|
-| Dive (Energy)| Pay 2 energy to cause this card to flip face down at the end of the owner's turn|
-| Draw Blood| [creature] is played, a card costing blood is created in your hand|
-| Draw Bone| [creature] is played, a card costing bone is created in your hand|
-| Draw Card| [creature] is played, a card relating to it's ice cube parameter (default Opossum) is created in your hand|
-| Draw Jackalope| [creature] is played, a Jackalope is created in your hand|
-| Draw Strafe| When [creature] moves, a card with a movement sigil is created in your hand|
-| Dwarf| When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox|
-| Electric| [creature] attacks a creature, they will deal half the damage to creatures adjacent to the target|
-| Enforcer| At the start of the owner's turn, [creature] will cause adjacent creatures to attack|
-| Enrage| [creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck|
-| Entomophage| [creature] will deal 2 additional damage to cards of the insect tribe|
-| Familiar| A familiar will help with attacking when it's adjacent allies attack a card|
-| Firestarter| When [creature] damages another creature, that creature will gain the Burning Sigil| The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health|
-| Fish Hook| When [creature], a targeted card is moved to your side of the board|
-| Frightful| [creature] will cause opposing creatures to move out of the way when it attacks|
-| Giant| When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health|
-| Grazing| At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature|
-| Gripper| At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can|
-| Haste| [creature] will attack as soon as it gets played on the board|
-| Hasteful| [creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn|
-| Herd| [creature] will summon a copy of itself each upkeep, up to three times|
-| High Tide| While [creature] is on the board, it will grant creatures that are played on the owner's side the waterborne sigil. Does not affect cards that are Airborne|
-| Hourglass| [creature] will cause the opponant to skip their turn when played|
-| Lead (Bones)| Pay 2 bones to move this card one slot in the direction inscribed on the sigil|
-| Lead (Energy)| Pay 2 energy to move this card one slot in the direction inscribed on the sigil|
-| Leech| When [creature] deals damage, it will heal 1 Health for each damage dealt to a card|
-| Life Gambler| At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death|
-| Low Tide| While [creature] is on the board, it will negate the waterborne sigil of creatures on that are played on the board on the owner's side|
-| Lure| [creature] will cause facedown cards to become face up when attacking|
-| Maneuver| At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil|
-| Medic| At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic|
-| Midas| [creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has|
-| Multi|Strike| [creature] will strike a card multiple times, if it lives through the first attack. Will not trigger [on attack] or [on damage] effects with the extra strikes|
-| Nutritious| When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for|
-| Opportunist| [creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty|
-| Pierce| [creature] attacks the card in queue behind it's initial target first when declaring an attack|
-| Poisonous| When [creature] perishes, the creature that killed it perishes as well|
-| Possessor| When [creature] perishes, it will grant a random friendly card it's base power and health|
-| Powerful Possessor| When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health|
-| Power from Movement| At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round|
-| Predator| [creature] will gain 1 power for each instance of Predator, when the opposing slot has a card|
-| Protector| [creature] will attacks on adjacent allies to hit directly|
-| Ram| [creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side| Does not work during combat|
-| Random Strafe| [creature] is drawn, it will gain a random strafe sigil|
-| Regen 1| At the end of the owner's turn, [creature] will regen 1 health|
-| Regen 2| At the end of the owner's turn, [creature] will regen 2 health|
-| Regen 3| At the end of the owner's turn, [creature] will regen 3 health|
-| Regen| At the end of the owner's turn, [creature] will regen all health|
-| Repellant| When [creature] perishes, the creature that killed it gets pushed into the back row|
-| Resistant| [creature] will only ever take 1 damage from most things| Some effects might bypass this|
-| Retaliate| [creature] will strike those who strike their adjacent allies|
-| Schooling| [creature] will grant creatures with the waterborn sigil to gain 1 power|
-| Stampede| The creature bearing this sigil will cause adjacent creatures to attack when it is played|
-| Scissors| When [creature] is played, a targeted card cut in two|
-| Submerged Ambush| [creature] will deal 1 damage to cards that attacked over it while it was face|down|
-| Take|Off (Bones)| Pay 2 bones to give this card Airborne till the start of the owner's next turn|
-| Take|Off (Energy)| Pay 2 energy to give this card Airborne till the start of the owner's next turn|
-| Thick Shell| When attacked, [creature] takes 1 less damage|
-| Thief| [creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does|
-| Toothpuller| At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale|
-| Tooth Shard| [creature] will generate 1 foil when hit, if it lives through the attack|
-| Toxin| When [creature] damages another creature, that creature looses 1 power and 1 health|
-| Toxin (Deadly)| When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as| When ever a creature bearing this sigil declares an attack, they will loose one health|
-| Toxin (Sickening)| When [creature] damages another creature, that creature gains the Sickness Sigil| The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack|
-| Toxin (Strength)| When [creature] damages another creature, that creature looses 1 power|
-| Toxin (Vigor)| When [creature] damages another creature, that creature looses 1 health|
-| Trample| When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner|
-| Tribal Ally| When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless|
-| Tribal Tutor| When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless|
-| Turbulent Waters| [creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn|
-| Velocity| At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health|
-| Vicious| When [creature] is attacked, it gains 1 power|
-| Zapper| When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil only attack every other turn|
-
-___
-## Memes "Good" Sigils
-
-GUID IS org.memez4life.inscryption.customsigils
-
-|Name | Description |
-|-|-|
-| Bond| When a creature bearing this sigil has a adjacent creature it will gain +1 attack/health dependent on which side the adjacent creature is|
-| Short| A card bearing this sigil will not be blocked by an opposing creature bearing the airborn sigil|
-| Tribe Attack| While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 attack|
-| Tribe Health| While a card bearing this sigil is on the board, all other cards of the same tribe will gain +1 health|
-| Noble Sacrifice| A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed|
-| Imbuing| A card bearing this sigil will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon the card|
-| Charge| Pay 3 bones to choose a enemy creature that a card bearing this sigil will strike|
-| Superior Sacrifice| A card bearing this sigil is counted as 4 blood rather than 1 blood when sacrificed|
-| Bone hoarder 1, 2 and 3| When a card bearing this sigil is played, x bones are rewarded|
-| Bone prince 2 and 3| When a card bearing this sigil dies, x bones are rewarded instead of 1|
-| Bone lord 5 and 6| When a card bearing this sigil dies, x bones are rewarded instead of 1|
-| Support call| When a card bearing this sigil is played, a card from your sidedeck is created in your hand|
-| Host| A card bearing this sigil is the host of other creatures| It will give you such creature when struck| (default| RingWorm)
-| Bait| When an opposing creature is played and there is no card opposite of the card bearing this sigil, the opposing creature will move to that spot|
-| Spawner| At the end of the owners turn, a card bearing this sigil will move in the direction inscribed in the sigil and create another creature in its old space. (default: Squirrel)
-| Launcher| At the end of the owner's turn, a card bearing this sigil will create another creature on a random empty space on the owner's side of the table. (default: Squirrel)
-| Shapeshifter| A card bearing this sigil is ever changing| It will change its form once it's struck. (default: Amoeba)
-| Linguist| While a card bearing this sigil is on the board, all other talking cards on your side of the board get +1 attack|
-| All seeing| While a card bearing this sigil is on the board, all other talking cards on your side of the board get +2 health|
-| Asleep| A card bearing this sigil has 0 attack for as long as it has this sigil, and this sigil will be removed after 1 turn|
-| Song of sleep| If a creature moves into the space opposing a card bearing this sigil, that creature will obtain the asleep sigil|
-| Blood shifter| When a card bearing this sigils kills another card, it will turn into that card|
-| Warper| At the end of the owner's turn, the creature bearing this sigil will move to the right, it will jump over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side|
-| Wild hunger| At the end of the owner's turn, the card bearing this sigil will move in the direction inscrybed in the sigil, but if it hits a card whilst moving, that card perishes and the card bearing this sigil gains 1+/1+|
-| Right scratch| When a card bearing this sigil attacks it also attacks the space on the right of the attacked slot|
-| Left scratch| When a card bearing this sigil attacks it also attacks the space on the left of the attacked slot|
-| Double scratch| When a card bearing this sigil attacks it attacks twice and the space right and left of the attacked slot|
-| Puppets gift| As long as a card bearing this sigil is on the board any cards with brittle won't die because of brittle|
-| Instant| A card bearing this sigil will perish immediately after its played|
-
-FOR IMBUING
-
-Squirrel, Marginally Better Sacrifice
-
-Bird, Flying and +1/0
-
-Canine, Bloodhound and +1/+1
-
-Hooved, Bifurcated strike
-
-Insect, Tribe attack
-
-Reptile, Tail and +0/1
-
-___
-## Anthonys "Good" Sigils
-
-GUID is "AnthonyPython.inscryption.AnthonysSigils"
-
-|Name | Description |
-|-|-|
-| Activated Latch Nano Shield| When activated for a cost of 1 energy / 2 bones will allow the owner to give a creature Nano Shield|
-| Activated Latch Brittle| When activated for a cost of 1 energy, allows the owner to give a creature Brittle|
-| Activated Latch Explode On Death| When activated for a cost of 1 energy, will allow the owner to give a creature Explode On Death|
-| Activated Latch Reach| When activated for a cost of 2 energy, allows the owner to give a creature Reach|
-| Docile| At the start of the owner's turn, a creature bearing this sigil will lose 1 Power to gain 1 Health|
-| To The Slaughter| At the end of every turn, will eat a random Chicken, gaining X Attack for Targets X Health and X Health for Targets X Attack| 
-| Chicken| A card with this sigil counts as a Chicken|
-| Transform Chicken (Loose Cannon)| A Creature bearing this sigil will transform a random creature on the board into a Chicken. A Chicken is defined as 1 Attack, 1 Health|
-| Transform Chicken (Enemy Only)| A Creature bearing this sigil will transform a random creature on the board only on the enemies side into a Chicken. A Chicken is defined as 1 Attack, 1 Health|
-
-___
-## Voids "Bad" Sigils
-
-GUID IS extraVoid.inscryption.voidSigils
-
-|Name | Description |
-|-|-|
-| Blight| When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for|
-| Random Strike| [creature] will strike at opponent slots randomly when it attacks|
-| Bombardier| [creature] will deal 10 damage to a random creature during the end phase of the owner's turn|
-| Boneless| [creature] gives no bones! Any bones gained from sigils or death will be negated|
-| Burning| [creature] is on fire, and will gain 1 power and loose 1 health each upkeep|
-| Cowardly| [creature] will not attack a card with a power 2 higher than its own|
-| Dying| [creature] will die after X number of turns|
-| Injured| [creature] is hurt and will lose 1 health each time it declares an attack due to the strain of the injuries|
-| Paralysis| [creature] will only attack every other turn| Some effects from sigils may bypass this|
-| Pathetic Sacrifice| [creature] is so pathetic, it is not a worthy or noble sacrifice. A card with this sigil is meant to stay on the board, and thus can't be targeted by the hammer|
-| Prideful| [creature] will not attack a card with a power 2 lower than its own|
-| Recoil| [creature] will take 1 damage each time they attack|
-| Sickness| [creature] will lose 1 attack each time it declares an attack|
-| Sluggish| [creature] will not attack during normal combat. It will instead attack after the Opponent's cards attack|
-| Tooth bargain| When [creature] is played, it will put 1 point of damage to its opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale|
-| Transient| At the end of the owner's turn, [creature] will return to your hand|
-| Withering| [creature] will perish at the end of the opponent's turn|
-
-For Dying:
-
-You can control how long a creature takes to die by setting the custom Property “void_dying_count”
-
-___
-## Memes "Bad" Sigils
-
-GUID IS org.memez4life.inscryption.customsigils
-
-|Name | Description |
-|-|-|
-| Exhaustion| The attack of a card bearing this sigil will be decreased by the same amount as its lost health|
-| Picky| A Card bearing this sigil cannnot be summoned using any free cards as sacrifice|
-| Fearful| When a card bearing this sigil is struck without it resulting in death, it will be returned to the owner's hand|
-| Rushing march| At the end of the owner's turn, a card bearing this sigil will move to the direction inscrybed to the sigil, if it hits a card however whilst moving, the card bearing this sigil stops and the card it hits perishes|
-
-___
-## "Vanilla Tweaks"
-
-The GUID Is extraVoid.inscryption.voidSigils
-
-|Name | Description |
-|-|-|
-| Ambush| (a port of Sentry from act 3, but more theme'd to act 1) A creature with this sigil will strike at a card that comes infront of it|
-| Broken| (a port of Overclock from act 3, but more theme'd to act 1) [creature] is permanently removed from your deck if it dies|
+|Icon|Sigil Name|Power Level|Description|Notes|
+|-|:-:|:-:|:-:|:-:|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/bond.png">|**Bond**|2|Any creatures adjacent to [creature] will gain either +1 attack or +1 health, depending on which stat it is closest to.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/short.png">|**Short**|0|[creature] will not be blocked by an opposing creature bearing the airborn sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/tribe_attack.png">|**Tribe Attack**|3|While [creature] is on the board, all other cards on your side of the board of the same tribe will gain +1 attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/tribe_health.png">|**Tribe Health**|2|While [creature] is on the board, all other cards on your side of the board of the same tribe will gain +1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/bi_blood.png">|**Noble Sacrifice**|1|[creature] is counted as 2 blood rather than 1 blood when sacrificed.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/quadra_blood.png">|**Superior Sacrifice**|3|[creature] is counted as 4 blood rather than 1 blood when sacrificed.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/imbuing.png">|**Imbuing**|3|[creature] will get specific buffs depending on which tribe is most promenent in the sacrifices that were used to summon it.|Buffs per tribe:<br>- Canine: GaurdDog sigil, 1 attack and 1 health<br>- Bird: Flying sigil and 1 attack<br>- Reptile: TailOnHit sigil and 1 health<br>- Insect: Tribe Attack sigil<br>- Squirrel: Bi Blood sigil<br>- Hooved: SplitStrike sigil|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/exhaustion.png">|**Exhaustion**|-2|The attack of [creature] will be decreased by the same amount as its lost health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/charge.png">|**Charge**|5|Pay 3 bones to choose an enemy creature that [creature] will strike.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/picky.png">|**Picky**|-2|[creature] cannnot be summoned by using any free cards as sacrifice.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/fearful.png">|**Fearful**|-2|When [creature] is struck without it resulting in death, it will be returned to its owner's hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/twodeathbones.png">|**Bone prince 2**|1|When [creature] dies, 2 bones are rewarded instead of 1.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/threedeathbones.png">|**Bone prince 3**|1|When [creature] dies, 3 bones are rewarded instead of 1.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/fivedeathbones.png">|**Bone lord 5**|3|When [creature] dies, 5 bones are rewarded instead of 1.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/sixdeathbones.png">|**Bone lord 6**|3|When [creature] dies, 6 bones are rewarded instead of 1.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/onesummonbone.png">|**Bone hoarder 1**|1|When [creature] is played, 1 bone is rewarded.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/twosummonbones.png">|**Bone hoarder 2**|1|When [creature] is played, 2 bones are rewarded.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/threesummonbones.png">|**Bone hoarder 3**|2|When [creature] is played, 3 bones are rewarded.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/host.png">|**Host**|5|[creature] is the host of other creatures. It will give you such creature when struck.|Will use the ice cube parameter to define what creature it gives.<br>Default: ringworm|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/spawner.png">|**Spawner**|5|At the end of its owner's turn, [creature] will move in the direction inscribed on the sigil and will create another creature in its old space.|Will use the ice cube parameter to define what creature it spawns.<br>Default: squirrel|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/launcher.png">|**Launcher**|5|At the end of its owner's turn, [creature] will create another creature on a random empty space on the owner's side of the table.|Will use the ice cube parameter to define what creature it spawns.<br>Default: squirrel|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/shape_shifter.png">|**Shapeshifter**|5|[creature] is ever changing. It will change its form once it's struck.|Will use the ice cube parameter to define what creature it transforms into.<br>Default: amoeba|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/support_call.png">|**Support call**|3|When [creature] is played, a card from your sidedeck is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/bait.png">|**Bait**|1|When an opposing creature is played and there is no card opposite of [creature], the opposing creature will move to that spot.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/linguist.png">|**Linguist**|3|While [creature] is on the board, all talking cards on your side of the board get +1 attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/all_seeing.png">|**All seeing**|3|While [creature] is on the board, all talking cards on your side of the board get +2 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/blood_shifter.png">|**Blood shifter**|3|When [creature] kills another card, it will turn into that card.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/asleep.png">|**Asleep**|-1|[creature] has 0 attack for as long as it has this sigil, at the start of the player's turn this sigil will be removed from [creature].||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/song_of_sleep.png">|**Song of sleep**|2|If a creature moves into the space opposing [creature], that creature will obtain the asleep sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/warper.png">|**Warper**|1|At the end of its owner's turn, [creature] will move to the right, jumping over any creatures in its path, if it encounters the edge of the board, it will loop over to the other side.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/rushing_march.png">|**Rushing march**|-2|At the end of its owner's turn, [creature] will move in the direction inscribed on the sigil, however if it hits a card whilst moving, [creature] will stop and the card it hit will perish.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/wild_hunger.png">|**Wild hunger**|4|At the end of its owner's turn, [creature] will move in the direction inscribed on the sigil, however if it hits a card whilst moving, [creature] will stop, the card it hit will perish and [creature] will gain 1+/1+.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/right_scratch.png">|**Right scratch**|4|When [creature] attacks it will also attack the space on the right of the attacked slot.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/left_scratch.png">|**Left scratch**|4|When [creature] attacks it will also attack the space on the left of the attacked slot.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/double_scratch.png">|**Double scratch**|6|When [creature] attacks it attacks twice and the space right and left of the attacked slot.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/puppets_gift.png">|**Puppets gift**|2|As long as [creature] is on the board any cards with brittle won't die because of brittle.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Lily/Act1/instant.png">|**Instant**|-3|[creature] will perish immediately after its played.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Abundance.png">|**Abundance**|1|[creature] will grant one tooth per instance of Abundance when killed.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_acid.png">|**Acidic Trail**|4|At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and deal 1 damage to the opposing creature if it is able to move.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_antler.png">|**Antler Bearer**|2|When [creature] is killed, gain three random hooved tribe cards.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_agile.png">|**Agile**|1|When [creature] would be struck, it will move out of the way.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_ambush.png">|**Ambush**|3|When a creature moves into the space opposing [creature], they are dealt 1 damage.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_blight.png">|**Blight**|-5|When [creature] is sacrificed, it subtracts its stat values to the card it was sacrificed for.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_BlindingStrike.png">|**Blinding Strike**|2|When [creature] damages another creature, that creature gains the Random Strikes Sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_bloodgrowth.png">|**Blood Growth**|0|When [creature] attacks, the amount of blood it is counted as when sacrificed will increase.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_bloodguzzler.png">|**BloodGuzzler**|0|[creature] deals damage, it gains 1 Health for each damage dealt.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_bodyguard.png">|**Bodyguard**|2|[creature] will redirect the initial attack of a card to it, if the attack was targeting a card in an adjacent space.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Bombardier.png">|**Bombardier**|0|[creature] will deal 10 damage to a random creature during the end phase of the owner's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_bonepicker.png">|**Bone Picker**|1|[creature] kills a creature, it will generate 1 Bone.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Boneless.png">|**Boneless**|-2|[creature] gives no bones! Any bones gained from sigils or death will be negated.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_BoneShard.png">|**Bone Shard**|0|[creature] will generate 1 bone when hit, if it lives through the attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_crate.png">|**Box**|0|[creature] will get removed from your deck on death, and a new creature contained within will be added to it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_broken.png">|**Broken**|-2|[creature] is permanently removed from your deck if it dies.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_burning.png">|**Burning**|0|[creature] is on fire, and will gain 1 power and loose 1 health each upkeep.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_caustic.png">|**Caustic**|2|At the end of the towner's turn, [creature] will move in the direction inscribed in the sigil, and drop an acid puddle in their old space.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_coinFinder.png">|**Coin Finder**|2|At the end of the owner's turn, [creature] will grant the owner 1 foil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_consumer.png">|**Consumer**|4|When [creature] kills another creature, it gains 2 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Coward.png">|**Cowardly**|-1|[creature] will not attack a card with a power 2 higher than its own.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_DeadlyWaters.png">|**Deadly Waters**|4|[creature] will kill cards that attacked over it while it was face-down. Does not affect cards that have Airborne or Made of Stone.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_deathburst.png">|**Deathburst**|4|[creature] will deal 1 damage to each oppsing space to the left, right, and center of it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_desperation.png">|**Desperation**|0|[creature] is damaged to 1 health, it will gain 3 power.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_takeDisease.png">|**Disease Absorbtion**|-1|When played, [creature] will take all negative sigils onto itself.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Dive_Bones.png">|**Dive (Bones)**|0|Pay 2 bones to cause this card to flip face down at the end of the owner's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Dive_Energy.png">|**Dive (Energy)**|0|Pay 2 energy to cause this card to flip face down at the end of the owner's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_drawblood.png">|**Draw Blood**|3|When [creature] is played, a random card costing blood is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_drawbone.png">|**Draw Bone**|3|When [creature] is played, a random card costing bone is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_drawice.png">|**Draw Card**|3|When [creature] is played, a card relating to it's ice cube parameter (default Stoat) is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_drawjack.png">|**Draw Jackalope**|3|When [creature] is played, a Jackalope is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_DrawStrafe.png">|**Draw Strafe**|1|When [creature] moves, a random card with a movement sigil is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Dwarf.png">|**Dwarf**|0|When [creature] is drawn, it will loose one unit of cost, as well as 1 power and 2 health (can't go below 1 health). A unit is defined as: 1 blood, 3 bones, 3 energy, or all mox.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_dying.png">|**Dying**|-1|[creature] will die after X number of turns.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Electric.png">|**Electric**|4|When [creature] decalres an attack, they will deal half the damage to cards adjacent to the target.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_enforcer.png">|**Enforcer**|7|At the start of the owner's turn, [creature] will cause adjacent creatures to attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_enrage.png">|**Enrage**|-1|[creature] will empower adjacent allies, increasing their strenght by 2. However, if they perish while empowered, they are permamently removed from your deck.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_insectKiller.png">|**Entomophage**|0|[creature] will deal 2 additional damage to cards of the insect tribe.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_familair.png">|**Familiar**|1|A familiar will help with attacking when it's adjacent allies attack a card.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Firestarter.png">|**Firestarter**|2|When [creature] damages another creature, that creature will gain the Burning Sigil. The Burning Sigil is define as: Each upkeep, this creature gains 1 strength but looses 1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_fish_hook.png">|**Fish Hook**|0|When [creature], a targeted card is moved to the owner's side of the board.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Frightful.png">|**Frightful**|5|[creature] will cause opposing creatures to move out of the way when it attacks.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Giant.png">|**Giant**|4|When [creature] is drawn, it will gain one unit blood of cost, as well as one attack and two health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_grazing.png">|**Grazing**|1|At the end of the owner's turn, [creature] will regen 1 health if there is no opposing creature.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Gripper.png">|**Gripper**|4|At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil, and try to move the opposing creature with it if it can.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_haste.png">|**Haste**|4|[creature] will attack as soon as it gets played on the board if played not during combat.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Hasteful.png">|**Hasteful**|5|[creature] will attack as soon as it gets played on the board. It will not attack during normal combat. It will attack at the start of the owner's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/herd3-sigil-a2.png">|**Herd**|4|[creature] will summon a copy of itself each upkeep, up to three times.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_HighTide.png">|**High Tide**|1|While [creature] is on the board, it will grant creatures that are on the same side of the board the waterborn sigil. Does not affect cards that are Airborne.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Injured.png">|**Injured**|-1|[creature] is hurt and will lose 1 health each time it declares an attack due to the strain of the injuries.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Hourglass.png">|**Hourglass**|6|[creature] will cause the opponant to skip their turn when played.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_leech.png">|**Leech**|3|When [creature] deals damage, it will heal 1 Health for each damage dealt to a card.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_lead_bones.png">|**Lead (Bones)**|1|Pay 2 bones to move this card one slot in the direction inscribed on the sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_lead_energy.png">|**Lead (Energy)**|1|Pay 2 energy to move this card one slot in the direction inscribed on the sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_lifeStatsUp.png">|**Life Gambler**|2|At the end of the owner's turn, [creature] will deal 2 damage to the owner in exchange for a 0 to 6 increase in stats. Failing to pay this cost will result in death.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_LowTide.png">|**Low Tide**|1|While [creature] is on the board, it will negate the waterborne sigil of creatures on it's side of the board.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_fisher.png">|**Lure**|1|[creature] will cause facedown cards to become face up when attacking.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Maneuver.png">|**Maneuver**|2|At the start of the owner's turn, [creature] will strafe in the direction inscribed on the sigil if there is a creature in the opposing slot from it. Else it will strafe in the opposite direction inscribed on the sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Medic.png">|**Medic**|3|At the start of the owner's turn, [creature] will try heal 1 damage to a friendly card for each instance of Medic.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Midas.png">|**Midas**|2|[creature] kills a creature, it will generate 1 Foil for each instance of Midas the card has.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_double_attack.png">|**Multi-Strike**|0|[creature] will strike a card multiple times, if it lives through the first attack. Will not trigger -on attack- or -on damage- effects with the extra strikes.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_nutritious.png">|**Nutritious**|2|When [creature] is sacrificed, it adds 1 power and 2 health to the card it was sacrificed for.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Opportunist.png">|**Opportunist**|2|[creature] will gain 1 power for each instance of Opportunist, when the opposing slot is empty.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_paralysis.png">|**Paralysis**|-1|[creature] will only attack every other turn. Some effects from sigils may bypass this.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_pathetic.png">|**Pathetic Sacrifice**|-3|[creature] is so pathetic, it is not a worthy or noble sacrifice. [creature] is meant to stay on the board, and thus can't be targeted by the hammer.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_pierce.png">|**Pierce**|4|[creature] attacks the card in queue behind it's initial target first when declaring an attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_poisonous.png">|**Poisonous**|2|When [creature] perishes, the creature that killed it perishes as well.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_possessor.png">|**Possessor**|1|When [creature] perishes, it will grant a random friendly card that is on the board it's base power and health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Possessor_Powerful.png">|**Powerful Possessor**|3|When [creature] perishes, it will grant a random friendly card that is on the board it's base plus modified power and base plus modified health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_MovementPowerUp.png">|**Power from Movement**|1|At the start of the owner's turn, [creature] will gain 1 power and 1 health if it moved last round.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Predator.png">|**Predator**|2|[creature] will gain 1 power for each instance of Predator, when the opposing slot has a card.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Prideful.png">|**Prideful**|-1|[creature] will not attack a card with a power 2 lower than its own.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_protector.png">|**Protector**|2|[creature] will attacks on adjacent allies to hit directly.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_shove.png">|**Ram**|3|[creature] will try to ram the card infront of it when played, or every upkeep till it succeeds once. It will send the rammed target to the queue if on my side, or back to the hand if on your side. Does not work during combat.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_randomStrafe.png">|**Random Strafe**|1|[creature] is drawn, it will gain a random strafe sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Blind.png">|**Random Strike**|-1|[creature] will strike at opponent slots randomly when it attacks.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Recoil.png">|**Recoil**|-1|[creature] will take 1 damage each time they attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_regen_full.png">|**Regen**|4|At the end of the owner's turn, [creature] will regen to full health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_regen_1.png">|**Regen 1**|1|At the end of the owner's turn, [creature] will regen 1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_regen_2.png">|**Regen 2**|2|At the end of the owner's turn, [creature] will regen 2 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_regen_3.png">|**Regen 3**|3|At the end of the owner's turn, [creature] will regen 3 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_repellant.png">|**Repellant**|3|When [creature] perishes, the creature that killed it gets pushed into the back row.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Resistant.png">|**Resistant**|4|[creature] will only ever take 1 damage from most things. Some effects might bypass this.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Retaliate.png">|**Retaliate**|5|[creature] will strike those who strike their adjacent allies.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Schooling.png">|**Schooling**|2|[creature] will grant creatures with the waterborn 1 power.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_scissors.png">|**Scissors**|5|When [creature] is played, a targeted card cut in two.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_sick.png">|**Sickness**|-1|[creature] will loose 1 attack each time it declares an attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Sluggish.png">|**Sluggish**|-1|[creature] will not attack during normal combat. It will instead attack after the Opponent's cards attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_stampede.png">|**Stampede**|4|[creature] will cause adjacent creatures to attack when played on the board if played not during combat.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_StrongWind.png">|**Strong Wind**|1|If [creature] is on the board, negate the airbone sigil of all cards that are played after it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_SubmergedAmbush.png">|**Submerged Ambush**|4|[creature] will deal 1 damage to cards that attacked over it while it was face-down. Does not affect cards that are Airborne.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_TakeOff_Bones.png">|**Take-Off (Bones)**|0|Pay 2 bones to give this card Airborne till the start of owner's next turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_TakeOff_Energy.png">|**Take-Off (Energy)**|0|Pay 2 energy to give this card Airborne till the start of the owner's next turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_thickshell.png">|**Thick Shell**|1|When attacked, [creature] takes 1 less damage.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_thief.png">|**Thief**|3|[creature] will try to steal a random default sigil from an opposing creature when played, or at the start of the owner's turn until it does.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_tooth.png">|**Tooth Bargain**|0|When [creature] is played, it will put 1 point of damage of it's opponent's side of the scale. When it perishes, it will put 2 damage on the owner's side of the scale.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toothGiver.png">|**Toothpuller**|7|At the end of the owner's turn, [creature] will add one point of damage to the opponent's scale.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_ToothShard.png">|**Tooth Shard**|1|[creature] will generate 1 foil when hit, if it lives through the attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toxin.png">|**Toxin**|2|When [creature] damages another creature, that creature looses 1 power and 1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toxin_strength.png">|**Toxin (Strength)**|2|When [creature] damages another creature, that creature looses 1 power.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toxin_health.png">|**Toxin (Vigor)**|2|When [creature] damages another creature, that creature looses 1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toxin_deadly.png">|**Toxin (Deadly)**|2|When [creature] damages another creature, that creature gains the Dying Sigil. The Dying Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_toxin_sickness.png">|**Toxin (Sickening)**|2|When [creature] damages another creature, that creature gains the Sickness Sigil. The Sickness Sigil is defined as: When ever a creature bearing this sigil declares an attack, they will loose one attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_trample.png">|**Trample**|6|When [creature] deals overkill damage to a card, the overkill damage will be sent to the owner.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/ability_transient.png">|**Transient**|-1|At the end of the owner's turn, [creature] will return to your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_tribeAlly.png">|**Tribal Ally**|2|When [creature] is played, A card of the same tribe is created in your hand. No tribe counts as a tribe of tribeless.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_TribeTutor.png">|**Tribal Tutor**|1|When [creature] is played, you may search your deck for a card of the same tribe and take it into your hand. No tribe counts as a tribe of tribeless.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_TurbulentWaters.png">|**Turbulent Waters**|3|[creature] will force other creatures with waterborne to resurface and take 1 damage at the start of the owner's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Volicity.png">|**Velocity**|1|At the end of the owner's turn, [creature] will move in the direction inscribed in the sigil. If it is able to move, it will gain 1 power and 1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_vicious.png">|**Vicious**|1|When [creature] is attacked, it gains 1 power.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Withering.png">|**Withering**|-1|[creature] will perish at the end of the opponant's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Zapper.png">|**Zapper**|1|When [creature] damages another creature, that creature will gain the Paralysis Sigil. The Paralysis sigil is defined as: A card bearing this sigil will only attack every other turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Void_Merged/void_Sticky.png">|**Sticky**|4|If the card opposing [creature] moves, [creature] will try to move with it||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/activatedlatch-deathshield.png">|**Activated Latch Nano Shield**|0|When activated for a cost of 1 energy / 2 bones will allow the owner to give a creature Nano Shield.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/activatedlatch-brittle.png">|**Activated Latch Brittle**|0|When activated for a cost of 1 energy will allow the owner to give a creature Brittle.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/activatedlatch-explodeondeath.png">|**Activated Latch Explode On Death**|0|When activated for a cost of 1 energy will allow the owner to give a creature Explode On Death.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/acticatedlatch-Reach.png">|**Activated Latch Reach**|0|When activated for a cost of 2 energy will allow the owner to give a creature Reach.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/docile.png">|**Docile**|0|At the Start of its owner's turn [creature] will lose -1 attack and will gain +1 health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/TransformChick_Sigil.png">|**Transform Chicken (Loose Cannon)**|0|[creature] will transform a random creature on the board into a Chicken. A Chicken is defined as 1 Attack, 1 Health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/TransformChick_Sigil.png">|**Transform Chicken (Enemy Only)**|0|[creature] will transform a random creature on the board on the opponent's side into a Chicken. A Chicken is defined as 1 Attack, 1 Health.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/eatchicken.png">|**To The Slaughter**|0|At the end of each turn [creature] will eat a random Chicken gaining the same amount of attack as the eaten chicken's health, and gaining the same amount of health as the eaten chicken's attack.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/Anthony/chicken.png">|**Chicken**|0|[creature] counts as a Chicken.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/mount.png">|**Mount**|2|Cards may be played on top of [creature]. If they are their sigils and stats will be combined, and a name combination will be created.|When a creature is placed on top of a card bearing this sigil, the mount sigil will be removed from it.|
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/parasite.png">|**Parasite**|2|[creature] may be placed on top of any card. If it is their sigils and stats will be combined, and a name combination will be created.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/hermit.png">|**Hermit**|1|[creature] may be placed on any terrain card. If it is their sigils and stats will be combined, and a name combination will be created.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/draw_energy.png">|**Draw Energy**|3|When [creature] is played, a random card costing energy is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/draw_mox.png">|**Draw Mox**|3|When [creature] is played, a random card costing mox is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/draw_cost.png">|**Draw Cost**|4|When [creature] is played, a random card that has the same cost type as [creature] is created in your hand.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/hyped.png">|**Hyped**|0|[creature] will attack at the start of the owner's turn in addition to during normal combat.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/resourceful.png">|**Resourceful**|3|When [creature] is sacrificed, instead of dying, it loses a random sigil. Resourceful will only remove itself when there are no other sigils on the card.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/hoodini.png">|**Hoodini**|1|When [creature] is played, it will swap places with the opposing creature.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/inaccurate.png">|**Inaccurate**|0|[creature] will strike a random one of the opposing spaces to the left and right of the spaces across from it as well as the space in front of it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/drunk.png">|**Drunk**|0|[creature] will strike a random one of the opposing spaces to the left and right of the space across from it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/underdog.png">|**Underdog**|-1|[creature] can only be played when you are losing.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/homing.png">|**Homing**|2|If the opposing slot is empty, and there is a creature in a neighbouring lane, [creature] will attack that creature instead of attacking the opposing slot.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/lullaby.png">|**Lullaby**|2|When [creature] dies, all opposing creatures gain the asleep sigil.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/nurse.png">|**Nurse**|2|At the end of the opponent's turn, [creature] will heal any adjacent friendly cards.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/medical_aid.png">|**Medical Aid**|2|At the end of the opponent's turn, choose a hurt creature on the owner's side to heal for 1.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/sympathetic.png">|**Sympathetic**|-2|[creature] will only attack if the opposing creature has more or equal health to it.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/shielded.png">|**Shielded**|3|When [creature] is dealt damage, the damage dealt is halved, rounded down.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/frightened.png">|**Frightened**|-1|When a creature moves into the space opposing [creature], [creature] will move away from that card to a random free adjacent spot, while prioritizing slots without any opposing creatures.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/terrified.png">|**Terrified**|0|When a creature moves into the space opposing [creature], [creature] will move away from that card to a random free adjacent spot while pushing any creatures in it's way, while prioritizing slots without any opposing creatures.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/alternating_scratch.png">|**Alternating Scratch**|4|When [creature] attacks it will also attack a space adjacent to the attacked slot, the adjacent slot that it will attack will change between left or right at the end of each opponent's turn.||
+|<img align="center" src="https://raw.githubusercontent.com/Memez4Life7/AllTheSigils/master/Artwork/ATS/Act1/choreo_right.png">|**Choreography**|0|On activation [creature] will cycle through: don't move, move left and move right. At the end of the owner's turn [creature] will move in the chosen way.||
 
 ___
 # Life Cost API
@@ -925,7 +906,7 @@ ___
 |MagmaGlowAppearance|Gives cards the emission glow of MagmaAppearance without the burnt card background. Used for terrain cards and such.|
 
 ___
-## Bitty's Reigions
+## Bitty's Regions
 
 |Name|Tier|Main Tribes|Encounters|
 |:-:|:-|:-|:-|
@@ -1023,3 +1004,113 @@ ___
 |zepht.inscryption.ZephtPvZ|PlantDefend|
 |zepht.inscryption.ZephtPvZ|PlantSupport|
 |zepht.inscryption.ZephtPvZ|PlantBomb|
+
+___
+# Nevernameds Sigilarium
+
+Head Here: https://github.com/Nevernamed22/NevernamedsSigils/wiki
+
+___
+# Abnormal Sigils
+
+## Sigils
+
+|GUID|NAME|MODULAR|STACKABLE|POWERLEVEL|DESCRIPTION|
+|-|-|-|-|-|-|
+|whistlewind.inscryption.abnormalsigils|Punisher			|X	|X	|4	|When a card bearing this sigil is struck, the striker is killed.|
+|whistlewind.inscryption.abnormalsigils|Bloodfiend			|✓	|✓	|3	|When this card deals damage, it gains 1 Health.|
+|whistlewind.inscryption.abnormalsigils|Martyr				|✓	|✓	|1	|When a card bearing this sigil dies, all allied creatures gain 2 Health.|
+|whistlewind.inscryption.abnormalsigils|Aggravating		|X	|✓	|-3	|While this card is on the board, all opposing creatures gain 1 Power.|
+|whistlewind.inscryption.abnormalsigils|Team Leader		|X	|✓	|5	|While this card is on the board, all allied creatures gain 1 Power.|
+|whistlewind.inscryption.abnormalsigils|Idol				|X	|✓	|5	|While this card is on the board, all opposing creatures lose 1 Power.|
+|whistlewind.inscryption.abnormalsigils|Conductor			|X	|X	|3	|Affected cards gain Power equal to half this card's Power. Over the next 3 turns: affect adjacent -> allied -> all other cards and double the Power gained.|
+|whistlewind.inscryption.abnormalsigils|Woodcutter			|X	|X	|4	|When a creature moves into the space opposite this card, they take damage equal to this card's Power.|
+|whistlewind.inscryption.abnormalsigils|Frozen Heart		|X	|X	|-1	|When a card bearing this sigil dies, the killer gains 2 Health.|
+|whistlewind.inscryption.abnormalsigils|Ruler of Frost		|X	|X	|4	|Once per turn, pay 3 Bones to choose a space on the board. If the space is occupied by a killable card, transform it into a Frozen Heart. Otherwise create a Block of Ice.|
+|whistlewind.inscryption.abnormalsigils|Roots				|✓	|X	|3	|When this card is played, create Thorny Vines on adjacent empty spaces. A Thorny Vines is defined as: 0 Power, 1 Health, Sharp Quills.|
+|whistlewind.inscryption.abnormalsigils|Broodmother		|X	|X	|3	|When a card bearing this sigil is struck, create a Spiderling in your hand. A spiderling is defined as: 0 Power, 1 Health, Fledgling.|
+|whistlewind.inscryption.abnormalsigils|Cursed				|✓	|X	|0	|When a card bearing this sigil dies, the killer transforms into a copy of this card.|
+|whistlewind.inscryption.abnormalsigils|Healer				|X	|X	|2	|At the end of the owner's turn, they will choose one of their cards to heal by 2 Health.|
+|whistlewind.inscryption.abnormalsigils|Queen Nest			|X	|X	|4	|Whenever another card dies, create a Worker Bee in your hand. A Worker Bee is defined as: 1 Power, 1 Health.|
+|whistlewind.inscryption.abnormalsigils|Bitter Enemies		|✓	|✓	|1	|This card gains 1 Power for each other card on the board that also bears this sigil.|
+|whistlewind.inscryption.abnormalsigils|Courageous			|X	|X	|3	|Creatures adjacent to this card lose up to 2 Health. For each point of Heath lost, the affected creature gains 1 Power. This effect cannot kill cards.|
+|whistlewind.inscryption.abnormalsigils|Serpent's Nest		|✓	|X	|2	|When a card bearing this sigil is struck, the striker gains 1 Worms.|
+|whistlewind.inscryption.abnormalsigils|Assimilator		|X	|✓	|4	|When this card kills an opposing card, it gains 1 Power and 1 Health.|
+|whistlewind.inscryption.abnormalsigils|Group Healer		|X	|X	|4	|At the start of its owner's turn, this card will heal all allies that have taken damage by 1 Health.|
+|whistlewind.inscryption.abnormalsigils|Reflector			|✓	|X	|2	|When this card is struck, the striker is dealt damage equal to the striker's Power.|
+|whistlewind.inscryption.abnormalsigils|Flag Bearer		|X	|✓	|3	|While this card is on the board, adjacent creatures gain 2 Health.|
+|whistlewind.inscryption.abnormalsigils|Grinder			|X	|X	|3	|This card gains the stats of the creatures sacrificed to play it.|
+|whistlewind.inscryption.abnormalsigils|The Train			|X	|X	|5	|Three turns after this card is played, kill all creatures on the board. Creatures killed this way do not drop bones.|
+|whistlewind.inscryption.abnormalsigils|Scorching			|✓	|✓	|2	|The creature opposing this card takes 1 damage at the end of its owner's turn.|
+|whistlewind.inscryption.abnormalsigils|Regenerator		|✓	|✓	|3	|At the start of its owner's turn, this card heals adjacent cards by 1 Health.|
+|whistlewind.inscryption.abnormalsigils|Volatile			|X	|X	|0	|When this card dies, adjacent and opposing cards are dealt 10 damage.|
+|whistlewind.inscryption.abnormalsigils|Gift Giver			|X	|X	|3	|When a card bearing this sigil is played, create a random card in your hand.|
+|whistlewind.inscryption.abnormalsigils|Piercing			|✓	|X	|2	|Damage dealt by this card cannot be negated or reduced by sigils such as Armoured or Thick Skin. Deal 1 overkill damage when attacking a card.|
+|whistlewind.inscryption.abnormalsigils|Scrambler			|X	|X	|3	|When a card bearing this sigil is sacrificed, give its stats to the sacrificing card then scramble its new stats. Works with Spells.|
+|whistlewind.inscryption.abnormalsigils|Gardener			|X	|X	|4	|When an allied card is killed, create a Sapling in their place. A Sapling is defined as: 0 Power, 2 Health, Bone Digger.|
+|whistlewind.inscryption.abnormalsigils|Made of Slime		|X	|X	|4	|At the start of the owner's turn, this card transforms adjacent creatures with more than 1 Health into Slimes. A Slime is defined as: 1 Power, X - 1 Health, Made of Slime.|
+|whistlewind.inscryption.abnormalsigils|Protector			|X	|✓	|3	|Creatures adjacent to this card take 1 less damage when struck.|
+|whistlewind.inscryption.abnormalsigils|Alchemist			|X	|X	|3	|Pay 2 Energy to discard your current hand and draw cards equal to the amount you discarded.
+|whistlewind.inscryption.abnormalsigils|Nettle Clothes		|X	|X	|5	|When this card is played, fill all empty spaces on the owner's side of the board with random Brothers. This card gains sigils based on allied Brothers.|
+|whistlewind.inscryption.abnormalsigils|Sporogenic			|✓	|X	|2	|"Creatures adjacent to this card gain 1 Spores at the end of its owner's turn. This sigil activates before other sigils.|
+|whistlewind.inscryption.abnormalsigils|Witness			|X	|X	|1	|Pay 2 Bones to increase the selected creature's Health by 2 and their taken damage by 1. This effect stacks up to 3 times.|
+|whistlewind.inscryption.abnormalsigils|Corrector			|✓	|X	|2	|When a card bearing this sigil is drawn, randomly change its stats according to its play cost. Higher costs yields higher stat totals.|
+|whistlewind.inscryption.abnormalsigils|Thick Skin			|✓	|✓	|2	|Whenever a card bearing this sigil takes damage, reduce that damage by 1.|
+|whistlewind.inscryption.abnormalsigils|Opportunistic		|✓	|✓	|2	|A card bearing this sigil deals 1 additional damage to opposing cards that cannot attack this card during their own turn.|
+|whistlewind.inscryption.abnormalsigils|Persistent			|✓	|X	|2	|Attacks by this card cannot be avoided, redirected, or prevented by sigils like Repulsive or Waterborne. Deal 1 additional damage to cards bearing these sigils.|
+|whistlewind.inscryption.abnormalsigils|Copycat			|X	|X	|2	|This gains the sigils and stats of the first card to be played in the opposing space.|
+|whistlewind.inscryption.abnormalsigils|Neutered			|X	|X	|-3	|A card bearing this sigil has its Power reduced to 0. At the start of the owner's turn, remove this sigil.|
+|whistlewind.inscryption.abnormalsigils|Neutered Latch		|X	|X	|4	|Once per turn, pay [sigilcost:2 Bones] to choose a creature to gain the Neutered sigil, then increase this sigil's activation cost by 2 Bones.|
+|whistlewind.inscryption.abnormalsigils|Rightful Heir		|X	|X	|3	|Once per turn, pay [sigilcost:3 Bones] to transform a chosen creature into a Pumpkin, then increase this sigil's activation cost by 1 Bone until battle's end. A Pumpkin is defined as: 0 Power, 2 Health, Fledgling.|
+|whistlewind.inscryption.abnormalsigils|Greedy Healing		|✓	|X	|3	|At the end of its owner's turn, this card gains 2 Health. If 2 turns pass without this card taking damage, it will die.|
+|whistlewind.inscryption.abnormalsigils|False Throne		|X	|X	|4	|Once per turn, pay 2 Health to give Neutered to a chosen creature, then create a free, unaltered copy of it in your hand.|
+|whistlewind.inscryption.abnormalsigils|Return to Nihil	|X	|X	|5	|At the end of the owner's turn, deal damage to all other cards on the board equal to this card's Power.|
+|whistlewind.inscryption.abnormalsigils|Follow the Leader	|X	|X	|2	|At the end of its owner's turn, this card moves in the sigil's direction, looping around the owner's side of the board. Allied creatures towards this card in the sigil's direction as far as possible.|
+|whistlewind.inscryption.abnormalsigils|Barreler			|✓	|X	|1	|At the end of the owner's turn, this card moves in the sigil's direction to the end of the board, moving any cards in the way.|
+|whistlewind.inscryption.abnormalsigils|Cycler				|✓	|X	|1	|At the end of the owner's turn, this card moves in the sigil's direction, looping around the owner's side of the board.|
+
+## Tribes
+
+|GUID|NAME|
+|-|-|
+|whistlewind.inscryption.abnormalsigils|Anthropoid|
+|whistlewind.inscryption.abnormalsigils|Botanic|
+|whistlewind.inscryption.abnormalsigils|Divine|
+|whistlewind.inscryption.abnormalsigils|Fae|
+|whistlewind.inscryption.abnormalsigils|Mechanial|
+
+## Traits
+
+|GUID|NAME|DESCRIPTION|
+|-|-|-|
+|whistlewind.inscryption.abnormalsigils|Boneless|This card will not drop bones when killed|
+|whistlewind.inscryption.abnormalsigils|SwanBrother|This card will give its first sigil to cards bearing Nettle Clothes|
+|whistlewind.inscryption.abnormalsigils|NakedSerpent|This card is immune to Sporogenic ability|
+|whistlewind.inscryption.abnormalsigils|SporeFriend|This card is immune to Serpent Nest ability|
+|whistlewind.inscryption.abnormalsigils|ImmunetoInstaDeath|This card is immune to insta-kill abilities Touch of Death and Punisher|
+
+## Meta Categories
+
+|GUID|NAME|DESCRIPTION|
+|-|-|-|
+|whistlewind.inscryption.abnormalsigils|CannotGiveSigils|This card cannot be sacrificed for card merging|
+|whistlewind.inscryption.abnormalsigils|CannotGainSigils|This card cannot be a host for card merging|
+|whistlewind.inscryption.abnormalsigils|CannotBoostStats|This card cannot be used at the campfire|
+|whistlewind.inscryption.abnormalsigils|CannotCopyCard|This card cannot be painted by Goobert|
+
+## Appearance Behaviors
+
+|GUID|NAME|DESCRIPTION|
+|-|-|-|
+|whistlewind.inscryption.abnormalsigils|AlternateBattlePortrait|This card will switch to its alternate portrait during card battles (works in Act 2 if an alternate pixel portrait exists)|
+|whistlewind.inscryption.abnormalsigils|ForcedEmission|This card's emission is always on|
+|whistlewind.inscryption.abnormalsigils|ForcedWhiteEmission|This card's emission is always on and lit using white light|
+
+## Status Effects
+
+This mod uses a custom type of abilities known as status effects. These are special abilities that use a dummy ability's icon to display and keep track of the status's count. This mod has 2 status effects: Worms and Spores (see below), and cards will show up to 5 at a time, based on their priority and count.
+
+This system is highly obtuse and experimental so changes in how they work are near-guaranteed to happen in the future; I don't recommend creating them yourself at this juncture, but if you want to you can use the StatusEffect() method to create one.
+
+* Worms - At the start of the owner's turn, this card gains 1 Worms. At 5+ Worms, attack allied creatures instead with a chance to give 1 Worms to struck cards.
+* Spores - At the start of its owner's turn, this card takes damage equal to its Spores. Upon dying, create a Spore Mold Creature with stats equal to its Spores.
