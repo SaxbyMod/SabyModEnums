@@ -14,7 +14,7 @@ ___
 
 ___
 ## Meta Categories
-|Value | Description |
+|Value|Description|
 |-|-|
 | ChoiceNode | Defines the card to be a choice option |
 | GBCPack | Can be acquired by buying a card pack in act 2 |
