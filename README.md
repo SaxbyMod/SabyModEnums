@@ -14,6 +14,7 @@ ___
 
 ___
 ## Meta Categories
+
 |Value|Description|
 |-|-|
 | ChoiceNode | Defines the card to be a choice option |
@@ -33,6 +34,7 @@ ___
 
 ___
 ## Power Levels
+
 | Event | Power Levels | Info |
 | - | - | - |
 | Cave Trial | 0-5 | If you want your sigil to appear on the Cave Trial rewards |
@@ -43,6 +45,7 @@ ___
 
 ___
 ## Complexity
+
 |Value | Description |
 |-|-|
 | Vanilla | Will always be a learned card |
@@ -51,6 +54,7 @@ ___
 | Advanced | Will only be unlocked after tutorial |
 ___
 ## Temple
+
 |Value | Description |
 |-|-|
 | Nature | Will show up in act 1 and be in Beast card packs |
@@ -59,6 +63,7 @@ ___
 | Wizard | Will show up in Wizard card packs                |
 ___
 ## GemType
+
 |Value |
 |-|
 |Blue  |
@@ -66,6 +71,7 @@ ___
 |Orange|
 ___
 ## SpecialIcon
+
 |Value | Description |
 |-|-|
 |Ants | Displays the Ants icon for the cards attack                           |
@@ -76,6 +82,7 @@ ___
 |Mirror | Displays the Mirror icon for the cards attack                       |
 ___
 ## Tribe
+
 |Value |
 |-|
 | Bird     |
@@ -86,6 +93,7 @@ ___
 | Squirrel |
 ___
 ## Trait
+
 |Value | Description |
 |-|-|
 |Ant | Will increase the attack of cards with the Ant special ability                                                                                                                            |
@@ -111,6 +119,7 @@ ___
 |Wolf | Unused                                                                                                                                                                                   |
 ___
 ## SpecialAbilities
+
 |Value | Description |
 |-|-|
 |Ant | Increases cards attack by 1 for each card with ant trait on the board                                                                                                                               |
@@ -139,6 +148,7 @@ ___
 |TrapSpawner | Creates a Steel Trap in its place after it perishes.                                                                                                                                       |
 ___
 ## Abilities
+
 |Value | Description |                              
 |-|-|                                               
 |ActivatedDealDamage | When activated for 1 energy, deals 1 damage to opposing card                  |
@@ -271,6 +281,7 @@ ___
 
 ___
 ## Regions
+
 | Region | Description |
 | - | - |
 | Alpine | This is The Trappers Region |
@@ -724,6 +735,7 @@ ___
 
 ___
 ## Max Mod
+
 |GUID|NAME|DESCRIPTION|
 |-|-|-|
 creator.max|Gain Five Batteries|When a card bearing this sigil is played, the owner gains five Max Energy.
@@ -741,8 +753,10 @@ creator.max|Lose Two Batteries|When a card bearing this sigil is played, the own
 
 ___
 # Too Many Sigils
+
 ___
 ## Too Many Sigils Sigils
+
 |GUID|NAME|DESCRIPTION|
 |-|-|-|
 |GUID|Name|Description|
