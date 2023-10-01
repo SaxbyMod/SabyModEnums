@@ -5,7 +5,7 @@ Stoat: Almost all sections
 
 Bitty: Bitty's Sigils and Regions
 
-~~Amy: NN'S Sigilarium~~
+Amy: NN'S Sigilarium
 
 Whistlewind: Abnormal Sigils Section
 
