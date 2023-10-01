@@ -1,4 +1,5 @@
-___
+---
+
 # Credits Section
 
 Stoat: Almost all sections
