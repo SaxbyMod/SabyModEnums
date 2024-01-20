@@ -674,141 +674,38 @@ bitty45.inscryption.sigils
 
 GUID is "tribes.libary"
 
-|     GUID      | Name          | Cards |
-| :-----------: | :------------ | :---- |
-| tribes.libary | abomination   | 0     |
-| tribes.libary | amalgram      | 0     |
-| tribes.libary | amphibian     | 0     |
-| tribes.libary | android       | 0     |
-| tribes.libary | aqua          | 0     |
-| tribes.libary | beast         | 0     |
-| tribes.libary | beastwarrior  | 0     |
-| tribes.libary | blaster       | 0     |
-| tribes.libary | block         | 0     |
-| tribes.libary | blooper       | 0     |
-| tribes.libary | bomb-omb      | 0     |
-| tribes.libary | boneless      | 0     |
-| tribes.libary | boo           | 0     |
-| tribes.libary | cells         | 0     |
-| tribes.libary | ceromorph     | 0     |
-| tribes.libary | cheep_cheep   | 0     |
-| tribes.libary | chess         | 0     |
-| tribes.libary | cloud         | 0     |
-| tribes.libary | conduits      | 0     |
-| tribes.libary | construct     | 0     |
-| tribes.libary | corpse        | 0     |
-| tribes.libary | crusher       | 0     |
-| tribes.libary | cryptid       | 0     |
-| tribes.libary | cyberse       | 0     |
-| tribes.libary | dinosaur      | 0     |
-| tribes.libary | divinebeast   | 0     |
-| tribes.libary | dragon        | 0     |
-| tribes.libary | ebird         | 0     |
-| tribes.libary | ecanine       | 0     |
-| tribes.libary | egg           | 0     |
-| tribes.libary | ehooved       | 0     |
-| tribes.libary | einsect       | 0     |
-| tribes.libary | electricity   | 0     |
-| tribes.libary | ereptile      | 0     |
-| tribes.libary | esquirrel     | 0     |
-| tribes.libary | everything    | 0     |
-| tribes.libary | fairy         | 0     |
-| tribes.libary | feline        | 0     |
-| tribes.libary | fiend         | 0     |
-| tribes.libary | fish          | 0     |
-| tribes.libary | fleshy        | 0     |
-| tribes.libary | foe           | 0     |
-| tribes.libary | friend        | 0     |
-| tribes.libary | frozen        | 0     |
-| tribes.libary | fungus        | 0     |
-| tribes.libary | gamer         | 0     |
-| tribes.libary | gargoyle      | 0     |
-| tribes.libary | gems          | 0     |
-| tribes.libary | ghoul         | 0     |
-| tribes.libary | giant         | 0     |
-| tribes.libary | goo           | 0     |
-| tribes.libary | goomba        | 0     |
-| tribes.libary | guardian      | 0     |
-| tribes.libary | hand          | 0     |
-| tribes.libary | haunted       | 0     |
-| tribes.libary | hellion       | 0     |
-| tribes.libary | horror        | 0     |
-| tribes.libary | hound         | 0     |
-| tribes.libary | humanoid      | 0     |
-| tribes.libary | ice           | 0     |
-| tribes.libary | instrument    | 0     |
-| tribes.libary | itembox       | 0     |
-| tribes.libary | kithkin       | 0     |
-| tribes.libary | koopa         | 0     |
-| tribes.libary | lich          | 0     |
-| tribes.libary | machine       | 0     |
-| tribes.libary | malware       | 0     |
-| tribes.libary | mbird         | 0     |
-| tribes.libary | mcanine       | 0     |
-| tribes.libary | mhooved       | 0     |
-| tribes.libary | minsect       | 0     |
-| tribes.libary | moon          | 0     |
-| tribes.libary | mox           | 0     |
-| tribes.libary | mreptile      | 0     |
-| tribes.libary | mskeleton     | 0     |
-| tribes.libary | msquirrel     | 0     |
-| tribes.libary | mullusk       | 0     |
-| tribes.libary | nature        | 0     |
-| tribes.libary | necron        | 0     |
-| tribes.libary | nightmare     | 0     |
-| tribes.libary | noble         | 0     |
-| tribes.libary | occultist     | 0     |
-| tribes.libary | ooze          | 0     |
-| tribes.libary | organ         | 0     |
-| tribes.libary | piranha_plant | 0     |
-| tribes.libary | planet        | 0     |
-| tribes.libary | plant         | 0     |
-| tribes.libary | platform      | 0     |
-| tribes.libary | pokemon       | 0     |
-| tribes.libary | pokey         | 0     |
-| tribes.libary | possessed     | 0     |
-| tribes.libary | power_up      | 0     |
-| tribes.libary | psychic       | 0     |
-| tribes.libary | pyro          | 0     |
-| tribes.libary | robot         | 0     |
-| tribes.libary | rock          | 0     |
-| tribes.libary | rodent        | 0     |
-| tribes.libary | scarecrow     | 0     |
-| tribes.libary | scholar       | 0     |
-| tribes.libary | seaserpent    | 0     |
-| tribes.libary | security      | 0     |
-| tribes.libary | shade         | 0     |
-| tribes.libary | shapeless     | 0     |
-| tribes.libary | shapeshifter  | 0     |
-| tribes.libary | shroob        | 0     |
-| tribes.libary | shy_guy       | 0     |
-| tribes.libary | skeletal      | 0     |
-| tribes.libary | slasher       | 0     |
-| tribes.libary | snake         | 0     |
-| tribes.libary | specter       | 0     |
-| tribes.libary | spectral      | 0     |
-| tribes.libary | spellcaster   | 0     |
-| tribes.libary | spike         | 0     |
-| tribes.libary | spirit        | 0     |
-| tribes.libary | star          | 0     |
-| tribes.libary | stone         | 0     |
-| tribes.libary | tentacle      | 0     |
-| tribes.libary | thrull        | 0     |
-| tribes.libary | thunder       | 0     |
-| tribes.libary | tiny          | 0     |
-| tribes.libary | treasure      | 0     |
-| tribes.libary | trees         | 0     |
-| tribes.libary | unicellular   | 0     |
-| tribes.libary | utillity      | 0     |
-| tribes.libary | vampire       | 0     |
-| tribes.libary | vessel        | 0     |
-| tribes.libary | virus         | 0     |
-| tribes.libary | warrior       | 0     |
-| tribes.libary | werewolf      | 0     |
-| tribes.libary | wingedbeast   | 0     |
-| tribes.libary | wurm          | 0     |
-| tribes.libary | wyrm          | 0     |
-| tribes.libary | zombie        | 0     |
+|GUID|Name|Cards|
+|:-:|:-|:-|
+|tribes.libary|abomination|0|
+|tribes.libary|amphibian|0|
+|tribes.libary|android|0|
+|tribes.libary|cells|0|
+|tribes.libary|chess|0|
+|tribes.libary|cryptid|0|
+|tribes.libary|fairy|0|
+|tribes.libary|feline|0|
+|tribes.libary|fish|0|
+|tribes.libary|fungus|0|
+|tribes.libary|gems|0|
+|tribes.libary|guardian|0|
+|tribes.libary|hellion|0|
+|tribes.libary|horror|0|
+|tribes.libary|humanoid|0|
+|tribes.libary|lich|0|
+|tribes.libary|machine|0|
+|tribes.libary|mullusk|0|
+|tribes.libary|mythical|0|
+|tribes.libary|nightmare|0|
+|tribes.libary|object|0|
+|tribes.libary|planet|0|
+|tribes.libary|plant|0|
+|tribes.libary|possessed|0|
+|tribes.libary|rodent|0|
+|tribes.libary|shapeless|0|
+|tribes.libary|shapeshifter|0|
+|tribes.libary|stone|0|
+|tribes.libary|wingedbeast|0|
+|tribes.libary|zombie|0|
 
 ---
 
