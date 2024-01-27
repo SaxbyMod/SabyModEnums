@@ -12,6 +12,8 @@ Whistlewind: Abnormal Sigils Section
 
 VoidSlime, Lily & Anthony: All the Sigils (Art: https://docs.google.com/document/d/1e2LQD6_JKarEfCn7G3ujQlQDEO2motQSgWDm7Oy6Lpk/edit)
 
+Switch to (Card Names Page[https://saxbymod.github.io/SabyModEnums/CardNames]
+
 ---
 
 # Vanilla
