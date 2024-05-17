@@ -12,7 +12,7 @@ Whistlewind: Abnormal Sigils Section
 
 VoidSlime, Lily & Anthony: All the Sigils  [Art Stuff](https://docs.google.com/document/d/1e2LQD6_JKarEfCn7G3ujQlQDEO2motQSgWDm7Oy6Lpk/edit)
 
-Switch to [Card Names Page](https://saxbymod.github.io/SabyModEnums/CardNames)
+Switch to [Card Names Page](https://github.com/SaxbyMod/SabyModEnums/wiki/Card-Names-Wiki)
 
 ---
 
@@ -682,11 +682,14 @@ GUID is "tribes.libary"
 |tribes.libary|amphibian|0|
 |tribes.libary|android|0|
 |tribes.libary|cells|0|
+|tribes.libary|ceremorph|0|
 |tribes.libary|chess|0|
+|tribes.libary|conduits|0|
 |tribes.libary|cryptid|0|
 |tribes.libary|fairy|0|
 |tribes.libary|feline|0|
 |tribes.libary|fish|0|
+|tribes.libary|fleshy|0|
 |tribes.libary|fungus|0|
 |tribes.libary|gems|0|
 |tribes.libary|guardian|0|
@@ -703,11 +706,15 @@ GUID is "tribes.libary"
 |tribes.libary|plant|0|
 |tribes.libary|possessed|0|
 |tribes.libary|rodent|0|
+|tribes.libary|scholar|0|
+|tribes.libary|security|0|
 |tribes.libary|shapeless|0|
 |tribes.libary|shapeshifter|0|
+|tribes.libary|skeletal|0|
+|tribes.libary|spectral|0|
 |tribes.libary|stone|0|
+|tribes.libary|utility|0|
 |tribes.libary|wingedbeast|0|
-|tribes.libary|zombie|0|
 
 ---
 
